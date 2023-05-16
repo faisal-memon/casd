@@ -2,8 +2,7 @@ Teacher = Joli Gordon
 Grade = 1  
 ID = Joli Gordon-1-Group 1  
 Students =  [Surii C  Zekey A  Ayla E  Mason A  Luca J]  
-Art Rankings: A7 A5 A16 A9
-Science Rankings: S16 S4 S19 S10
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -18,8 +17,7 @@ Teacher = Joli Gordon
 Grade = 1  
 ID = Joli Gordon-1-Group 2  
 Students =  [Loenardo Z  Matteo B  Thara K  Hana H  Annika N  Daniel V]  
-Art Rankings: A11 A13 A4 A4
-Science Rankings: S4 S13 S13 S21
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -34,8 +32,7 @@ Teacher = Joli Gordon
 Grade = 1  
 ID = Joli Gordon-1-Group 3  
 Students =  [Owen B  Tobin M  Taylor B  Thomas W  Gia S]  
-Art Rankings: A8 A8 A1 A8
-Science Rankings: S2 S9 S1 S4
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -50,8 +47,7 @@ Teacher = Joli Gordon
 Grade = 1  
 ID = Joli Gordon-1-Group 4  
 Students =  [Anya Z  Ellion L  Eddie B  Senan D  Daska P  Ethan M]  
-Art Rankings: A9 A18 A10 A4
-Science Rankings: S17 S11 S18 S2
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -66,8 +62,7 @@ Teacher = Kristi Otsuki
 Grade = 1  
 ID = Kristi Otsuki-1-Group 1  
 Students =  [Jack Strohl  Miles Sezak  Takeo Malong  Amelia Tran  Kate Skomoroch]  
-Art Rankings: A17 A10 A6 A9
-Science Rankings: S1 S1 S8 S7
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -82,8 +77,7 @@ Teacher = Kristi Otsuki
 Grade = 1  
 ID = Kristi Otsuki-1-Group 2  
 Students =  [Josie Dobson  Ja'Nyah Johnson  Maizie Rosen  Milton Donald  Gael Ouye]  
-Art Rankings: A7 A5 A6 A17
-Science Rankings: S21 S7 S1 S1
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -98,8 +92,7 @@ Teacher = Kristi Otsuki
 Grade = 1  
 ID = Kristi Otsuki-1-Group 3  
 Students =  [Mason Tachiki  Aurora Buenviaje  Rishin Bhatia  Flora Twardos  Riley O'Rourke]  
-Art Rankings: A7 A4 A4 A14
-Science Rankings: S7 S19 S21 S20
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -114,8 +107,7 @@ Teacher = Kristi Otsuki
 Grade = 1  
 ID = Kristi Otsuki-1-Group 4  
 Students =  [Olivia Dans  Ren Hawkins  Ta'ziyah Tuimavave  Evertt Dolph  Mika Pfalzer]  
-Art Rankings: A8 A14 A8 A14
-Science Rankings: S7 S2 S13 S13
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -130,8 +122,7 @@ Teacher = Mr. Fonseca
 Grade = 1  
 ID = Mr. Fonseca-1-Group 1  
 Students =  [Leo M  Ollie H  Matthew S  Joni R  Ava M  Shyam S]  
-Art Rankings: A3 A13 A15 A5
-Science Rankings: S5 S6 S4 S7
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -146,8 +137,7 @@ Teacher = Mr. Fonseca
 Grade = 1  
 ID = Mr. Fonseca-1-Group 2  
 Students =  [Earl F  Yuki A-L  Grace Mc  Colin M  Josiah J]  
-Art Rankings: A11 A18 A18 A12
-Science Rankings: S20 S6 S15 S4
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -162,8 +152,7 @@ Teacher = Mr. Fonseca
 Grade = 1  
 ID = Mr. Fonseca-1-Group 3  
 Students =  [Maddox B  Kennedy T  Kai J  Marni M  Ione Y]  
-Art Rankings: A4 A16 A14 A12
-Science Rankings: S9 S11 S12 S21
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -178,8 +167,7 @@ Teacher = Mr. Fonseca
 Grade = 1  
 ID = Mr. Fonseca-1-Group 4  
 Students =  [Juya M  Docket S  Rebecca C  Jancy J  Mika F]  
-Art Rankings: A7 A1 A6 A8
-Science Rankings: S12 S7 S7 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -193,8 +181,7 @@ Teacher = Sam Sambrone
 Grade = 1  
 ID = Sam Sambrone-1-Group 1  
 Students =  [Maren  Townes  Shivani  Niko  Lucas]  
-Art Rankings: A13 A13 A12 A13
-Science Rankings: S17 S8 S4 S9
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -209,8 +196,7 @@ Teacher = Sam Sambrone
 Grade = 1  
 ID = Sam Sambrone-1-Group 2  
 Students =  [Gretchen  Nadav  Shreya  Beneal  Zack]  
-Art Rankings: A13 A7 A14 A8
-Science Rankings: S21 S4 S13 S20
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -225,8 +211,7 @@ Teacher = Sam Sambrone
 Grade = 1  
 ID = Sam Sambrone-1-Group 3  
 Students =  [Nora  Adam  Sophie  Seva  Amani  Jackson]  
-Art Rankings: A2 A16 A6 A6
-Science Rankings: S6 S17 S2 S21
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -240,8 +225,7 @@ Teacher = Sam Sambrone
 Grade = 1  
 ID = Sam Sambrone-1-Group 4  
 Students =  [Penny  Thaze  Jaclyn  Lorenzo  Lillian  Jakoby]  
-Art Rankings: A5 A6 A17 A14
-Science Rankings: S3 S13 S8 S8
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -256,8 +240,7 @@ Teacher = Debbie Rauchwerger
 Grade = 2  
 ID = Debbie Rauchwerger-2-Group 1  
 Students =  [Emile Greenhouse  Christy Kong  Samuel Larson  Madelene Hu  Sebastian Arbuthnot]  
-Art Rankings: A17 A13 A16 A9
-Science Rankings: S6 S7 S12 S6
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -272,8 +255,7 @@ Teacher = Debbie Rauchwerger
 Grade = 2  
 ID = Debbie Rauchwerger-2-Group 2  
 Students =  [Shea Folan  Lucy Cervarich  Dash Copley  Ethan Pearlmutter  Jared Zhou  Liam Mar]  
-Art Rankings: A1 A5 A18 A1
-Science Rankings: S3 S8 S5 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -288,8 +270,7 @@ Teacher = Debbie Rauchwerger
 Grade = 2  
 ID = Debbie Rauchwerger-2-Group 3  
 Students =  [Sigal Weston  Keinnor Robleto  Taj Hutton  Sadie Shispinski  Joshua Sassouni-Wagnon]  
-Art Rankings: A17 A11 A7 A18
-Science Rankings: S10 S1 S1 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -304,8 +285,7 @@ Teacher = Debbie Rauchwerger
 Grade = 2  
 ID = Debbie Rauchwerger-2-Group 4  
 Students =  [Zoby Liu  Kevin Diaz  Alexis Boshernitsan  Serafina Sharkey  Ethan Corcuchia  Aiden Costello]  
-Art Rankings: A11 A5 A15 A2
-Science Rankings: S14 S15 S14 S19
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -320,8 +300,7 @@ Teacher = Gale Nakasone
 Grade = 2  
 ID = Gale Nakasone-2-Group 1  
 Students =  [Asha T  Ellie T  Violet W  Asher M-T  Jonah G]  
-Art Rankings: A4 A4 A5 A10
-Science Rankings: S4 S8 S4 S15
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -335,8 +314,7 @@ Teacher = Gale Nakasone
 Grade = 2  
 ID = Gale Nakasone-2-Group 2  
 Students =  [Brynner C  Charlotte S  Nicholas V  Evangelina M  Kane F]  
-Art Rankings: A13 A17 A12 A8
-Science Rankings: S21 S6 S14 S8
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -351,8 +329,7 @@ Teacher = Gale Nakasone
 Grade = 2  
 ID = Gale Nakasone-2-Group 3  
 Students =  [Caoimhe D  Elise R  Milo B  Emil Q  Faizan J  Sylvie H]  
-Art Rankings: A6 A1 A1 A14
-Science Rankings: S11 S18 S14 S6
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -366,8 +343,7 @@ Teacher = Gale Nakasone
 Grade = 2  
 ID = Gale Nakasone-2-Group 4  
 Students =  [David K  Ellie M  Paxson Y-S  Hana S  Kaito K-K  Winter C]  
-Art Rankings: A14 A15 A9 A10
-Science Rankings: S19 S7 S6 S19
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -382,8 +358,7 @@ Teacher = Minika Lowe ( Ms. Lowe)
 Grade = 2  
 ID = Minika Lowe ( Ms. Lowe)-2-Group 1  
 Students =  [Siena D  Sasha F  Kai G  Adele M  Finn N  Maya T]  
-Art Rankings: A6 A14 A15 A7
-Science Rankings: S17 S21 S12 S14
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -398,8 +373,7 @@ Teacher = Minika Lowe (Ms. Lowe)
 Grade = 2  
 ID = Minika Lowe (Ms. Lowe)-2-Group 2  
 Students =  [Izzy D  Diego F  Cecilia K  Jackson M  Marley M  Quincy T]  
-Art Rankings: A16 A17 A8 A2
-Science Rankings: S3 S7 S19 S20
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -414,8 +388,7 @@ Teacher = Minika Lowe (Ms. Lowe)
 Grade = 2  
 ID = Minika Lowe (Ms. Lowe)-2-Group 3  
 Students =  [Amelia F  Giulia M  Ethan G  Abdiel R  Callie M  Erika Y]  
-Art Rankings: A4 A6 A15 A7
-Science Rankings: S14 S20 S14 S1
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -430,8 +403,7 @@ Teacher = Minika Lowe (Ms. Lowe)
 Grade = 2  
 ID = Minika Lowe (Ms. Lowe)-2-Group 4  
 Students =  [Emerson H  Sabina K  Miyu M  Eren T  Sei W]  
-Art Rankings: A6 A5 A18 A18
-Science Rankings: S10 S1 S19 S17
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -446,8 +418,7 @@ Teacher = Susie L
 Grade = 2  
 ID = Susie L-2-Group 1  
 Students =  [Aaron L  Kaden M  Angie A  Theo A  Sharvi R]  
-Art Rankings: A10 A15 A5 A5
-Science Rankings: S7 S19 S3 S9
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -462,8 +433,7 @@ Teacher = Susie L
 Grade = 2  
 ID = Susie L-2-Group 2  
 Students =  [Jasper  Julianna D  Efrata T  Isaac B  Paul O  Ryo E]  
-Art Rankings: A10 A9 A15 A1
-Science Rankings: S19 S4 S11 S3
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -478,8 +448,7 @@ Teacher = Susie L
 Grade = 2  
 ID = Susie L-2-Group 3  
 Students =  [Hazel S  James S  Nicholas L  Jacob B  Juliana E]  
-Art Rankings: A3 A18 A17 A18
-Science Rankings: S12 S20 S7 S17
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -493,8 +462,7 @@ Teacher = Susie L
 Grade = 2  
 ID = Susie L-2-Group 4  
 Students =  [Santiago S  Mirae O  Enapay F  Finnoula M  Cullen M]  
-Art Rankings: A18 A5 A13 A3
-Science Rankings: S14 S15 S7 S10
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -509,8 +477,7 @@ Teacher = Allison de Wit
 Grade = 3  
 ID = Allison de Wit-3-Group 1  
 Students =  [Oscar A  Emilio B  Leo V  Yannai M  Kody G  Trey H]  
-Art Rankings: A15 A5 A3 A1
-Science Rankings: S10 S1 S12 S9
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -525,8 +492,7 @@ Teacher = Allison de Wit
 Grade = 3  
 ID = Allison de Wit-3-Group 2  
 Students =  [Devin K  Yeonkyung C  Kevin Z  Isabella M  Emerson S  Finn S]  
-Art Rankings: A1 A12 A6 A2
-Science Rankings: S8 S2 S7 S5
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -541,8 +507,7 @@ Teacher = Allison de Wit
 Grade = 3  
 ID = Allison de Wit-3-Group 3  
 Students =  [Cara H  Madeline L  Sarina P  Alina L  Ziv M]  
-Art Rankings: A18 A15 A9 A12
-Science Rankings: S6 S1 S10 S12
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -557,8 +522,7 @@ Teacher = Allison de Wit
 Grade = 3  
 ID = Allison de Wit-3-Group 4  
 Students =  [Natalia J  Oakely B  Henry F  Braulio B  Jayvyn Z]  
-Art Rankings: A5 A14 A1 A13
-Science Rankings: S9 S18 S20 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -572,8 +536,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 1  
 Students =  [Emily Shispinski  Angelina Valentini  Lucia Cornelius  Owen Robertson  Jack Larsen]  
-Art Rankings: A11 A1 A3 A3
-Science Rankings: S12 S21 S8 S13
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -588,8 +551,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 2  
 Students =  [Claire Young  Eva Sinyaver  Forrest Ulfig  Sebastian Gomes  Nick Warnery]  
-Art Rankings: A10 A7 A16 A2
-Science Rankings: S14 S11 S2 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -604,8 +566,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 3  
 Students =  [Elda Tesfai  Emma Li  Aidan Baird  Darragh McLaughlin  August Iribarne]  
-Art Rankings: A14 A16 A12 A3
-Science Rankings: S21 S8 S11 S20
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -620,8 +581,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 4  
 Students =  [Lucia Greenhouse  Eve Axelrod  Lisandro Santos  Jayvon Padilla  Silas Shaw]  
-Art Rankings: A17 A14 A18 A4
-Science Rankings: S7 S14 S9 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -636,8 +596,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 5  
 Students =  [Claire Algazi  Tawan S-Murphy  Catherine Chin  Eamon Matthew  Max Power]  
-Art Rankings: A5 A17 A3 A9
-Science Rankings: S10 S19 S8 S3
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -652,8 +611,7 @@ Teacher = Amber Lewis-Francis
 Grade = 5  
 ID = Amber Lewis-Francis-5-Group 6  
 Students =  [Hyunjae Oh  Evan Wu  Logan Williams  Mason Williams  Avi Meron]  
-Art Rankings: A2 A18 A4 A17
-Science Rankings: S9 S4 S13 S4
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -668,8 +626,7 @@ Teacher = Kumiko Nagata
 Grade = 5  
 ID = Kumiko Nagata-5-Group 1  
 Students =  [Mickey Ferraro  Megan Leung  Nami Wolfus  Fred Davis  Nicky Higa  Diya Sharma]  
-Art Rankings: A6 A14 A15 A6
-Science Rankings: S13 S16 S21 S5
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -684,8 +641,7 @@ Teacher = Kumiko Nagata
 Grade = 5  
 ID = Kumiko Nagata-5-Group 2  
 Students =  [Zoe Freeman  Lina Salamon  Kai Tanimoto  Parker Nash  Diego Arce  Gen Iwahashi]  
-Art Rankings: A13 A15 A6 A4
-Science Rankings: S10 S5 S4 S6
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -700,8 +656,7 @@ Teacher = Kumiko Nagata
 Grade = 5  
 ID = Kumiko Nagata-5-Group 3  
 Students =  [Aesha Gluck  Eva Tonella  Dash Hill  Luna Le Stum  Oisin Donovan]  
-Art Rankings: A9 A15 A17 A7
-Science Rankings: S1 S7 S15 S7
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -716,8 +671,7 @@ Teacher = Kumiko Nagata
 Grade = 5  
 ID = Kumiko Nagata-5-Group 4  
 Students =  [Kai McCabe  Azra Bashir  Lucio Guiulfo  Kaira Okamoto  Stephanie Lin  Ella Steer]  
-Art Rankings: A10 A17 A12 A18
-Science Rankings: S21 S6 S4 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -731,8 +685,7 @@ Teacher = Kumiko Nagata
 Grade = 5  
 ID = Kumiko Nagata-5-Group 5  
 Students =  [Mason Weir  Christopher Hoyos  Christopher Hsu  Maxston Popov  Jacqueline Lisker]  
-Art Rankings: A1 A7 A9 A1
-Science Rankings: S11 S12 S16 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -747,8 +700,7 @@ Teacher = mrs. e
 Grade = 5  
 ID = mrs. e -5-Group 1  
 Students =  [Keira Gerstley  Simon Rudoff  Marley Hammons  Anju Manfred  Jin Vanholder]  
-Art Rankings: A2 A9 A8 A15
-Science Rankings: S1 S19 S14 S18
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -763,8 +715,7 @@ Teacher = Mrs. E.
 Grade = 5  
 ID = Mrs. E.-5-Group 2  
 Students =  [Nalin Pradhan  Fabian Waschbuesch  Reina Yee  Alex Hypes  Kristy Xu]  
-Art Rankings: A11 A5 A12 A15
-Science Rankings: S20 S9 S10 S3
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -779,8 +730,7 @@ Teacher = Mrs. E.
 Grade = 5  
 ID = Mrs. E.-5-Group 3  
 Students =  [Ma'at Clark  Kai Tabas  Natalie Moran  Raine Chuang  Storie Jones  Finn O'Connor]  
-Art Rankings: A17 A6 A9 A10
-Science Rankings: S9 S2 S1 S6
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -795,8 +745,7 @@ Teacher = Mrs. E.
 Grade = 5  
 ID = Mrs. E.-5-Group 4  
 Students =  [Aidan Jew  Yuki Wolfus  Tea Stock  Kanoe Palmer  Lucas Masuda]  
-Art Rankings: A2 A9 A4 A13
-Science Rankings: S14 S14 S6 S5
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -811,8 +760,7 @@ Teacher = Mrs. E.
 Grade = 5  
 ID = Mrs. E.-5-Group 5  
 Students =  [Siena Bianchi  Mayumi Takeda  Gen Butler  Colin Tam  Austin Blaylock]  
-Art Rankings: A18 A2 A1 A13
-Science Rankings: S14 S8 S4 S10
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -827,8 +775,7 @@ Teacher = Mrs. E.
 Grade = 5  
 ID = Mrs. E.-5-Group 6  
 Students =  [Miyu Hongo  Emily Taylor  Canter Stanford  Troy Hegwood  Jackson Fukutome]  
-Art Rankings: A11 A15 A18 A8
-Science Rankings: S4 S7 S3 S2
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -843,8 +790,7 @@ Teacher = Olivia Pope
 Grade = 5  
 ID = Olivia Pope-5-Group 1  
 Students =  [Ali G.  Grace A.  Grace K.  Avery G.  Griffin G-S.  Bradley C.]  
-Art Rankings: A10 A18 A18 A5
-Science Rankings: S17 S18 S21 S21
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -858,8 +804,7 @@ Teacher = Olivia Pope
 Grade = 5  
 ID = Olivia Pope-5-Group 2  
 Students =  [Jimena C.  Fanni M.  Vienne.  Dietrich W.  Jonty S.  Sami E.]  
-Art Rankings: A16 A3 A16 A17
-Science Rankings: S16 S16 S9 S1
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -874,8 +819,7 @@ Teacher = Olivia Pope
 Grade = 5  
 ID = Olivia Pope-5-Group 3  
 Students =  [Dyan A.  Caeden H.  Royce M.  Nora P.  Noa S-C.  Riya R.]  
-Art Rankings: A10 A8 A6 A8
-Science Rankings: S16 S7 S5 S14
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -890,8 +834,7 @@ Teacher = Olivia Pope
 Grade = 5  
 ID = Olivia Pope-5-Group 4  
 Students =  [Michael M.  Jaleah F-W.  Thavas A.  Julian A.  Nahom T.  Druv P.]  
-Art Rankings: A2 A15 A8 A2
-Science Rankings: S2 S5 S17 S11
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -906,8 +849,7 @@ Teacher = Olivia Pope
 Grade = 5  
 ID = Olivia Pope-5-Group 5  
 Students =  [Korynna L.  Jack B.  Sebastian M.  Kalena G.  Golda A.  Sasha D.]  
-Art Rankings: A17 A9 A8 A2
-Science Rankings: S7 S12 S7 S16
+
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |

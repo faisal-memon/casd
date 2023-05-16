@@ -190,7 +190,7 @@ func printGroups(groups []group) {
 		fmt.Printf("Grade = %d  \n", group.grade)
 		fmt.Printf("ID = %s-%d-%s  \n", group.teacher, group.grade, group.name)
 		fmt.Printf("Students =  %v  \n", group.students)
-		fmt.Printf("Art Rankings:")
+		/*fmt.Printf("Art Rankings:")
 		for _, ranking := range group.artIDs {
 			fmt.Printf(" %s", ranking)
 		}
@@ -198,7 +198,7 @@ func printGroups(groups []group) {
 		fmt.Printf("Science Rankings:")
 		for _, ranking := range group.sciIDs {
 			fmt.Printf(" %s", ranking)
-		}
+		}*/
 		fmt.Println("")
 		fmt.Println("Schedule")
 		fmt.Println("| ID | Class | Room |")
