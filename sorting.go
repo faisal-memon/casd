@@ -40,26 +40,12 @@ func main() {
 	for _, group := range groups {
 		sessionsToBook := 2
 		for _, id := range group.artIDs {
-			workshop := artWorkshops[id]
-			if !workshop.withinGradeRange(group.grade) {
-				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
-				continue
-			}
-			if group.isEnrolledInWorkshop(id) {
-				log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
-				continue
-			}
-			sessions := workshop.getAvailableSessions(len(group.students))
-			for _, session := range sessions {
-				if group.workshops[session] == nil {
-					workshop.takeSession(session, len(group.students))
-					group.workshops[session] = workshop
-					sessionsToBook--
+			booked := bookWorkshopIfAvailable(artWorkshops[id], group)
+			if booked {
+				sessionsToBook--
+				if sessionsToBook == 0 {
 					break
 				}
-			}
-			if sessionsToBook == 0 {
-				break
 			}
 		}
 
@@ -413,4 +399,28 @@ func getRankings(rankings []string, kind int) []string {
 	}
 
 	return ids
+}
+
+func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
+	if !workshop.withinGradeRange(group.grade) {
+		log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+		return false
+	}
+	if group.isEnrolledInWorkshop(workshop.id) {
+		log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+		return false
+	}
+	sessions := workshop.getAvailableSessions(len(group.students))
+	for _, session := range sessions {
+		if group.workshops[session] == nil {
+			workshop.takeSession(session, len(group.students))
+			group.workshops[session] = workshop
+
+			return true
+		}
+	}
+
+	log.Printf("Unable to book session, its full. workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+
+	return false
 }
