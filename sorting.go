@@ -41,6 +41,10 @@ func main() {
 		sessionsToBook := 2
 		for _, id := range group.artIDs {
 			workshop := artWorkshops[id]
+			if !workshop.withinGradeRange(group.grade) {
+				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
+				continue
+			}
 			sessions := workshop.getAvailableSessions(len(group.students))
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
@@ -48,7 +52,6 @@ func main() {
 					group.workshops[session] = workshop
 					sessionsToBook--
 					break
-
 				}
 			}
 			if sessionsToBook == 0 {
@@ -67,7 +70,11 @@ func main() {
 		for _, id := range group.sciIDs {
 			workshop, ok := sciWorkshops[id]
 			if !ok {
-				fmt.Printf("ID %s not found\n", id)
+				log.Printf("ID %s not found teacher=%s group=%s\n", id, group.teacher, group.name)
+				continue
+			}
+			if !workshop.withinGradeRange(group.grade) {
+				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
 				continue
 			}
 			sessions := workshop.getAvailableSessions(len(group.students))
@@ -77,7 +84,6 @@ func main() {
 					group.workshops[session] = workshop
 					sessionsToBook--
 					break
-
 				}
 			}
 			if sessionsToBook == 0 {
@@ -93,12 +99,35 @@ func main() {
 		}
 	}
 
+	// Assign random sessions if needed
 	for _, group := range needsRandomArt {
-		fmt.Printf("NEEDS Random Art %s\n", group.name)
+		log.Printf("NEEDS Random Art %s %s\n", group.teacher, group.name)
+		/*found := false
+		for _, workshop := range artWorkshops {
+			if !workshop.withinGradeRange(group.grade) {
+				continue
+			}
+			sessions := workshop.getAvailableSessions(len(group.students))
+			for _, session := range sessions {
+				if group.workshops[session] == nil {
+					workshop.takeSession(session, len(group.students))
+					group.workshops[session] = workshop
+					found = true
+					break
+
+				}
+			}
+			if found {
+				break
+			}
+		}
+		if !found {
+			fmt.Println("Still not found for %s %s", group.teacher, group.name)
+		}*/
 	}
 
 	for _, group := range needsRandomSci {
-		fmt.Printf("NEEDS Random Sci %s\n", group.name)
+		log.Printf("NEEDS Random Sci %s\n", group.name)
 	}
 
 	printGroups(groups)
@@ -161,16 +190,16 @@ func printGroups(groups []group) {
 		fmt.Printf("Grade = %d  \n", group.grade)
 		fmt.Printf("ID = %s-%d-%s  \n", group.teacher, group.grade, group.name)
 		fmt.Printf("Students =  %v  \n", group.students)
-		/*fmt.Printf("Art Rankings:")
+		fmt.Printf("Art Rankings:")
 		for _, ranking := range group.artIDs {
-			fmt.Printf(" A%d", ranking+1)
+			fmt.Printf(" %s", ranking)
 		}
 		fmt.Println("")
 		fmt.Printf("Science Rankings:")
 		for _, ranking := range group.sciIDs {
-			fmt.Printf(" S%d", ranking+1)
+			fmt.Printf(" %s", ranking)
 		}
-		fmt.Println("")*/
+		fmt.Println("")
 		fmt.Println("Schedule")
 		fmt.Println("| ID | Class | Room |")
 		fmt.Println("| -- | ----- | ---- |")
@@ -202,6 +231,14 @@ func (w workshop) getAvailableSessions(numStudents int) []int {
 	}
 
 	return availableSessions
+}
+
+func (w workshop) withinGradeRange(grade int) bool {
+	if w.minGrade <= grade && grade <= w.maxGrade {
+		return true
+	}
+
+	return false
 }
 
 func (w workshop) takeSession(session, numStudents int) {

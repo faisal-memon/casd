@@ -1,59 +1,59 @@
-Teacher Name,Room Number,Grade,Group number,Names of students in this group (first and last),Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,presenter kids
-Joli Gordon,103,1,Group 1,"Surii C, Zekey A, Ayla E, Mason A, Luca J",16,6,7,6,2,3,8,7,0
-Joli Gordon,103,1,Group 2,"Loenardo Z, Matteo B, Thara K, Hana H, Annika N, Daniel V",7,11,1,17,19,18,19,6,0
-Joli Gordon,103,1,Group 3,"Owen B, Tobin M, Taylor B, Thomas W, Gia S",14,4,11,9,21,1,13,14,0
-Joli Gordon,103,1,Group 4,"Anya Z, Ellion L, Eddie B, Senan D, Daska P, Ethan M",13,4,12,7,7,21,12,12,0
-Kristi Otsuki,109,1,Group 1,"Jack Strohl, Miles Sezak, Takeo Malong, Amelia Tran, Kate Skomoroch",11,7,15,6,4,1,15,15,0
-Kristi Otsuki,109,1,Group 2,"Josie Dobson, Ja'Nyah Johnson, Maizie Rosen, Milton Donald, Gael Ouye",10,15,5,10,9,17,14,9,0
-Kristi Otsuki,109,1,Group 3,"Mason Tachiki, Aurora Buenviaje, Rishin Bhatia, Flora Twardos, Riley O'Rourke",12,17,14,10,18,16,3,18,0
-Kristi Otsuki,109,1,Group 4,"Olivia Dans, Ren Hawkins, Ta'ziyah Tuimavave, Evertt Dolph, Mika Pfalzer",12,2,18,12,21,18,4,9,0
-Mr. Fonseca,105,1,Group 1,"Leo M, Ollie H, Matthew S, Joni R, Ava M, Shyam S",10,5,2,12,11,9,2,15,0
-Mr. Fonseca,105,1,Group 2,"Earl F, Yuki A-L, Grace Mc, Colin M, Josiah J",12,4,11,14,3,3,5,2,0
-Mr. Fonseca,105,1,Group 3,"Maddox B, Kennedy T, Kai J, Marni M, Ione Y",18,9,3,8,8,7,20,9,0
-Mr. Fonseca,105,1,Group 4,"Juya M, Docket S, Rebecca C, Jancy J, Mika F",14,5,5,11,20,14,16,18,0
-Sam Sambrone,102,1,Group 1,"Maren, Townes, Shivani, Niko, Lucas",5,6,2,18,20,19,21,9,S9
-Sam Sambrone,102,1,Group 2,"Gretchen, Nadav, Shreya, Beneal, Zack",11,9,2,5,15,17,2,7,0
-Sam Sambrone,102,1,Group 3,"Nora, Adam, Sophie, Seva, Amani, Jackson",9,17,12,5,19,6,6,9,0
-Sam Sambrone,102,1,Group 4,"Penny, Thaze, Jaclyn, Lorenzo, Lillian, Jakoby",2,13,11,1,3,15,18,8,0
-Debbie Rauchwerger,118,2,Group 1,"Emile Greenhouse, Christy Kong, Samuel Larson, Madelene Hu, Sebastian Arbuthnot",7,15,8,5,21,7,18,12,S7
-Debbie Rauchwerger,118,2,Group 2,"Shea Folan, Lucy Cervarich, Dash Copley, Ethan Pearlmutter, Jared Zhou, Liam Mar",3,18,10,5,3,8,1,11,S10
-Debbie Rauchwerger,118,2,Group 3,"Sigal Weston, Keinnor Robleto, Taj Hutton, Sadie Shispinski, Joshua Sassouni-Wagnon",6,11,4,9,16,3,3,1,0
-Debbie Rauchwerger,118,2,Group 4,"Zoby Liu, Kevin Diaz, Alexis Boshernitsan, Serafina Sharkey, Ethan Corcuchia, Aiden Costello",4,1,7,15,8,17,7,7,0
-Gale Nakasone,107,2,Group 1,"Asha T, Ellie T, Violet W, Asher M-T, Jonah G",2,10,15,9,10,15,9,13,0
-Gale Nakasone,107,2,Group 2,"Brynner C, Charlotte S, Nicholas V, Evangelina M, Kane F",12,12,14,3,7,19,20,21,S21
-Gale Nakasone,107,2,Group 3,"Caoimhe D, Elise R, Milo B, Emil Q, Faizan J, Sylvie H",17,7,3,10,17,20,17,12,0
-Gale Nakasone,107,2,Group 4,"David K, Ellie M, Paxson Y-S, Hana S, Kaito K-K, Winter C",1,15,13,18,20,2,5,9,S16
-Minika Lowe ( Ms. Lowe),120,2,Group 1,"Siena D, Sasha F, Kai G, Adele M, Finn N, Maya T",2,10,2,2,21,14,8,16,0
-Minika Lowe (Ms. Lowe),120,2,Group 2,"Izzy D, Diego F, Cecilia K, Jackson M, Marley M, Quincy T",18,15,18,2,21,16,18,13,0
-Minika Lowe (Ms. Lowe),120,2,Group 3,"Amelia F, Giulia M, Ethan G, Abdiel R, Callie M, Erika Y",1,13,14,1,20,8,4,11,0
-Minika Lowe (Ms. Lowe),120,2,Group 4,"Emerson H, Sabina K, Miyu M, Eren T, Sei W",7,9,13,9,19,5,10,2,0
-Susie L,122,2,Group 1,"Aaron L, Kaden M, Angie A, Theo A, Sharvi R",8,7,4,4,21,13,15,14,S11
-Susie L,122,2,Group 2,"Jasper, Julianna D, Efrata T, Isaac B, Paul O, Ryo E",9,10,11,2,12,2,12,6,0
-Susie L,122,2,Group 3,"Hazel S, James S, Nicholas L, Jacob B, Juliana E",18,16,11,12,15,19,4,18,S15
-Susie L,122,2,Group 4,"Santiago S, Mirae O, Enapay F, Finnoula M, Cullen M",4,2,15,3,17,18,15,6,0
-Allison de Wit,119,3,Group 1,"Oscar A, Emilio B, Leo V, Yannai M, Kody G, Trey H",14,18,8,7,10,8,4,19,
-Allison de Wit,119,3,Group 2,"Devin K, Yeonkyung C, Kevin Z, Isabella M, Emerson S, Finn S",1,2,9,5,11,17,18,8,0
-Allison de Wit,119,3,Group 3,"Cara H, Madeline L, Sarina P, Alina L, Ziv M",2,5,12,6,18,9,14,20,0
-Allison de Wit,119,3,Group 4,"Natalia J, Oakely B, Henry F, Braulio B, Jayvyn Z",6,8,12,4,12,11,2,19,0
-Amber Lewis-Francis,205,5,Group 1,"Emily Shispinski, Angelina Valentini, Lucia Cornelius, Owen Robertson, Jack Larsen",7,7,5,10,6,2,8,10,0
-Amber Lewis-Francis,205,5,Group 2,"Claire Young, Eva Sinyaver, Forrest Ulfig, Sebastian Gomes, Nick Warnery",3,6,7,13,5,19,9,5,0
-Amber Lewis-Francis,205,5,Group 3,"Elda Tesfai, Emma Li, Aidan Baird, Darragh McLaughlin, August Iribarne",8,16,14,9,15,9,10,17,0
-Amber Lewis-Francis,205,5,Group 4,"Lucia Greenhouse, Eve Axelrod, Lisandro Santos, Jayvon Padilla, Silas Shaw",16,11,16,6,7,16,19,11,S7 S9
-Amber Lewis-Francis,205,5,Group 5,"Claire Algazi, Tawan S-Murphy, Catherine Chin, Eamon Matthew, Max Power",3,18,6,4,16,19,21,1,0
-Amber Lewis-Francis,205,5,Group 6,"Hyunjae Oh, Evan Wu, Logan Williams, Mason Williams, Avi Meron",8,7,9,11,6,3,14,9,0
-Kumiko Nagata,203,5,Group 1,"Mickey Ferraro, Megan Leung, Nami Wolfus, Fred Davis, Nicky Higa, Diya Sharma",6,10,1,13,7,1,9,10,0
-Kumiko Nagata,203,5,Group 2,"Zoe Freeman, Lina Salamon, Kai Tanimoto, Parker Nash, Diego Arce, Gen Iwahashi",1,6,13,11,13,6,19,8,A6
-Kumiko Nagata,203,5,Group 3,"Aesha Gluck, Eva Tonella, Dash Hill, Luna Le Stum, Oisin Donovan",14,10,11,14,2,15,20,15,0
-Kumiko Nagata,203,5,Group 4,"Kai McCabe, Azra Bashir, Lucio Guiulfo, Kaira Okamoto, Stephanie Lin, Ella Steer",12,10,2,5,19,11,8,8,A11
-Kumiko Nagata,203,5,Group 5,"Mason Weir, Christopher Hoyos, Christopher Hsu, Maxston Popov, Jacqueline Lisker",2,4,3,15,7,9,4,4,0
-mrs. e ,206,5,Group 1,"Keira Gerstley, Simon Rudoff, Marley Hammons, Anju Manfred, Jin Vanholder",8,15,13,4,15,19,16,11,0
-Mrs. E.,206,5,Group 2,"Nalin Pradhan, Fabian Waschbuesch, Reina Yee, Alex Hypes, Kristy Xu",1,1,16,7,16,8,14,19,A6
-Mrs. E.,206,5,Group 3,"Ma'at Clark, Kai Tabas, Natalie Moran, Raine Chuang, Storie Jones, Finn O'Connor",16,6,9,5,1,2,4,17,S2 A6
-Mrs. E.,206,5,Group 4,"Aidan Jew, Yuki Wolfus, Tea Stock, Kanoe Palmer, Lucas Masuda",10,2,7,14,1,15,9,18,0
-Mrs. E.,206,5,Group 5,"Siena Bianchi, Mayumi Takeda, Gen Butler, Colin Tam, Austin Blaylock",13,16,6,3,17,2,2,13,A6
-Mrs. E.,206,5,Group 6,"Miyu Hongo, Emily Taylor, Canter Stanford, Troy Hegwood, Jackson Fukutome",9,6,18,14,10,18,18,18,S17
-Olivia Pope,214,5,Group 1,"Ali G., Grace A., Grace K., Avery G., Griffin G-S., Bradley C.",5,15,13,18,2,16,18,10,0
-Olivia Pope,214,5,Group 2,"Jimena C., Fanni M., Vienne., Dietrich W., Jonty S., Sami E.",15,9,9,5,5,19,16,12,0
-Olivia Pope,214,5,Group 3,"Dyan A., Caeden H., Royce M., Nora P., Noa S-C., Riya R.",16,2,5,2,7,19,9,11,S18
-Olivia Pope,214,5,Group 4,"Michael M., Jaleah F-W., Thavas A., Julian A., Nahom T., Druv P.",10,4,9,9,15,10,2,2,0
-Olivia Pope,214,5,Group 5,"Korynna L., Jack B., Sebastian M., Kalena G., Golda A., Sasha D.",17,11,13,6,8,10,18,19,0
+﻿Teacher Name,Room Number,Grade,Group number,Names of students in this group (first and last),Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,presenter kids
+Joli Gordon,103,1,Group 1,"Surii C, Zekey A, Ayla E, Mason A, Luca J",7,5,16,9,16,4,19,10,0
+Joli Gordon,103,1,Group 2,"Loenardo Z, Matteo B, Thara K, Hana H, Annika N, Daniel V",11,13,4,4,4,13,13,21,0
+Joli Gordon,103,1,Group 3,"Owen B, Tobin M, Taylor B, Thomas W, Gia S",8,8,1,8,2,9,1,4,0
+Joli Gordon,103,1,Group 4,"Anya Z, Ellion L, Eddie B, Senan D, Daska P, Ethan M",9,18,10,4,17,11,18,2,0
+Kristi Otsuki,109,1,Group 1,"Jack Strohl, Miles Sezak, Takeo Malong, Amelia Tran, Kate Skomoroch",17,10,6,9,1,1,8,7,0
+Kristi Otsuki,109,1,Group 2,"Josie Dobson, Ja'Nyah Johnson, Maizie Rosen, Milton Donald, Gael Ouye",7,5,6,17,21,7,1,1,0
+Kristi Otsuki,109,1,Group 3,"Mason Tachiki, Aurora Buenviaje, Rishin Bhatia, Flora Twardos, Riley O'Rourke",7,4,4,14,7,19,21,20,0
+Kristi Otsuki,109,1,Group 4,"Olivia Dans, Ren Hawkins, Ta'ziyah Tuimavave, Evertt Dolph, Mika Pfalzer",8,14,8,14,7,2,13,13,0
+Mr. Fonseca,105,1,Group 1,"Leo M, Ollie H, Matthew S, Joni R, Ava M, Shyam S",3,13,15,5,5,6,4,7,0
+Mr. Fonseca,105,1,Group 2,"Earl F, Yuki A-L, Grace Mc, Colin M, Josiah J",11,18,18,12,20,6,15,4,0
+Mr. Fonseca,105,1,Group 3,"Maddox B, Kennedy T, Kai J, Marni M, Ione Y",4,16,14,12,9,11,12,21,0
+Mr. Fonseca,105,1,Group 4,"Juya M, Docket S, Rebecca C, Jancy J, Mika F",7,1,6,8,12,7,7,18,0
+Sam Sambrone,102,1,Group 1,"Maren, Townes, Shivani, Niko, Lucas",13,13,12,13,17,8,4,9,S9
+Sam Sambrone,102,1,Group 2,"Gretchen, Nadav, Shreya, Beneal, Zack",13,7,14,8,21,4,13,20,0
+Sam Sambrone,102,1,Group 3,"Nora, Adam, Sophie, Seva, Amani, Jackson",2,16,6,6,6,17,2,21,0
+Sam Sambrone,102,1,Group 4,"Penny, Thaze, Jaclyn, Lorenzo, Lillian, Jakoby",5,6,17,14,3,13,8,8,0
+Debbie Rauchwerger,118,2,Group 1,"Emile Greenhouse, Christy Kong, Samuel Larson, Madelene Hu, Sebastian Arbuthnot",17,13,16,9,6,7,12,6,S7
+Debbie Rauchwerger,118,2,Group 2,"Shea Folan, Lucy Cervarich, Dash Copley, Ethan Pearlmutter, Jared Zhou, Liam Mar",1,5,18,1,3,8,5,18,S10
+Debbie Rauchwerger,118,2,Group 3,"Sigal Weston, Keinnor Robleto, Taj Hutton, Sadie Shispinski, Joshua Sassouni-Wagnon",17,11,7,18,10,1,1,18,0
+Debbie Rauchwerger,118,2,Group 4,"Zoby Liu, Kevin Diaz, Alexis Boshernitsan, Serafina Sharkey, Ethan Corcuchia, Aiden Costello",11,5,15,2,14,15,14,19,0
+Gale Nakasone,107,2,Group 1,"Asha T, Ellie T, Violet W, Asher M-T, Jonah G",4,4,5,10,4,8,4,15,0
+Gale Nakasone,107,2,Group 2,"Brynner C, Charlotte S, Nicholas V, Evangelina M, Kane F",13,17,12,8,21,6,14,8,S21
+Gale Nakasone,107,2,Group 3,"Caoimhe D, Elise R, Milo B, Emil Q, Faizan J, Sylvie H",6,1,1,14,11,18,14,6,0
+Gale Nakasone,107,2,Group 4,"David K, Ellie M, Paxson Y-S, Hana S, Kaito K-K, Winter C",14,15,9,10,19,7,6,19,S16
+Minika Lowe ( Ms. Lowe),120,2,Group 1,"Siena D, Sasha F, Kai G, Adele M, Finn N, Maya T",6,14,15,7,17,21,12,14,0
+Minika Lowe (Ms. Lowe),120,2,Group 2,"Izzy D, Diego F, Cecilia K, Jackson M, Marley M, Quincy T",16,17,8,2,3,7,19,20,0
+Minika Lowe (Ms. Lowe),120,2,Group 3,"Amelia F, Giulia M, Ethan G, Abdiel R, Callie M, Erika Y",4,6,15,7,14,20,14,1,0
+Minika Lowe (Ms. Lowe),120,2,Group 4,"Emerson H, Sabina K, Miyu M, Eren T, Sei W",6,5,18,18,10,1,19,17,0
+Susie L,122,2,Group 1,"Aaron L, Kaden M, Angie A, Theo A, Sharvi R",10,15,5,5,7,19,3,9,S11
+Susie L,122,2,Group 2,"Jasper, Julianna D, Efrata T, Isaac B, Paul O, Ryo E",10,9,15,1,19,4,11,3,0
+Susie L,122,2,Group 3,"Hazel S, James S, Nicholas L, Jacob B, Juliana E",3,18,17,18,12,20,7,17,S15
+Susie L,122,2,Group 4,"Santiago S, Mirae O, Enapay F, Finnoula M, Cullen M",18,5,13,3,14,15,7,10,0
+Allison de Wit,119,3,Group 1,"Oscar A, Emilio B, Leo V, Yannai M, Kody G, Trey H",15,5,3,1,10,1,12,9,
+Allison de Wit,119,3,Group 2,"Devin K, Yeonkyung C, Kevin Z, Isabella M, Emerson S, Finn S",1,12,6,2,8,2,7,5,0
+Allison de Wit,119,3,Group 3,"Cara H, Madeline L, Sarina P, Alina L, Ziv M",18,15,9,12,6,1,10,12,0
+Allison de Wit,119,3,Group 4,"Natalia J, Oakely B, Henry F, Braulio B, Jayvyn Z",5,14,1,13,9,18,20,18,0
+Amber Lewis-Francis,205,5,Group 1,"Emily Shispinski, Angelina Valentini, Lucia Cornelius, Owen Robertson, Jack Larsen",11,1,3,3,12,21,8,13,0
+Amber Lewis-Francis,205,5,Group 2,"Claire Young, Eva Sinyaver, Forrest Ulfig, Sebastian Gomes, Nick Warnery",10,7,16,2,14,11,2,18,0
+Amber Lewis-Francis,205,5,Group 3,"Elda Tesfai, Emma Li, Aidan Baird, Darragh McLaughlin, August Iribarne",14,16,12,3,21,8,11,20,0
+Amber Lewis-Francis,205,5,Group 4,"Lucia Greenhouse, Eve Axelrod, Lisandro Santos, Jayvon Padilla, Silas Shaw",17,14,18,4,7,14,9,18,S7 S9
+Amber Lewis-Francis,205,5,Group 5,"Claire Algazi, Tawan S-Murphy, Catherine Chin, Eamon Matthew, Max Power",5,17,3,9,10,19,8,3,0
+Amber Lewis-Francis,205,5,Group 6,"Hyunjae Oh, Evan Wu, Logan Williams, Mason Williams, Avi Meron",2,18,4,17,9,4,13,4,0
+Kumiko Nagata,203,5,Group 1,"Mickey Ferraro, Megan Leung, Nami Wolfus, Fred Davis, Nicky Higa, Diya Sharma",6,14,15,6,13,16,21,5,0
+Kumiko Nagata,203,5,Group 2,"Zoe Freeman, Lina Salamon, Kai Tanimoto, Parker Nash, Diego Arce, Gen Iwahashi",13,15,6,4,10,5,4,6,A6
+Kumiko Nagata,203,5,Group 3,"Aesha Gluck, Eva Tonella, Dash Hill, Luna Le Stum, Oisin Donovan",9,15,17,7,1,7,15,7,0
+Kumiko Nagata,203,5,Group 4,"Kai McCabe, Azra Bashir, Lucio Guiulfo, Kaira Okamoto, Stephanie Lin, Ella Steer",10,17,12,18,21,6,4,18,A11
+Kumiko Nagata,203,5,Group 5,"Mason Weir, Christopher Hoyos, Christopher Hsu, Maxston Popov, Jacqueline Lisker",1,7,9,1,11,12,16,18,0
+mrs. e ,206,5,Group 1,"Keira Gerstley, Simon Rudoff, Marley Hammons, Anju Manfred, Jin Vanholder",2,9,8,15,1,19,14,18,0
+Mrs. E.,206,5,Group 2,"Nalin Pradhan, Fabian Waschbuesch, Reina Yee, Alex Hypes, Kristy Xu",11,5,12,15,20,9,10,3,A6
+Mrs. E.,206,5,Group 3,"Ma'at Clark, Kai Tabas, Natalie Moran, Raine Chuang, Storie Jones, Finn O'Connor",17,6,9,10,9,2,1,6,S2 A6
+Mrs. E.,206,5,Group 4,"Aidan Jew, Yuki Wolfus, Tea Stock, Kanoe Palmer, Lucas Masuda",2,9,4,13,14,14,6,5,0
+Mrs. E.,206,5,Group 5,"Siena Bianchi, Mayumi Takeda, Gen Butler, Colin Tam, Austin Blaylock",18,2,1,13,14,8,4,10,A6
+Mrs. E.,206,5,Group 6,"Miyu Hongo, Emily Taylor, Canter Stanford, Troy Hegwood, Jackson Fukutome",11,15,18,8,4,7,3,2,S17
+Olivia Pope,214,5,Group 1,"Ali G., Grace A., Grace K., Avery G., Griffin G-S., Bradley C.",10,18,18,5,17,18,21,21,0
+Olivia Pope,214,5,Group 2,"Jimena C., Fanni M., Vienne., Dietrich W., Jonty S., Sami E.",16,3,16,17,16,16,9,1,0
+Olivia Pope,214,5,Group 3,"Dyan A., Caeden H., Royce M., Nora P., Noa S-C., Riya R.",10,8,6,8,16,7,5,14,S18
+Olivia Pope,214,5,Group 4,"Michael M., Jaleah F-W., Thavas A., Julian A., Nahom T., Druv P.",2,15,8,2,2,5,17,11,0
+Olivia Pope,214,5,Group 5,"Korynna L., Jack B., Sebastian M., Kalena G., Golda A., Sasha D.",17,9,8,2,7,12,7,16,0
