@@ -27,7 +27,7 @@ func main() {
 	if err != nil {
 		log.Fatalf("Couldn't read art workshop: %v", err)
 	}
-	printWorkshops(artWorkshops)
+	//printWorkshops(artWorkshops)
 
 	sciWorkshops, err := readWorkshop("scienceworkshops.csv", "science")
 	if err != nil {
@@ -39,7 +39,6 @@ func main() {
 	var needsRandomSci []group
 	for _, group := range groups {
 		sessionsToBook := 2
-		fmt.Println(group.teacher)
 		for _, id := range group.artIDs {
 			workshop := artWorkshops[id]
 			sessions := workshop.getAvailableSessions(len(group.students))
