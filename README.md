@@ -1,6 +1,6 @@
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 1  
+ID = Joli_Gordon-1-Group_1  
 Students =  [Surii C  Zekey A  Ayla E  Mason A  Luca J]  
 
 Schedule
@@ -15,7 +15,7 @@ Schedule
 
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 2  
+ID = Joli_Gordon-1-Group_2  
 Students =  [Loenardo Z  Matteo B  Thara K  Hana H  Annika N  Daniel V]  
 
 Schedule
@@ -30,7 +30,7 @@ Schedule
 
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 3  
+ID = Joli_Gordon-1-Group_3  
 Students =  [Owen B  Tobin M  Taylor B  Thomas W  Gia S]  
 
 Schedule
@@ -44,7 +44,7 @@ Schedule
 
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 4  
+ID = Joli_Gordon-1-Group_4  
 Students =  [Anya Z  Ellion L  Eddie B  Senan D  Daska P  Ethan M]  
 
 Schedule
@@ -59,7 +59,7 @@ Schedule
 
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 1  
+ID = Kristi_Otsuki-1-Group_1  
 Students =  [Jack Strohl  Miles Sezak  Takeo Malong  Amelia Tran  Kate Skomoroch]  
 
 Schedule
@@ -73,7 +73,7 @@ Schedule
 
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 2  
+ID = Kristi_Otsuki-1-Group_2  
 Students =  [Josie Dobson  Ja'Nyah Johnson  Maizie Rosen  Milton Donald  Gael Ouye]  
 
 Schedule
@@ -88,7 +88,7 @@ Schedule
 
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 3  
+ID = Kristi_Otsuki-1-Group_3  
 Students =  [Mason Tachiki  Aurora Buenviaje  Rishin Bhatia  Flora Twardos  Riley O'Rourke]  
 
 Schedule
@@ -103,7 +103,7 @@ Schedule
 
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 4  
+ID = Kristi_Otsuki-1-Group_4  
 Students =  [Olivia Dans  Ren Hawkins  Ta'ziyah Tuimavave  Evertt Dolph  Mika Pfalzer]  
 
 Schedule
@@ -117,7 +117,7 @@ Schedule
 
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 1  
+ID = Mr._Fonseca-1-Group_1  
 Students =  [Leo M  Ollie H  Matthew S  Joni R  Ava M  Shyam S]  
 
 Schedule
@@ -132,7 +132,7 @@ Schedule
 
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 2  
+ID = Mr._Fonseca-1-Group_2  
 Students =  [Earl F  Yuki A-L  Grace Mc  Colin M  Josiah J]  
 
 Schedule
@@ -147,7 +147,7 @@ Schedule
 
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 3  
+ID = Mr._Fonseca-1-Group_3  
 Students =  [Maddox B  Kennedy T  Kai J  Marni M  Ione Y]  
 
 Schedule
@@ -162,7 +162,7 @@ Schedule
 
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 4  
+ID = Mr._Fonseca-1-Group_4  
 Students =  [Juya M  Docket S  Rebecca C  Jancy J  Mika F]  
 
 Schedule
@@ -176,7 +176,7 @@ Schedule
 
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 1  
+ID = Sam_Sambrone-1-Group_1  
 Students =  [Maren  Townes  Shivani  Niko  Lucas]  
 
 Schedule
@@ -190,7 +190,7 @@ Schedule
 
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 2  
+ID = Sam_Sambrone-1-Group_2  
 Students =  [Gretchen  Nadav  Shreya  Beneal  Zack]  
 
 Schedule
@@ -205,7 +205,7 @@ Schedule
 
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 3  
+ID = Sam_Sambrone-1-Group_3  
 Students =  [Nora  Adam  Sophie  Seva  Amani  Jackson]  
 
 Schedule
@@ -219,7 +219,7 @@ Schedule
 
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 4  
+ID = Sam_Sambrone-1-Group_4  
 Students =  [Penny  Thaze  Jaclyn  Lorenzo  Lillian  Jakoby]  
 
 Schedule
@@ -234,7 +234,7 @@ Schedule
 
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 1  
+ID = Debbie_Rauchwerger-2-Group_1  
 Students =  [Emile Greenhouse  Christy Kong  Samuel Larson  Madelene Hu  Sebastian Arbuthnot]  
 
 Schedule
@@ -249,7 +249,7 @@ Schedule
 
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 2  
+ID = Debbie_Rauchwerger-2-Group_2  
 Students =  [Shea Folan  Lucy Cervarich  Dash Copley  Ethan Pearlmutter  Jared Zhou  Liam Mar]  
 
 Schedule
@@ -264,7 +264,7 @@ Schedule
 
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 3  
+ID = Debbie_Rauchwerger-2-Group_3  
 Students =  [Sigal Weston  Keinnor Robleto  Taj Hutton  Sadie Shispinski  Joshua Sassouni-Wagnon]  
 
 Schedule
@@ -279,7 +279,7 @@ Schedule
 
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 4  
+ID = Debbie_Rauchwerger-2-Group_4  
 Students =  [Zoby Liu  Kevin Diaz  Alexis Boshernitsan  Serafina Sharkey  Ethan Corcuchia  Aiden Costello]  
 
 Schedule
@@ -294,7 +294,7 @@ Schedule
 
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 1  
+ID = Gale_Nakasone-2-Group_1  
 Students =  [Asha T  Ellie T  Violet W  Asher M-T  Jonah G]  
 
 Schedule
@@ -308,7 +308,7 @@ Schedule
 
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 2  
+ID = Gale_Nakasone-2-Group_2  
 Students =  [Brynner C  Charlotte S  Nicholas V  Evangelina M  Kane F]  
 
 Schedule
@@ -323,7 +323,7 @@ Schedule
 
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 3  
+ID = Gale_Nakasone-2-Group_3  
 Students =  [Caoimhe D  Elise R  Milo B  Emil Q  Faizan J  Sylvie H]  
 
 Schedule
@@ -337,7 +337,7 @@ Schedule
 
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 4  
+ID = Gale_Nakasone-2-Group_4  
 Students =  [David K  Ellie M  Paxson Y-S  Hana S  Kaito K-K  Winter C]  
 
 Schedule
@@ -352,7 +352,7 @@ Schedule
 
 Teacher = Minika Lowe ( Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe ( Ms. Lowe)-2-Group 1  
+ID = Minika_Lowe_(_Ms._Lowe)-2-Group_1  
 Students =  [Siena D  Sasha F  Kai G  Adele M  Finn N  Maya T]  
 
 Schedule
@@ -367,7 +367,7 @@ Schedule
 
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 2  
+ID = Minika_Lowe_(Ms._Lowe)-2-Group_2  
 Students =  [Izzy D  Diego F  Cecilia K  Jackson M  Marley M  Quincy T]  
 
 Schedule
@@ -382,7 +382,7 @@ Schedule
 
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 3  
+ID = Minika_Lowe_(Ms._Lowe)-2-Group_3  
 Students =  [Amelia F  Giulia M  Ethan G  Abdiel R  Callie M  Erika Y]  
 
 Schedule
@@ -397,7 +397,7 @@ Schedule
 
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 4  
+ID = Minika_Lowe_(Ms._Lowe)-2-Group_4  
 Students =  [Emerson H  Sabina K  Miyu M  Eren T  Sei W]  
 
 Schedule
@@ -412,7 +412,7 @@ Schedule
 
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 1  
+ID = Susie_L-2-Group_1  
 Students =  [Aaron L  Kaden M  Angie A  Theo A  Sharvi R]  
 
 Schedule
@@ -427,7 +427,7 @@ Schedule
 
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 2  
+ID = Susie_L-2-Group_2  
 Students =  [Jasper  Julianna D  Efrata T  Isaac B  Paul O  Ryo E]  
 
 Schedule
@@ -442,7 +442,7 @@ Schedule
 
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 3  
+ID = Susie_L-2-Group_3  
 Students =  [Hazel S  James S  Nicholas L  Jacob B  Juliana E]  
 
 Schedule
@@ -456,7 +456,7 @@ Schedule
 
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 4  
+ID = Susie_L-2-Group_4  
 Students =  [Santiago S  Mirae O  Enapay F  Finnoula M  Cullen M]  
 
 Schedule
@@ -471,7 +471,7 @@ Schedule
 
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 1  
+ID = Allison_de_Wit-3-Group_1  
 Students =  [Oscar A  Emilio B  Leo V  Yannai M  Kody G  Trey H]  
 
 Schedule
@@ -486,7 +486,7 @@ Schedule
 
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 2  
+ID = Allison_de_Wit-3-Group_2  
 Students =  [Devin K  Yeonkyung C  Kevin Z  Isabella M  Emerson S  Finn S]  
 
 Schedule
@@ -501,7 +501,7 @@ Schedule
 
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 3  
+ID = Allison_de_Wit-3-Group_3  
 Students =  [Cara H  Madeline L  Sarina P  Alina L  Ziv M]  
 
 Schedule
@@ -516,7 +516,7 @@ Schedule
 
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 4  
+ID = Allison_de_Wit-3-Group_4  
 Students =  [Natalia J  Oakely B  Henry F  Braulio B  Jayvyn Z]  
 
 Schedule
@@ -530,7 +530,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 1  
+ID = Amber_Lewis-Francis-5-Group_1  
 Students =  [Emily Shispinski  Angelina Valentini  Lucia Cornelius  Owen Robertson  Jack Larsen]  
 
 Schedule
@@ -545,7 +545,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 2  
+ID = Amber_Lewis-Francis-5-Group_2  
 Students =  [Claire Young  Eva Sinyaver  Forrest Ulfig  Sebastian Gomes  Nick Warnery]  
 
 Schedule
@@ -560,7 +560,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 3  
+ID = Amber_Lewis-Francis-5-Group_3  
 Students =  [Elda Tesfai  Emma Li  Aidan Baird  Darragh McLaughlin  August Iribarne]  
 
 Schedule
@@ -575,7 +575,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 4  
+ID = Amber_Lewis-Francis-5-Group_4  
 Students =  [Lucia Greenhouse  Eve Axelrod  Lisandro Santos  Jayvon Padilla  Silas Shaw]  
 
 Schedule
@@ -590,7 +590,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 5  
+ID = Amber_Lewis-Francis-5-Group_5  
 Students =  [Claire Algazi  Tawan S-Murphy  Catherine Chin  Eamon Matthew  Max Power]  
 
 Schedule
@@ -605,7 +605,7 @@ Schedule
 
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 6  
+ID = Amber_Lewis-Francis-5-Group_6  
 Students =  [Hyunjae Oh  Evan Wu  Logan Williams  Mason Williams  Avi Meron]  
 
 Schedule
@@ -620,7 +620,7 @@ Schedule
 
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 1  
+ID = Kumiko_Nagata-5-Group_1  
 Students =  [Mickey Ferraro  Megan Leung  Nami Wolfus  Fred Davis  Nicky Higa  Diya Sharma]  
 
 Schedule
@@ -635,7 +635,7 @@ Schedule
 
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 2  
+ID = Kumiko_Nagata-5-Group_2  
 Students =  [Zoe Freeman  Lina Salamon  Kai Tanimoto  Parker Nash  Diego Arce  Gen Iwahashi]  
 
 Schedule
@@ -650,7 +650,7 @@ Schedule
 
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 3  
+ID = Kumiko_Nagata-5-Group_3  
 Students =  [Aesha Gluck  Eva Tonella  Dash Hill  Luna Le Stum  Oisin Donovan]  
 
 Schedule
@@ -665,7 +665,7 @@ Schedule
 
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 4  
+ID = Kumiko_Nagata-5-Group_4  
 Students =  [Kai McCabe  Azra Bashir  Lucio Guiulfo  Kaira Okamoto  Stephanie Lin  Ella Steer]  
 
 Schedule
@@ -679,7 +679,7 @@ Schedule
 
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 5  
+ID = Kumiko_Nagata-5-Group_5  
 Students =  [Mason Weir  Christopher Hoyos  Christopher Hsu  Maxston Popov  Jacqueline Lisker]  
 
 Schedule
@@ -694,7 +694,7 @@ Schedule
 
 Teacher = mrs. e   
 Grade = 5  
-ID = mrs. e -5-Group 1  
+ID = mrs._e_-5-Group_1  
 Students =  [Keira Gerstley  Simon Rudoff  Marley Hammons  Anju Manfred  Jin Vanholder]  
 
 Schedule
@@ -709,7 +709,7 @@ Schedule
 
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 2  
+ID = Mrs._E.-5-Group_2  
 Students =  [Nalin Pradhan  Fabian Waschbuesch  Reina Yee  Alex Hypes  Kristy Xu]  
 
 Schedule
@@ -724,7 +724,7 @@ Schedule
 
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 3  
+ID = Mrs._E.-5-Group_3  
 Students =  [Ma'at Clark  Kai Tabas  Natalie Moran  Raine Chuang  Storie Jones  Finn O'Connor]  
 
 Schedule
@@ -739,7 +739,7 @@ Schedule
 
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 4  
+ID = Mrs._E.-5-Group_4  
 Students =  [Aidan Jew  Yuki Wolfus  Tea Stock  Kanoe Palmer  Lucas Masuda]  
 
 Schedule
@@ -754,7 +754,7 @@ Schedule
 
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 5  
+ID = Mrs._E.-5-Group_5  
 Students =  [Siena Bianchi  Mayumi Takeda  Gen Butler  Colin Tam  Austin Blaylock]  
 
 Schedule
@@ -769,7 +769,7 @@ Schedule
 
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 6  
+ID = Mrs._E.-5-Group_6  
 Students =  [Miyu Hongo  Emily Taylor  Canter Stanford  Troy Hegwood  Jackson Fukutome]  
 
 Schedule
@@ -784,7 +784,7 @@ Schedule
 
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 1  
+ID = Olivia_Pope-5-Group_1  
 Students =  [Ali G.  Grace A.  Grace K.  Avery G.  Griffin G-S.  Bradley C.]  
 
 Schedule
@@ -798,7 +798,7 @@ Schedule
 
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 2  
+ID = Olivia_Pope-5-Group_2  
 Students =  [Jimena C.  Fanni M.  Vienne.  Dietrich W.  Jonty S.  Sami E.]  
 
 Schedule
@@ -813,7 +813,7 @@ Schedule
 
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 3  
+ID = Olivia_Pope-5-Group_3  
 Students =  [Dyan A.  Caeden H.  Royce M.  Nora P.  Noa S-C.  Riya R.]  
 
 Schedule
@@ -828,7 +828,7 @@ Schedule
 
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 4  
+ID = Olivia_Pope-5-Group_4  
 Students =  [Michael M.  Jaleah F-W.  Thavas A.  Julian A.  Nahom T.  Druv P.]  
 
 Schedule
@@ -843,7 +843,7 @@ Schedule
 
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 5  
+ID = Olivia_Pope-5-Group_5  
 Students =  [Korynna L.  Jack B.  Sebastian M.  Kalena G.  Golda A.  Sasha D.]  
 
 Schedule
