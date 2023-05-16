@@ -110,9 +110,12 @@ func main() {
 	// Assign random sessions if needed
 	for _, group := range needsRandomArt {
 		log.Printf("NEEDS Random Art %s %s\n", group.teacher, group.name)
-		/*found := false
+		found := false
 		for _, workshop := range artWorkshops {
 			if !workshop.withinGradeRange(group.grade) {
+				continue
+			}
+			if group.isEnrolledInWorkshop(workshop.id) {
 				continue
 			}
 			sessions := workshop.getAvailableSessions(len(group.students))
@@ -130,12 +133,37 @@ func main() {
 			}
 		}
 		if !found {
-			fmt.Println("Still not found for %s %s", group.teacher, group.name)
-		}*/
+			fmt.Println("Still not found Art for %s %s", group.teacher, group.name)
+		}
 	}
 
 	for _, group := range needsRandomSci {
 		log.Printf("NEEDS Random Sci %s\n", group.name)
+		found := false
+		for _, workshop := range sciWorkshops {
+			if !workshop.withinGradeRange(group.grade) {
+				continue
+			}
+			if group.isEnrolledInWorkshop(workshop.id) {
+				continue
+			}
+			sessions := workshop.getAvailableSessions(len(group.students))
+			for _, session := range sessions {
+				if group.workshops[session] == nil {
+					workshop.takeSession(session, len(group.students))
+					group.workshops[session] = workshop
+					found = true
+					break
+
+				}
+			}
+			if found {
+				break
+			}
+		}
+		if !found {
+			fmt.Println("Still not found Sci for %s %s", group.teacher, group.name)
+		}
 	}
 
 	printGroups(groups)

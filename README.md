@@ -39,6 +39,7 @@ Schedule
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
+| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 
 ---
 
@@ -68,6 +69,7 @@ Schedule
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
+| S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
 
@@ -112,6 +114,7 @@ Schedule
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | A14 | Photography (TBC) (K-5) | 316 |
 | S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
+| S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
 
@@ -171,6 +174,7 @@ Schedule
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S18 | Potato Battery (K - 5) | Soccer Area |
+| S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 
 ---
 
@@ -185,6 +189,7 @@ Schedule
 | A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
+| A18 | Chromatic Color Circles (K-5) | In front of Library |
 
 ---
 
@@ -214,6 +219,7 @@ Schedule
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
 
 ---
 
@@ -303,6 +309,7 @@ Schedule
 | A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
+| S10 | Straw boat building (K - 5) | 203 - Raynard |
 
 ---
 
@@ -332,6 +339,7 @@ Schedule
 | A14 | Photography (TBC) (K-5) | 316 |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | S18 | Potato Battery (K - 5) | Soccer Area |
+| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -451,6 +459,7 @@ Schedule
 | A18 | Chromatic Color Circles (K-5) | In front of Library |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
+| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
 
@@ -525,6 +534,7 @@ Schedule
 | A1 | Mini-Book Making (3-5) | 108 - Art |
 | A14 | Photography (TBC) (K-5) | 316 |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
+| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
 
 ---
 
@@ -674,6 +684,7 @@ Schedule
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
+| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
 
@@ -793,6 +804,7 @@ Schedule
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 | A18 | Chromatic Color Circles (K-5) | In front of Library |
+| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
 
