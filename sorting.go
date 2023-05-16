@@ -159,8 +159,8 @@ func printGroups(groups []group) {
 	for _, group := range groups {
 		fmt.Printf("Teacher = %s  \n", group.teacher)
 		fmt.Printf("Grade = %d  \n", group.grade)
-		fmt.Printf("ID = %s-%d-%s\n", group.teacher, group.grade, group.name)
-		fmt.Printf("Students =  %v\n", group.students)
+		fmt.Printf("ID = %s-%d-%s  \n", group.teacher, group.grade, group.name)
+		fmt.Printf("Students =  %v  \n", group.students)
 		/*fmt.Printf("Art Rankings:")
 		for _, ranking := range group.artIDs {
 			fmt.Printf(" A%d", ranking+1)
@@ -179,7 +179,7 @@ func printGroups(groups []group) {
 				fmt.Printf("| %s | %s | %s |\n", workshop.id, workshop.name, workshop.room)
 			}
 		}
-		fmt.Println("")
+		fmt.Println("\n---\n")
 	}
 }
 

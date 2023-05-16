@@ -1,7 +1,7 @@
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 1
-Students =  [Surii C  Zekey A  Ayla E  Mason A  Luca J]
+ID = Joli Gordon-1-Group 1  
+Students =  [Surii C  Zekey A  Ayla E  Mason A  Luca J]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -10,10 +10,12 @@ Schedule
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
+---
+
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 2
-Students =  [Loenardo Z  Matteo B  Thara K  Hana H  Annika N  Daniel V]
+ID = Joli Gordon-1-Group 2  
+Students =  [Loenardo Z  Matteo B  Thara K  Hana H  Annika N  Daniel V]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -22,10 +24,12 @@ Schedule
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 | S18 | Potato Battery (K - 5) | Soccer Area |
 
+---
+
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 3
-Students =  [Owen B  Tobin M  Taylor B  Thomas W  Gia S]
+ID = Joli Gordon-1-Group 3  
+Students =  [Owen B  Tobin M  Taylor B  Thomas W  Gia S]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -34,10 +38,12 @@ Schedule
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
+---
+
 Teacher = Joli Gordon  
 Grade = 1  
-ID = Joli Gordon-1-Group 4
-Students =  [Anya Z  Ellion L  Eddie B  Senan D  Daska P  Ethan M]
+ID = Joli Gordon-1-Group 4  
+Students =  [Anya Z  Ellion L  Eddie B  Senan D  Daska P  Ethan M]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -46,10 +52,12 @@ Schedule
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 
+---
+
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 1
-Students =  [Jack Strohl  Miles Sezak  Takeo Malong  Amelia Tran  Kate Skomoroch]
+ID = Kristi Otsuki-1-Group 1  
+Students =  [Jack Strohl  Miles Sezak  Takeo Malong  Amelia Tran  Kate Skomoroch]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -58,10 +66,12 @@ Schedule
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
+---
+
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 2
-Students =  [Josie Dobson  Ja'Nyah Johnson  Maizie Rosen  Milton Donald  Gael Ouye]
+ID = Kristi Otsuki-1-Group 2  
+Students =  [Josie Dobson  Ja'Nyah Johnson  Maizie Rosen  Milton Donald  Gael Ouye]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -70,10 +80,12 @@ Schedule
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 
+---
+
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 3
-Students =  [Mason Tachiki  Aurora Buenviaje  Rishin Bhatia  Flora Twardos  Riley O'Rourke]
+ID = Kristi Otsuki-1-Group 3  
+Students =  [Mason Tachiki  Aurora Buenviaje  Rishin Bhatia  Flora Twardos  Riley O'Rourke]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -82,10 +94,12 @@ Schedule
 | S18 | Potato Battery (K - 5) | Soccer Area |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Kristi Otsuki  
 Grade = 1  
-ID = Kristi Otsuki-1-Group 4
-Students =  [Olivia Dans  Ren Hawkins  Ta'ziyah Tuimavave  Evertt Dolph  Mika Pfalzer]
+ID = Kristi Otsuki-1-Group 4  
+Students =  [Olivia Dans  Ren Hawkins  Ta'ziyah Tuimavave  Evertt Dolph  Mika Pfalzer]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -94,10 +108,12 @@ Schedule
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | S18 | Potato Battery (K - 5) | Soccer Area |
 
+---
+
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 1
-Students =  [Leo M  Ollie H  Matthew S  Joni R  Ava M  Shyam S]
+ID = Mr. Fonseca-1-Group 1  
+Students =  [Leo M  Ollie H  Matthew S  Joni R  Ava M  Shyam S]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -106,10 +122,12 @@ Schedule
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 
+---
+
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 2
-Students =  [Earl F  Yuki A-L  Grace Mc  Colin M  Josiah J]
+ID = Mr. Fonseca-1-Group 2  
+Students =  [Earl F  Yuki A-L  Grace Mc  Colin M  Josiah J]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -118,10 +136,12 @@ Schedule
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
+---
+
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 3
-Students =  [Maddox B  Kennedy T  Kai J  Marni M  Ione Y]
+ID = Mr. Fonseca-1-Group 3  
+Students =  [Maddox B  Kennedy T  Kai J  Marni M  Ione Y]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -130,10 +150,12 @@ Schedule
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 
+---
+
 Teacher = Mr. Fonseca  
 Grade = 1  
-ID = Mr. Fonseca-1-Group 4
-Students =  [Juya M  Docket S  Rebecca C  Jancy J  Mika F]
+ID = Mr. Fonseca-1-Group 4  
+Students =  [Juya M  Docket S  Rebecca C  Jancy J  Mika F]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -142,10 +164,12 @@ Schedule
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 1
-Students =  [Maren  Townes  Shivani  Niko  Lucas]
+ID = Sam Sambrone-1-Group 1  
+Students =  [Maren  Townes  Shivani  Niko  Lucas]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -154,10 +178,12 @@ Schedule
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 
+---
+
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 2
-Students =  [Gretchen  Nadav  Shreya  Beneal  Zack]
+ID = Sam Sambrone-1-Group 2  
+Students =  [Gretchen  Nadav  Shreya  Beneal  Zack]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -166,10 +192,12 @@ Schedule
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 
+---
+
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 3
-Students =  [Nora  Adam  Sophie  Seva  Amani  Jackson]
+ID = Sam Sambrone-1-Group 3  
+Students =  [Nora  Adam  Sophie  Seva  Amani  Jackson]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -178,10 +206,12 @@ Schedule
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 
+---
+
 Teacher = Sam Sambrone  
 Grade = 1  
-ID = Sam Sambrone-1-Group 4
-Students =  [Penny  Thaze  Jaclyn  Lorenzo  Lillian  Jakoby]
+ID = Sam Sambrone-1-Group 4  
+Students =  [Penny  Thaze  Jaclyn  Lorenzo  Lillian  Jakoby]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -190,10 +220,12 @@ Schedule
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 
+---
+
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 1
-Students =  [Emile Greenhouse  Christy Kong  Samuel Larson  Madelene Hu  Sebastian Arbuthnot]
+ID = Debbie Rauchwerger-2-Group 1  
+Students =  [Emile Greenhouse  Christy Kong  Samuel Larson  Madelene Hu  Sebastian Arbuthnot]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -202,10 +234,12 @@ Schedule
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 
+---
+
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 2
-Students =  [Shea Folan  Lucy Cervarich  Dash Copley  Ethan Pearlmutter  Jared Zhou  Liam Mar]
+ID = Debbie Rauchwerger-2-Group 2  
+Students =  [Shea Folan  Lucy Cervarich  Dash Copley  Ethan Pearlmutter  Jared Zhou  Liam Mar]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -214,10 +248,12 @@ Schedule
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
+---
+
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 3
-Students =  [Sigal Weston  Keinnor Robleto  Taj Hutton  Sadie Shispinski  Joshua Sassouni-Wagnon]
+ID = Debbie Rauchwerger-2-Group 3  
+Students =  [Sigal Weston  Keinnor Robleto  Taj Hutton  Sadie Shispinski  Joshua Sassouni-Wagnon]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -226,10 +262,12 @@ Schedule
 | S16 | Angry Birds catapult (K - 5) | 209 |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
+---
+
 Teacher = Debbie Rauchwerger  
 Grade = 2  
-ID = Debbie Rauchwerger-2-Group 4
-Students =  [Zoby Liu  Kevin Diaz  Alexis Boshernitsan  Serafina Sharkey  Ethan Corcuchia  Aiden Costello]
+ID = Debbie Rauchwerger-2-Group 4  
+Students =  [Zoby Liu  Kevin Diaz  Alexis Boshernitsan  Serafina Sharkey  Ethan Corcuchia  Aiden Costello]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -238,10 +276,12 @@ Schedule
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 
+---
+
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 1
-Students =  [Asha T  Ellie T  Violet W  Asher M-T  Jonah G]
+ID = Gale Nakasone-2-Group 1  
+Students =  [Asha T  Ellie T  Violet W  Asher M-T  Jonah G]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -250,10 +290,12 @@ Schedule
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 
+---
+
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 2
-Students =  [Brynner C  Charlotte S  Nicholas V  Evangelina M  Kane F]
+ID = Gale Nakasone-2-Group 2  
+Students =  [Brynner C  Charlotte S  Nicholas V  Evangelina M  Kane F]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -262,10 +304,12 @@ Schedule
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
+---
+
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 3
-Students =  [Caoimhe D  Elise R  Milo B  Emil Q  Faizan J  Sylvie H]
+ID = Gale Nakasone-2-Group 3  
+Students =  [Caoimhe D  Elise R  Milo B  Emil Q  Faizan J  Sylvie H]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -274,10 +318,12 @@ Schedule
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
 
+---
+
 Teacher = Gale Nakasone  
 Grade = 2  
-ID = Gale Nakasone-2-Group 4
-Students =  [David K  Ellie M  Paxson Y-S  Hana S  Kaito K-K  Winter C]
+ID = Gale Nakasone-2-Group 4  
+Students =  [David K  Ellie M  Paxson Y-S  Hana S  Kaito K-K  Winter C]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -285,11 +331,13 @@ Schedule
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
+
+---
 
 Teacher = Minika Lowe ( Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe ( Ms. Lowe)-2-Group 1
-Students =  [Siena D  Sasha F  Kai G  Adele M  Finn N  Maya T]
+ID = Minika Lowe ( Ms. Lowe)-2-Group 1  
+Students =  [Siena D  Sasha F  Kai G  Adele M  Finn N  Maya T]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -298,10 +346,12 @@ Schedule
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 
+---
+
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 2
-Students =  [Izzy D  Diego F  Cecilia K  Jackson M  Marley M  Quincy T]
+ID = Minika Lowe (Ms. Lowe)-2-Group 2  
+Students =  [Izzy D  Diego F  Cecilia K  Jackson M  Marley M  Quincy T]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -310,10 +360,12 @@ Schedule
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 3
-Students =  [Amelia F  Giulia M  Ethan G  Abdiel R  Callie M  Erika Y]
+ID = Minika Lowe (Ms. Lowe)-2-Group 3  
+Students =  [Amelia F  Giulia M  Ethan G  Abdiel R  Callie M  Erika Y]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -322,10 +374,12 @@ Schedule
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 
+---
+
 Teacher = Minika Lowe (Ms. Lowe)  
 Grade = 2  
-ID = Minika Lowe (Ms. Lowe)-2-Group 4
-Students =  [Emerson H  Sabina K  Miyu M  Eren T  Sei W]
+ID = Minika Lowe (Ms. Lowe)-2-Group 4  
+Students =  [Emerson H  Sabina K  Miyu M  Eren T  Sei W]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -334,10 +388,12 @@ Schedule
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 
+---
+
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 1
-Students =  [Aaron L  Kaden M  Angie A  Theo A  Sharvi R]
+ID = Susie L-2-Group 1  
+Students =  [Aaron L  Kaden M  Angie A  Theo A  Sharvi R]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -346,10 +402,12 @@ Schedule
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 
+---
+
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 2
-Students =  [Jasper  Julianna D  Efrata T  Isaac B  Paul O  Ryo E]
+ID = Susie L-2-Group 2  
+Students =  [Jasper  Julianna D  Efrata T  Isaac B  Paul O  Ryo E]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -358,10 +416,12 @@ Schedule
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
 
+---
+
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 3
-Students =  [Hazel S  James S  Nicholas L  Jacob B  Juliana E]
+ID = Susie L-2-Group 3  
+Students =  [Hazel S  James S  Nicholas L  Jacob B  Juliana E]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -370,10 +430,12 @@ Schedule
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
+---
+
 Teacher = Susie L  
 Grade = 2  
-ID = Susie L-2-Group 4
-Students =  [Santiago S  Mirae O  Enapay F  Finnoula M  Cullen M]
+ID = Susie L-2-Group 4  
+Students =  [Santiago S  Mirae O  Enapay F  Finnoula M  Cullen M]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -382,10 +444,12 @@ Schedule
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 
+---
+
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 1
-Students =  [Oscar A  Emilio B  Leo V  Yannai M  Kody G  Trey H]
+ID = Allison de Wit-3-Group 1  
+Students =  [Oscar A  Emilio B  Leo V  Yannai M  Kody G  Trey H]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -394,10 +458,12 @@ Schedule
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
+---
+
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 2
-Students =  [Devin K  Yeonkyung C  Kevin Z  Isabella M  Emerson S  Finn S]
+ID = Allison de Wit-3-Group 2  
+Students =  [Devin K  Yeonkyung C  Kevin Z  Isabella M  Emerson S  Finn S]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -406,10 +472,12 @@ Schedule
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
+---
+
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 3
-Students =  [Cara H  Madeline L  Sarina P  Alina L  Ziv M]
+ID = Allison de Wit-3-Group 3  
+Students =  [Cara H  Madeline L  Sarina P  Alina L  Ziv M]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -418,10 +486,12 @@ Schedule
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 
+---
+
 Teacher = Allison de Wit  
 Grade = 3  
-ID = Allison de Wit-3-Group 4
-Students =  [Natalia J  Oakely B  Henry F  Braulio B  Jayvyn Z]
+ID = Allison de Wit-3-Group 4  
+Students =  [Natalia J  Oakely B  Henry F  Braulio B  Jayvyn Z]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -430,10 +500,12 @@ Schedule
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 1
-Students =  [Emily Shispinski  Angelina Valentini  Lucia Cornelius  Owen Robertson  Jack Larsen]
+ID = Amber Lewis-Francis-5-Group 1  
+Students =  [Emily Shispinski  Angelina Valentini  Lucia Cornelius  Owen Robertson  Jack Larsen]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -442,10 +514,12 @@ Schedule
 | S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 2
-Students =  [Claire Young  Eva Sinyaver  Forrest Ulfig  Sebastian Gomes  Nick Warnery]
+ID = Amber Lewis-Francis-5-Group 2  
+Students =  [Claire Young  Eva Sinyaver  Forrest Ulfig  Sebastian Gomes  Nick Warnery]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -454,10 +528,12 @@ Schedule
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 3
-Students =  [Elda Tesfai  Emma Li  Aidan Baird  Darragh McLaughlin  August Iribarne]
+ID = Amber Lewis-Francis-5-Group 3  
+Students =  [Elda Tesfai  Emma Li  Aidan Baird  Darragh McLaughlin  August Iribarne]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -466,10 +542,12 @@ Schedule
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 4
-Students =  [Lucia Greenhouse  Eve Axelrod  Lisandro Santos  Jayvon Padilla  Silas Shaw]
+ID = Amber Lewis-Francis-5-Group 4  
+Students =  [Lucia Greenhouse  Eve Axelrod  Lisandro Santos  Jayvon Padilla  Silas Shaw]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -478,10 +556,12 @@ Schedule
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 5
-Students =  [Claire Algazi  Tawan S-Murphy  Catherine Chin  Eamon Matthew  Max Power]
+ID = Amber Lewis-Francis-5-Group 5  
+Students =  [Claire Algazi  Tawan S-Murphy  Catherine Chin  Eamon Matthew  Max Power]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -490,10 +570,12 @@ Schedule
 | S16 | Angry Birds catapult (K - 5) | 209 |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
+---
+
 Teacher = Amber Lewis-Francis  
 Grade = 5  
-ID = Amber Lewis-Francis-5-Group 6
-Students =  [Hyunjae Oh  Evan Wu  Logan Williams  Mason Williams  Avi Meron]
+ID = Amber Lewis-Francis-5-Group 6  
+Students =  [Hyunjae Oh  Evan Wu  Logan Williams  Mason Williams  Avi Meron]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -502,10 +584,12 @@ Schedule
 | S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
+---
+
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 1
-Students =  [Mickey Ferraro  Megan Leung  Nami Wolfus  Fred Davis  Nicky Higa  Diya Sharma]
+ID = Kumiko Nagata-5-Group 1  
+Students =  [Mickey Ferraro  Megan Leung  Nami Wolfus  Fred Davis  Nicky Higa  Diya Sharma]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -514,10 +598,12 @@ Schedule
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 
+---
+
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 2
-Students =  [Zoe Freeman  Lina Salamon  Kai Tanimoto  Parker Nash  Diego Arce  Gen Iwahashi]
+ID = Kumiko Nagata-5-Group 2  
+Students =  [Zoe Freeman  Lina Salamon  Kai Tanimoto  Parker Nash  Diego Arce  Gen Iwahashi]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -525,10 +611,12 @@ Schedule
 | A1 | Mini-Book Making (3-5) | 108 - Art |
 | A6 | Character Bento Box Making (3-5) | 103 - Joli |
 
+---
+
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 3
-Students =  [Aesha Gluck  Eva Tonella  Dash Hill  Luna Le Stum  Oisin Donovan]
+ID = Kumiko Nagata-5-Group 3  
+Students =  [Aesha Gluck  Eva Tonella  Dash Hill  Luna Le Stum  Oisin Donovan]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -536,10 +624,12 @@ Schedule
 | A14 | Photography (TBC) (K-5) | 316 |
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 
+---
+
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 4
-Students =  [Kai McCabe  Azra Bashir  Lucio Guiulfo  Kaira Okamoto  Stephanie Lin  Ella Steer]
+ID = Kumiko Nagata-5-Group 4  
+Students =  [Kai McCabe  Azra Bashir  Lucio Guiulfo  Kaira Okamoto  Stephanie Lin  Ella Steer]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -548,10 +638,12 @@ Schedule
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
+---
+
 Teacher = Kumiko Nagata  
 Grade = 5  
-ID = Kumiko Nagata-5-Group 5
-Students =  [Mason Weir  Christopher Hoyos  Christopher Hsu  Maxston Popov  Jacqueline Lisker]
+ID = Kumiko Nagata-5-Group 5  
+Students =  [Mason Weir  Christopher Hoyos  Christopher Hsu  Maxston Popov  Jacqueline Lisker]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -560,10 +652,12 @@ Schedule
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 
+---
+
 Teacher = mrs. e   
 Grade = 5  
-ID = mrs. e -5-Group 1
-Students =  [Keira Gerstley  Simon Rudoff  Marley Hammons  Anju Manfred  Jin Vanholder]
+ID = mrs. e -5-Group 1  
+Students =  [Keira Gerstley  Simon Rudoff  Marley Hammons  Anju Manfred  Jin Vanholder]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -572,10 +666,12 @@ Schedule
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 2
-Students =  [Nalin Pradhan  Fabian Waschbuesch  Reina Yee  Alex Hypes  Kristy Xu]
+ID = Mrs. E.-5-Group 2  
+Students =  [Nalin Pradhan  Fabian Waschbuesch  Reina Yee  Alex Hypes  Kristy Xu]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -584,10 +680,12 @@ Schedule
 | A1 | Mini-Book Making (3-5) | 108 - Art |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 
+---
+
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 3
-Students =  [Ma'at Clark  Kai Tabas  Natalie Moran  Raine Chuang  Storie Jones  Finn O'Connor]
+ID = Mrs. E.-5-Group 3  
+Students =  [Ma'at Clark  Kai Tabas  Natalie Moran  Raine Chuang  Storie Jones  Finn O'Connor]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -596,10 +694,12 @@ Schedule
 | A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 
+---
+
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 4
-Students =  [Aidan Jew  Yuki Wolfus  Tea Stock  Kanoe Palmer  Lucas Masuda]
+ID = Mrs. E.-5-Group 4  
+Students =  [Aidan Jew  Yuki Wolfus  Tea Stock  Kanoe Palmer  Lucas Masuda]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -608,10 +708,12 @@ Schedule
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
 
+---
+
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 5
-Students =  [Siena Bianchi  Mayumi Takeda  Gen Butler  Colin Tam  Austin Blaylock]
+ID = Mrs. E.-5-Group 5  
+Students =  [Siena Bianchi  Mayumi Takeda  Gen Butler  Colin Tam  Austin Blaylock]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -620,10 +722,12 @@ Schedule
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 
+---
+
 Teacher = Mrs. E.  
 Grade = 5  
-ID = Mrs. E.-5-Group 6
-Students =  [Miyu Hongo  Emily Taylor  Canter Stanford  Troy Hegwood  Jackson Fukutome]
+ID = Mrs. E.-5-Group 6  
+Students =  [Miyu Hongo  Emily Taylor  Canter Stanford  Troy Hegwood  Jackson Fukutome]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -631,10 +735,12 @@ Schedule
 | A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
 
+---
+
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 1
-Students =  [Ali G.  Grace A.  Grace K.  Avery G.  Griffin G-S.  Bradley C.]
+ID = Olivia Pope-5-Group 1  
+Students =  [Ali G.  Grace A.  Grace K.  Avery G.  Griffin G-S.  Bradley C.]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -643,10 +749,12 @@ Schedule
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 2
-Students =  [Jimena C.  Fanni M.  Vienne.  Dietrich W.  Jonty S.  Sami E.]
+ID = Olivia Pope-5-Group 2  
+Students =  [Jimena C.  Fanni M.  Vienne.  Dietrich W.  Jonty S.  Sami E.]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -655,10 +763,12 @@ Schedule
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
+---
+
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 3
-Students =  [Dyan A.  Caeden H.  Royce M.  Nora P.  Noa S-C.  Riya R.]
+ID = Olivia Pope-5-Group 3  
+Students =  [Dyan A.  Caeden H.  Royce M.  Nora P.  Noa S-C.  Riya R.]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -667,10 +777,12 @@ Schedule
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
+---
+
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 4
-Students =  [Michael M.  Jaleah F-W.  Thavas A.  Julian A.  Nahom T.  Druv P.]
+ID = Olivia Pope-5-Group 4  
+Students =  [Michael M.  Jaleah F-W.  Thavas A.  Julian A.  Nahom T.  Druv P.]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
@@ -678,14 +790,18 @@ Schedule
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 
+---
+
 Teacher = Olivia Pope  
 Grade = 5  
-ID = Olivia Pope-5-Group 5
-Students =  [Korynna L.  Jack B.  Sebastian M.  Kalena G.  Golda A.  Sasha D.]
+ID = Olivia Pope-5-Group 5  
+Students =  [Korynna L.  Jack B.  Sebastian M.  Kalena G.  Golda A.  Sasha D.]  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
+
+---
 
