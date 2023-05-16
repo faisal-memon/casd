@@ -1,13 +1,25 @@
 Kind: art
-ID: A3
-Name: Board Breaking (3-5)
+ID: A16
+Name: Food Project or Slime (K-5)
+Grade Range: 0-5
+Capacities: 40 40 40 40
+-------------
+Kind: art
+ID: A1
+Name: Mini-Book Making (3-5)
 Grade Range: 3-5
 Capacities: 20 20 20 20
 -------------
 Kind: art
-ID: A10
-Name: Bath Bombs! (3-5)
-Grade Range: 3-5
+ID: A18
+Name: Chromatic Color Circles (K-5)
+Grade Range: 0-5
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A14
+Name: Photography (TBC) (K-5)
+Grade Range: 0-5
 Capacities: 20 20 20 20
 -------------
 Kind: art
@@ -23,16 +35,28 @@ Grade Range: 0-5
 Capacities: 20 20 0 20
 -------------
 Kind: art
+ID: A12
+Name: Shibori - Japanese Tie Dye (3-5)
+Grade Range: 3-5
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A15
+Name: The Art of Mochi Making or Popcorn (K-5)
+Grade Range: 0-5
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A11
+Name: Cookie decorating (K-5)
+Grade Range: 0-5
+Capacities: 20 20 0 0
+-------------
+Kind: art
 ID: A8
 Name: Chess Challenge! (K-5)
 Grade Range: 0-5
 Capacities: 50 50 50 50
--------------
-Kind: art
-ID: A16
-Name: Food Project or Slime (K-5)
-Grade Range: 0-5
-Capacities: 40 40 40 40
 -------------
 Kind: art
 ID: A6
@@ -41,22 +65,34 @@ Grade Range: 3-5
 Capacities: 20 20 20 20
 -------------
 Kind: art
-ID: A4
-Name: Taste the Rainbow (K-5)
-Grade Range: 0-5
-Capacities: 30 30 30 30
--------------
-Kind: art
-ID: A12
-Name: Shibori - Japanese Tie Dye (3-5)
+ID: A3
+Name: Board Breaking (3-5)
 Grade Range: 3-5
 Capacities: 20 20 20 20
 -------------
 Kind: art
-ID: A11
-Name: Cookie decorating (K-5)
+ID: A2
+Name: Flamenco Dancing (3-5)
+Grade Range: 3-5
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A10
+Name: Bath Bombs! (3-5)
+Grade Range: 3-5
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A17
+Name: Musical Theater Works (K-5)
 Grade Range: 0-5
-Capacities: 20 20 0 0
+Capacities: 20 20 20 20
+-------------
+Kind: art
+ID: A4
+Name: Taste the Rainbow (K-5)
+Grade Range: 0-5
+Capacities: 30 30 30 30
 -------------
 Kind: art
 ID: A7
@@ -69,42 +105,6 @@ ID: A9
 Name: Italian Cooking  (K-5)
 Grade Range: 0-5
 Capacities: 10 10 10 10
--------------
-Kind: art
-ID: A1
-Name: Mini-Book Making (3-5)
-Grade Range: 3-5
-Capacities: 20 20 20 20
--------------
-Kind: art
-ID: A15
-Name: The Art of Mochi Making or Popcorn (K-5)
-Grade Range: 0-5
-Capacities: 20 20 20 20
--------------
-Kind: art
-ID: A2
-Name: Flamenco Dancing (3-5)
-Grade Range: 3-5
-Capacities: 20 20 20 20
--------------
-Kind: art
-ID: A17
-Name: Musical Theater Works (K-5)
-Grade Range: 0-5
-Capacities: 20 20 20 20
--------------
-Kind: art
-ID: A18
-Name: Chromatic Color Circles (K-5)
-Grade Range: 0-5
-Capacities: 20 20 20 20
--------------
-Kind: art
-ID: A14
-Name: Photography (TBC) (K-5)
-Grade Range: 0-5
-Capacities: 20 20 20 20
 -------------
 Joli Gordon
 Joli Gordon
