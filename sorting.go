@@ -35,12 +35,17 @@ func main() {
 	}
 	//printWorkshops(sciWorkshops)
 
+	log.Printf("====Booking Art Classes===\n")
 	var needsRandomArt []group
-	var needsRandomSci []group
 	for _, group := range groups {
 		sessionsToBook := 2
 		for _, id := range group.artIDs {
-			booked := bookWorkshopIfAvailable(artWorkshops[id], group)
+			workshop, ok := artWorkshops[id]
+			if !ok {
+				log.Printf("ID %s not found teacher=%s group=%s\n", id, group.teacher, group.name)
+				continue
+			}
+			booked := bookWorkshopIfAvailable(workshop, group)
 			if booked {
 				sessionsToBook--
 				if sessionsToBook == 0 {
@@ -49,51 +54,39 @@ func main() {
 			}
 		}
 
-		if sessionsToBook > 0 {
-			// Select random session
-			for i := 0; i < sessionsToBook; i++ {
-				needsRandomArt = append(needsRandomArt, group)
-			}
+		// Select random session
+		for i := 0; i < sessionsToBook; i++ {
+			needsRandomArt = append(needsRandomArt, group)
 		}
+	}
 
-		sessionsToBook = 2
+	log.Printf("\n\n====Booking Science Classes===\n")
+	var needsRandomSci []group
+	for _, group := range groups {
+		sessionsToBook := 2
 		for _, id := range group.sciIDs {
 			workshop, ok := sciWorkshops[id]
 			if !ok {
 				log.Printf("ID %s not found teacher=%s group=%s\n", id, group.teacher, group.name)
 				continue
 			}
-			if !workshop.withinGradeRange(group.grade) {
-				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
-				continue
-			}
-			if group.isEnrolledInWorkshop(id) {
-				log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
-				continue
-			}
-			sessions := workshop.getAvailableSessions(len(group.students))
-			for _, session := range sessions {
-				if group.workshops[session] == nil {
-					workshop.takeSession(session, len(group.students))
-					group.workshops[session] = workshop
-					sessionsToBook--
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				sessionsToBook--
+				if sessionsToBook == 0 {
 					break
 				}
 			}
-			if sessionsToBook == 0 {
-				break
-			}
 		}
 
-		if sessionsToBook > 0 {
-			// Select random session
-			for i := 0; i < sessionsToBook; i++ {
-				needsRandomSci = append(needsRandomSci, group)
-			}
+		// Select random session
+		for i := 0; i < sessionsToBook; i++ {
+			needsRandomSci = append(needsRandomSci, group)
 		}
 	}
 
 	// Assign random sessions if needed
+	log.Printf("\n\n====Booking Random Art Classes===\n")
 	for _, group := range needsRandomArt {
 		log.Printf("NEEDS Random Art %s %s\n", group.teacher, group.name)
 		found := false
@@ -123,6 +116,7 @@ func main() {
 		}
 	}
 
+	log.Printf("\n\n====Booking Random Science Classes===\n")
 	for _, group := range needsRandomSci {
 		log.Printf("NEEDS Random Sci %s\n", group.name)
 		found := false

@@ -39,7 +39,7 @@ Schedule
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
-| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
+| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
 
 ---
 
@@ -99,7 +99,7 @@ Schedule
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S18 | Potato Battery (K - 5) | Soccer Area |
 | S16 | Angry Birds catapult (K - 5) | 209 |
-| A16 | Food Project or Slime (K-5) | Garden - Table Area |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
 
 ---
 
@@ -114,7 +114,7 @@ Schedule
 | A14 | Photography (TBC) (K-5) | 316 |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
-| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
+| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
 ---
 
@@ -129,7 +129,7 @@ Schedule
 | A18 | Chromatic Color Circles (K-5) | In front of Library |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
-| A16 | Food Project or Slime (K-5) | Garden - Table Area |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
 
 ---
 
@@ -219,7 +219,7 @@ Schedule
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
-| S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
+| S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
 
@@ -249,7 +249,7 @@ Schedule
 | A14 | Photography (TBC) (K-5) | 316 |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
-| S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
+| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
 
 ---
 
@@ -279,7 +279,7 @@ Schedule
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
-| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
+| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -413,7 +413,7 @@ Schedule
 | -- | ----- | ---- |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
-| A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
+| A14 | Photography (TBC) (K-5) | 316 |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
@@ -428,7 +428,7 @@ Schedule
 | -- | ----- | ---- |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
-| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
+| S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
 ---
@@ -473,7 +473,7 @@ Schedule
 | -- | ----- | ---- |
 | A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S16 | Angry Birds catapult (K - 5) | 209 |
-| A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
+| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
 ---
@@ -714,7 +714,7 @@ Schedule
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | A12 | Shibori - Japanese Tie Dye (3-5) | Library |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
-| S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
+| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
 
 ---
 
@@ -729,7 +729,7 @@ Schedule
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
-| A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
 
 ---
 
