@@ -37,7 +37,6 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
-| A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
@@ -68,7 +67,6 @@ Schedule
 | -- | ----- | ---- |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
-| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
 ---
@@ -113,7 +111,6 @@ Schedule
 | -- | ----- | ---- |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | A14 | Photography (TBC) (K-5) | 316 |
-| S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 | S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 
 ---
@@ -185,7 +182,6 @@ Students =  [Maren  Townes  Shivani  Niko  Lucas]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
@@ -292,7 +288,7 @@ Schedule
 | A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
-| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
+| S19 | SF Math Circle (K - 5) | 105 - Tak |
 
 ---
 
@@ -305,8 +301,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A4 | Taste the Rainbow (K-5) | 5 - Ruth |
-| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
+| A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 
 ---
 
@@ -319,9 +315,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
-| S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
-| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 | A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
+| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
+| S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 
 ---
 
@@ -395,7 +391,7 @@ Schedule
 | A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
-| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
+| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
 ---
 
@@ -543,7 +539,7 @@ Schedule
 | A1 | Mini-Book Making (3-5) | 108 - Art |
 | A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
-| S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
+| S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
 ---
 
@@ -588,7 +584,7 @@ Schedule
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 | A14 | Photography (TBC) (K-5) | 316 |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
-| S9 | The Kate and Dav Show (K-5) | 205 - Amber |
+| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 
 ---
 
@@ -603,7 +599,7 @@ Schedule
 | A3 | Board Breaking (3-5) | Music Room |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
-| S19 | SF Math Circle (K - 5) | 105 - Tak |
+| S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
 ---
 
@@ -767,7 +763,7 @@ Schedule
 | A18 | Chromatic Color Circles (K-5) | In front of Library |
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
-| S10 | Straw boat building (K - 5) | 203 - Raynard |
+| S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 
 ---
 
@@ -811,7 +807,7 @@ Schedule
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | A3 | Board Breaking (3-5) | Music Room |
 | S16 | Angry Birds catapult (K - 5) | 209 |
-| S16 | Angry Birds catapult (K - 5) | 209 |
+| S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 
 ---
 

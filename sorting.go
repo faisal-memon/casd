@@ -45,6 +45,10 @@ func main() {
 				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
 				continue
 			}
+			if group.isEnrolledInWorkshop(id) {
+				log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
+				continue
+			}
 			sessions := workshop.getAvailableSessions(len(group.students))
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
@@ -75,6 +79,10 @@ func main() {
 			}
 			if !workshop.withinGradeRange(group.grade) {
 				log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
+				continue
+			}
+			if group.isEnrolledInWorkshop(id) {
+				log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", id, group.teacher, group.name)
 				continue
 			}
 			sessions := workshop.getAvailableSessions(len(group.students))
@@ -142,6 +150,18 @@ type group struct {
 	sciIDs   []string
 
 	workshops []*workshop
+}
+
+func (g group) isEnrolledInWorkshop(id string) bool {
+	for _, workshop := range g.workshops {
+		if workshop == nil {
+			continue
+		}
+		if workshop.id == id {
+			return true
+		}
+	}
+	return false
 }
 
 func readGroups(file string) ([]group, error) {
