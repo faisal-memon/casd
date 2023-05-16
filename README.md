@@ -39,7 +39,7 @@ Schedule
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
-| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
+| S18 | Potato Battery (K - 5) | Soccer Area |
 
 ---
 
@@ -114,7 +114,7 @@ Schedule
 | A14 | Photography (TBC) (K-5) | 316 |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
-| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
+| S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
 
@@ -129,7 +129,7 @@ Schedule
 | A18 | Chromatic Color Circles (K-5) | In front of Library |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
-| A8 | Chess Challenge! (K-5) | 310 - Jody |
+| A7 | The Sounds of Music (K-5) | 107 - Max |
 
 ---
 
@@ -186,10 +186,10 @@ Students =  [Maren  Townes  Shivani  Niko  Lucas]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | A14 | Photography (TBC) (K-5) | 316 |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
-| S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
 
@@ -246,10 +246,10 @@ Students =  [Emile Greenhouse  Christy Kong  Samuel Larson  Madelene Hu  Sebasti
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | Photography (TBC) (K-5) | 316 |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
+| A14 | Photography (TBC) (K-5) | 316 |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
-| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
+| S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 
 ---
 
@@ -261,10 +261,10 @@ Students =  [Shea Folan  Lucy Cervarich  Dash Copley  Ethan Pearlmutter  Jared Z
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S10 | Straw boat building (K - 5) | 203 - Raynard |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
-| A11 | Cookie decorating (K-5) | Garden- Crate Area |
+| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
-| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
 ---
 
@@ -279,7 +279,7 @@ Schedule
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
-| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
+| A18 | Chromatic Color Circles (K-5) | In front of Library |
 
 ---
 
@@ -321,9 +321,9 @@ Students =  [Brynner C  Charlotte S  Nicholas V  Evangelina M  Kane F]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
-| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 | S9 | The Kate and Dav Show (K-5) | 205 - Amber |
 
 ---
@@ -336,10 +336,10 @@ Students =  [Caoimhe D  Elise R  Milo B  Emil Q  Faizan J  Sylvie H]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
-| A14 | Photography (TBC) (K-5) | 316 |
-| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 | A9 | Italian Cooking  (K-5) | 313 - Wong |
+| A14 | Photography (TBC) (K-5) | 316 |
+| S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
+| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 
 ---
 
@@ -351,10 +351,10 @@ Students =  [David K  Ellie M  Paxson Y-S  Hana S  Kaito K-K  Winter C]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S4 | Fun with Coding (K-5) | Upper Yard - Fence |
+| S16 | Angry Birds catapult (K - 5) | 209 |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | A14 | Photography (TBC) (K-5) | 316 |
-| S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
+| S4 | Fun with Coding (K-5) | Upper Yard - Fence |
 
 ---
 
@@ -413,8 +413,8 @@ Schedule
 | -- | ----- | ---- |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
-| A14 | Photography (TBC) (K-5) | 316 |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
+| A14 | Photography (TBC) (K-5) | 316 |
 
 ---
 
@@ -426,10 +426,10 @@ Students =  [Aaron L  Kaden M  Angie A  Theo A  Sharvi R]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
-| S6 | Obstacle Extravaganza! (K-2) | 105 - Tak |
-| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
+| S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
 
 ---
 
@@ -441,9 +441,9 @@ Students =  [Jasper  Julianna D  Efrata T  Isaac B  Paul O  Ryo E]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
-| A5 | Art with Paper - Screen Printing (K-2) | 318-Nitahara |
 | S21 | Microscopy, comparing plant and animal cells | Middle Yard - Random2 |
 
 ---
@@ -457,9 +457,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
+| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 | A14 | Photography (TBC) (K-5) | 316 |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
-| S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
 
@@ -473,8 +473,8 @@ Schedule
 | -- | ----- | ---- |
 | A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S16 | Angry Birds catapult (K - 5) | 209 |
-| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S1 | Fire Engine Explore (K-5) | 214 - Rosella |
+| A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 
 ---
 
@@ -518,7 +518,7 @@ Schedule
 | -- | ----- | ---- |
 | A10 | Bath Bombs! (3-5) | Middle Yard - Basketball Area |
 | A4 | Taste the Rainbow (K-5) | 5 - Ruth |
-| S2 | Experience the Experiments (3-5) | 202 - Allison |
+| S1 | Fire Engine Explore (K-5) | 214 - Rosella |
 | S3 | Tree Frog Treks (K-5) | Lower Yard - Gate Side |
 
 ---
@@ -547,8 +547,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A2 | Flamenco Dancing (3-5) | 204 - Tate |
+| A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
-| A18 | Chromatic Color Circles (K-5) | In front of Library |
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 
 ---
@@ -576,8 +576,8 @@ Students =  [Elda Tesfai  Emma Li  Aidan Baird  Darragh McLaughlin  August Iriba
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A8 | Chess Challenge! (K-5) | 310 - Jody |
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S10 | Straw boat building (K - 5) | 203 - Raynard |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
@@ -591,10 +591,10 @@ Students =  [Lucia Greenhouse  Eve Axelrod  Lisandro Santos  Jayvon Padilla  Sil
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
-| A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
-| S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
+| S9 | The Kate and Dav Show (K-5) | 205 - Amber |
+| A16 | Food Project or Slime (K-5) | Garden - Table Area |
+| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 
 ---
 
@@ -621,9 +621,9 @@ Students =  [Hyunjae Oh  Evan Wu  Logan Williams  Mason Williams  Avi Meron]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S19 | SF Math Circle (K - 5) | 105 - Tak |
 | A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
-| S19 | SF Math Circle (K - 5) | 105 - Tak |
 | S16 | Angry Birds catapult (K - 5) | 209 |
 
 ---
@@ -637,8 +637,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
-| A14 | Photography (TBC) (K-5) | 316 |
 | S4 | Fun with Coding (K-5) | Upper Yard - Fence |
+| A14 | Photography (TBC) (K-5) | 316 |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
 ---
@@ -651,10 +651,10 @@ Students =  [Zoe Freeman  Lina Salamon  Kai Tanimoto  Parker Nash  Diego Arce  G
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A1 | Mini-Book Making (3-5) | 108 - Art |
+| A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
-| S10 | Straw boat building (K - 5) | 203 - Raynard |
+| S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
 
 ---
 
@@ -681,9 +681,9 @@ Students =  [Kai McCabe  Azra Bashir  Lucio Guiulfo  Kaira Okamoto  Stephanie Li
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Character Bento Box Making (3-5) | 103 - Joli |
-| A4 | Taste the Rainbow (K-5) | 5 - Ruth |
+| A11 | Cookie decorating (K-5) | Garden- Crate Area |
 | S18 | Potato Battery (K - 5) | Soccer Area |
+| A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 
 ---
@@ -699,7 +699,7 @@ Schedule
 | A12 | Shibori - Japanese Tie Dye (3-5) | Library |
 | A3 | Board Breaking (3-5) | Music Room |
 | S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
-| S4 | Fun with Coding (K-5) | Upper Yard - Fence |
+| S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 
 ---
 
@@ -714,7 +714,7 @@ Schedule
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | A12 | Shibori - Japanese Tie Dye (3-5) | Library |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
-| S23 | Sneaky the snake (K - 5) | Middle Yard - Random3 |
+| S15 | School Earthquake Safety Initiative - Structural Engineering and Earthquakes for Kids (3-5) | Middle Yard - Random5 |
 
 ---
 
@@ -726,10 +726,10 @@ Students =  [Nalin Pradhan  Fabian Waschbuesch  Reina Yee  Alex Hypes  Kristy Xu
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
 | S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
-| A8 | Chess Challenge! (K-5) | 310 - Jody |
 
 ---
 
@@ -741,10 +741,10 @@ Students =  [Ma'at Clark  Kai Tabas  Natalie Moran  Raine Chuang  Storie Jones  
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Character Bento Box Making (3-5) | 103 - Joli |
-| S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
-| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
+| A6 | Character Bento Box Making (3-5) | 103 - Joli |
+| A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
+| S7 | Build your own Microscope (2-5) | Middle Yard - Elevator |
 
 ---
 
@@ -756,10 +756,10 @@ Students =  [Aidan Jew  Yuki Wolfus  Tea Stock  Kanoe Palmer  Lucas Masuda]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Italian Cooking  (K-5) | 313 - Wong |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 | S13 | Renegade Tinkering Spies (K - 5) | 110 - Kobayashi |
+| A9 | Italian Cooking  (K-5) | 313 - Wong |
 
 ---
 
@@ -771,8 +771,8 @@ Students =  [Siena Bianchi  Mayumi Takeda  Gen Butler  Colin Tam  Austin Blayloc
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A6 | Character Bento Box Making (3-5) | 103 - Joli |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
-| A16 | Food Project or Slime (K-5) | Garden - Table Area |
 | S2 | Experience the Experiments (3-5) | 202 - Allison |
 | S14 | Reuse and Recycle (K-5) | 206 - Mrs E |
 
@@ -786,10 +786,10 @@ Students =  [Miyu Hongo  Emily Taylor  Canter Stanford  Troy Hegwood  Jackson Fu
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 | A8 | Chess Challenge! (K-5) | 310 - Jody |
 | A4 | Taste the Rainbow (K-5) | 5 - Ruth |
 | S16 | Angry Birds catapult (K - 5) | 209 |
-| S2 | Experience the Experiments (3-5) | 202 - Allison |
 
 ---
 
@@ -817,8 +817,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
-| S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 | A17 | Musical Theater Works (K-5) | Lower Yard - Steps |
+| S5 | Bottle Rockets! (3-5) | Upper Yard - Kickball |
 | S19 | SF Math Circle (K - 5) | 105 - Tak |
 
 ---
@@ -831,10 +831,10 @@ Students =  [Dyan A.  Caeden H.  Royce M.  Nora P.  Noa S-C.  Riya R.]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
-| A8 | Chess Challenge! (K-5) | 310 - Jody |
-| S19 | SF Math Circle (K - 5) | 105 - Tak |
 | S18 | Potato Battery (K - 5) | Soccer Area |
+| A8 | Chess Challenge! (K-5) | 310 - Jody |
+| A15 | The Art of Mochi Making or Popcorn (K-5) | 207- Tanaka |
+| S17 | Make Me Happy with Machine Learning (3 - 5) | 312 - Lowe |
 
 ---
 
@@ -847,8 +847,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A7 | The Sounds of Music (K-5) | 107 - Max |
-| S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
 | A16 | Food Project or Slime (K-5) | Garden - Table Area |
+| S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
 | S8 | The Physics of Tennis (3-5) | Middle Yard - Random4 |
 
 ---
@@ -861,10 +861,10 @@ Students =  [Korynna L.  Jack B.  Sebastian M.  Kalena G.  Golda A.  Sasha D.]
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
-| A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | A14 | Photography (TBC) (K-5) | 316 |
+| A13 | Martial Arts - Board Breaking (K-5) | 314- Debbie |
 | S12 | Minecraft Torches! (3 - 5) | 3 - Ellsworth |
+| S11 | Big Fun Science Ice Cream (K - 5) | Middle Yard - Random1 |
 
 ---
 

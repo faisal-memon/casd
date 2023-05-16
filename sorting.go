@@ -11,7 +11,9 @@ import (
 )
 
 const (
-	numSessions = 4
+	numSessions    = 4
+	numArtSessions = 2
+	numSciSessions = 2
 
 	artWorkshop = iota
 	sciWorkshop
@@ -35,10 +37,39 @@ func main() {
 	}
 	//printWorkshops(sciWorkshops)
 
-	log.Printf("====Booking Art Classes===\n")
+	log.Printf("====Booking Parent Classes===\n")
+	for _, group := range groups {
+		for _, parentID := range group.parentIDs {
+			if parentID == "0" || parentID == "" {
+				continue
+			}
+			log.Println(parentID)
+
+			kind := idToKind(parentID)
+			var workshop *workshop
+			var ok bool
+			if kind == artWorkshop {
+				workshop, ok = artWorkshops[parentID]
+				if !ok {
+					log.Printf("ID %s not found teacher=%s group=%s\n", parentID, group.teacher, group.name)
+				}
+			} else {
+				workshop, ok = sciWorkshops[parentID]
+				if !ok {
+					log.Printf("ID %s not found teacher=%s group=%s\n", parentID, group.teacher, group.name)
+				}
+			}
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if !booked {
+				log.Printf("Unable to book parent ID=%s. teacher=%s group=%s\n", parentID, group.teacher, group.name)
+			}
+		}
+	}
+
+	log.Printf("\n====Booking Art Classes===\n")
 	var needsRandomArt []group
 	for _, group := range groups {
-		sessionsToBook := 2
+		sessionsToBook := numArtSessions - group.sessionsBooked(artWorkshop)
 		for _, id := range group.artIDs {
 			workshop, ok := artWorkshops[id]
 			if !ok {
@@ -63,7 +94,7 @@ func main() {
 	log.Printf("\n\n====Booking Science Classes===\n")
 	var needsRandomSci []group
 	for _, group := range groups {
-		sessionsToBook := 2
+		sessionsToBook := numSciSessions - group.sessionsBooked(sciWorkshop)
 		for _, id := range group.sciIDs {
 			workshop, ok := sciWorkshops[id]
 			if !ok {
@@ -112,7 +143,7 @@ func main() {
 			}
 		}
 		if !found {
-			fmt.Println("Still not found Art for %s %s", group.teacher, group.name)
+			log.Printf("Still not found Art for %s %s\n", group.teacher, group.name)
 		}
 	}
 
@@ -142,7 +173,7 @@ func main() {
 			}
 		}
 		if !found {
-			fmt.Println("Still not found Sci for %s %s", group.teacher, group.name)
+			log.Printf("Still not found Sci for %s %s\n", group.teacher, group.name)
 		}
 	}
 
@@ -150,12 +181,13 @@ func main() {
 }
 
 type group struct {
-	teacher  string
-	grade    int
-	name     string
-	students []string
-	artIDs   []string
-	sciIDs   []string
+	teacher   string
+	grade     int
+	name      string
+	students  []string
+	artIDs    []string
+	sciIDs    []string
+	parentIDs []string
 
 	workshops []*workshop
 }
@@ -170,6 +202,20 @@ func (g group) isEnrolledInWorkshop(id string) bool {
 		}
 	}
 	return false
+}
+
+func (g group) sessionsBooked(kind int) int {
+	booked := 0
+	for _, workshop := range g.workshops {
+		if workshop != nil {
+			workshopKind := idToKind(workshop.id)
+			if workshopKind == kind {
+				booked++
+			}
+		}
+	}
+
+	return booked
 }
 
 func readGroups(file string) ([]group, error) {
@@ -206,6 +252,7 @@ func readGroups(file string) ([]group, error) {
 			artIDs:    artIDs,
 			sciIDs:    sciIDs,
 			workshops: make([]*workshop, 4),
+			parentIDs: strings.Split(record[13], " "),
 		})
 	}
 
@@ -417,4 +464,12 @@ func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 	log.Printf("Unable to book session, its full. workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
 
 	return false
+}
+
+func idToKind(id string) int {
+	if id[0] == 'A' {
+		return artWorkshop
+	}
+
+	return sciWorkshop
 }
