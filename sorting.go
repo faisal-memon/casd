@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"io"
 	"log"
+	"math/rand"
 	"os"
 	"strconv"
 	"strings"
@@ -14,6 +15,7 @@ const (
 	numSessions    = 4
 	numArtSessions = 2
 	numSciSessions = 2
+	random         = true
 
 	artWorkshop = iota
 	sciWorkshop
@@ -128,7 +130,7 @@ func main() {
 			if group.isEnrolledInWorkshop(workshop.id) {
 				continue
 			}
-			sessions := workshop.getAvailableSessions(len(group.students))
+			sessions := workshop.getAvailableSessions(group)
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
 					workshop.takeSession(session, len(group.students))
@@ -158,7 +160,7 @@ func main() {
 			if group.isEnrolledInWorkshop(workshop.id) {
 				continue
 			}
-			sessions := workshop.getAvailableSessions(len(group.students))
+			sessions := workshop.getAvailableSessions(group)
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
 					workshop.takeSession(session, len(group.students))
@@ -297,11 +299,14 @@ type workshop struct {
 	room              string
 }
 
-func (w workshop) getAvailableSessions(numStudents int) []int {
+func (w workshop) getAvailableSessions(group group) []int {
 	var availableSessions []int
+	numStudents := len(group.students)
 	for i, sessionCapacity := range w.sessionCapacities {
 		if sessionCapacity >= numStudents {
-			availableSessions = append(availableSessions, i)
+			if group.workshops[i] == nil {
+				availableSessions = append(availableSessions, i)
+			}
 		}
 	}
 
@@ -451,14 +456,13 @@ func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 		log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
 		return false
 	}
-	sessions := workshop.getAvailableSessions(len(group.students))
-	for _, session := range sessions {
-		if group.workshops[session] == nil {
-			workshop.takeSession(session, len(group.students))
-			group.workshops[session] = workshop
+	sessions := workshop.getAvailableSessions(group)
+	if len(sessions) > 0 {
+		randSession := sessions[rand.Intn(len(sessions))]
+		workshop.takeSession(randSession, len(group.students))
+		group.workshops[randSession] = workshop
 
-			return true
-		}
+		return true
 	}
 
 	log.Printf("Unable to book session, its full. workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
