@@ -399,9 +399,9 @@ func readWorkshop(file string, kind string) (map[string]*workshop, error) {
 func printWorkshops(workshops map[string]*workshop) {
 	fmt.Println("\n---\n")
 	for id, workshop := range workshops {
-		fmt.Printf("ID: %s\n", id)
-		fmt.Printf("Name: %s\n", workshop.name)
-		fmt.Println("Schedule")
+		fmt.Printf("ID: %s  \n", id)
+		fmt.Printf("Name: %s  \n", workshop.name)
+		fmt.Printf("Schedule  \n")
 		fmt.Println("| Available | Students |")
 		fmt.Println("| --------- | -------- |")
 		for i := 0; i < numSessions; i++ {
