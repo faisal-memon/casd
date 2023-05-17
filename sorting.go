@@ -133,7 +133,7 @@ func main() {
 			sessions := workshop.getAvailableSessions(group)
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
-					workshop.takeSession(session, len(group.students))
+					workshop.takeSession(session, group)
 					group.workshops[session] = workshop
 					found = true
 					break
@@ -163,7 +163,7 @@ func main() {
 			sessions := workshop.getAvailableSessions(group)
 			for _, session := range sessions {
 				if group.workshops[session] == nil {
-					workshop.takeSession(session, len(group.students))
+					workshop.takeSession(session, group)
 					group.workshops[session] = workshop
 					found = true
 					break
@@ -180,6 +180,7 @@ func main() {
 	}
 
 	printGroups(groups)
+	printWorkshops(artWorkshops)
 }
 
 type group struct {
@@ -297,6 +298,8 @@ type workshop struct {
 	maxGrade          int
 	sessionCapacities []int
 	room              string
+
+	sessionGroups     map[int][]group
 }
 
 func (w workshop) getAvailableSessions(group group) []int {
@@ -321,8 +324,12 @@ func (w workshop) withinGradeRange(grade int) bool {
 	return false
 }
 
-func (w workshop) takeSession(session, numStudents int) {
-	w.sessionCapacities[session] -= numStudents
+func (w workshop) takeSession(session int, group group) {
+	w.sessionCapacities[session] -= len(group.students)
+
+	groups := w.sessionGroups[session]
+	groups = append(groups, group)
+	w.sessionGroups[session] = groups
 }
 
 func readWorkshop(file string, kind string) (map[string]*workshop, error) {
@@ -382,6 +389,7 @@ func readWorkshop(file string, kind string) (map[string]*workshop, error) {
 			maxGrade:          maxGrade,
 			sessionCapacities: sessionCapacities,
 			room:              record[7],
+			sessionGroups:     make(map[int][]group),
 		}
 	}
 
@@ -389,17 +397,23 @@ func readWorkshop(file string, kind string) (map[string]*workshop, error) {
 }
 
 func printWorkshops(workshops map[string]*workshop) {
+	fmt.Println("\n---\n")
 	for id, workshop := range workshops {
-		fmt.Printf("Kind: %s\n", workshop.kind)
 		fmt.Printf("ID: %s\n", id)
 		fmt.Printf("Name: %s\n", workshop.name)
-		fmt.Printf("Grade Range: %d-%d\n", workshop.minGrade, workshop.maxGrade)
-		fmt.Printf("Capacities:")
-		for i := 0; i < 4; i++ {
-			fmt.Printf(" %d", workshop.sessionCapacities[i])
+		fmt.Println("Schedule")
+		fmt.Println("| Available | Students |")
+		fmt.Println("| --------- | -------- |")
+		for i := 0; i < numSessions; i++ {
+			fmt.Printf("| %d | ", workshop.sessionCapacities[i])
+
+			groups := workshop.sessionGroups[i]
+			for _, group := range groups {
+				fmt.Printf("%v,", strings.Join(group.students, ","))
+			}
+			fmt.Printf(" |\n")
 		}
-		fmt.Println("")
-		fmt.Println("-------------")
+		fmt.Println("\n---\n")
 	}
 }
 
@@ -433,20 +447,6 @@ func getGrade(grade string) (int, error) {
 	return strconv.Atoi(grade)
 }
 
-func getRankings(rankings []string, kind int) []string {
-	var ids []string
-	for _, ranking := range rankings {
-		if kind == artWorkshop {
-			ids = append(ids, strings.Trim(ranking, " "))
-
-		} else {
-			ids = append(ids, strings.Trim(ranking, " "))
-		}
-	}
-
-	return ids
-}
-
 func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 	if !workshop.withinGradeRange(group.grade) {
 		log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
@@ -459,7 +459,7 @@ func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 	sessions := workshop.getAvailableSessions(group)
 	if len(sessions) > 0 {
 		randSession := sessions[rand.Intn(len(sessions))]
-		workshop.takeSession(randSession, len(group.students))
+		workshop.takeSession(randSession, group)
 		group.workshops[randSession] = workshop
 
 		return true
