@@ -39,6 +39,52 @@ func main() {
 	}
 	//printWorkshops(sciWorkshops)
 
+	/*log.Printf("=====Booking classes with less than 2 sessions===")
+	smallWorkshops := make(map[string]*workshop)
+	for _, workshop := range artWorkshops {
+		sessions := 0
+		for _, capacity := range workshop.sessionCapacities {
+			if capacity > 0 {
+				sessions++
+			}
+		}
+
+		if sessions < 3 {
+			smallWorkshops[workshop.id] = workshop
+		}
+	}
+	for _, group := range groups {
+		for _, workshop := range smallWorkshops {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				log.Printf("Booked %s/%s to workshop %s", group.teacher, group.name, workshop.name)
+				continue
+			}
+		}
+	}
+
+	log.Printf("=====Booking 3-5 classes===")
+	restrictedWorkshops := make(map[string]*workshop)
+	for _, workshop := range artWorkshops {
+		if workshop.minGrade > 2 {
+			restrictedWorkshops[workshop.id] = workshop
+		}
+	}
+
+	for _, group := range groups {
+		if group.grade < 3 {
+			continue
+		}
+
+		for _, workshop := range restrictedWorkshops {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				log.Printf("Booked %s/%s to workshop %s", group.teacher, group.name, workshop.name)
+				continue
+			}
+		}
+	}*/
+
 	log.Printf("====Booking Parent Classes===\n")
 	for _, group := range groups {
 		for _, parentID := range group.parentIDs {
@@ -68,10 +114,79 @@ func main() {
 		}
 	}
 
+	log.Printf("====Science classes with only 1 session===\n")
+	for _, workshop := range sciWorkshops {
+		sessions := 0
+		for _, capacity := range workshop.sessionCapacities {
+			if capacity > 0 {
+				sessions++
+			}
+		}
+		if sessions != 1 {
+			continue
+		}
+
+		for _, group := range groups {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
+			}
+		}
+	}
+
+	log.Printf("====Restricted Art classes with only 2 session===\n")
+	for _, workshop := range artWorkshops {
+		if workshop.minGrade == 0 && workshop.maxGrade == 5 {
+			continue
+		}
+		sessions := 0
+		for _, capacity := range workshop.sessionCapacities {
+			if capacity > 0 {
+				sessions++
+			}
+		}
+		if sessions != 2 {
+			continue
+		}
+
+		for _, group := range groups {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
+			}
+		}
+	}
+
+	log.Printf("====Restricted Science classes with only 2 session===\n")
+	for _, workshop := range sciWorkshops {
+		if workshop.minGrade == 0 && workshop.maxGrade == 5 {
+			continue
+		}
+		sessions := 0
+		for _, capacity := range workshop.sessionCapacities {
+			if capacity > 0 {
+				sessions++
+			}
+		}
+		if sessions != 2 {
+			continue
+		}
+
+		for _, group := range groups {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
+			}
+		}
+	}
+
 	log.Printf("\n====Booking Art Classes===\n")
 	var needsRandomArt []group
 	for _, group := range groups {
 		sessionsToBook := numArtSessions - group.sessionsBooked(artWorkshop)
+		if sessionsToBook < 1 {
+			continue
+		}
 		for _, id := range group.artIDs {
 			workshop, ok := artWorkshops[id]
 			if !ok {
@@ -97,6 +212,9 @@ func main() {
 	var needsRandomSci []group
 	for _, group := range groups {
 		sessionsToBook := numSciSessions - group.sessionsBooked(sciWorkshop)
+		if sessionsToBook < 1 {
+			continue
+		}
 		for _, id := range group.sciIDs {
 			workshop, ok := sciWorkshops[id]
 			if !ok {
@@ -118,64 +236,91 @@ func main() {
 		}
 	}
 
-	// Assign random sessions if needed
-	log.Printf("\n\n====Booking Random Art Classes===\n")
-	for _, group := range needsRandomArt {
-		log.Printf("NEEDS Random Art %s %s\n", group.teacher, group.name)
-		found := false
-		for _, workshop := range artWorkshops {
-			if !workshop.withinGradeRange(group.grade) {
-				continue
+	/*fmt.Printf("Science classes with only 1 session: %d\n", len(needsRandomArt))
+	for _, workshop := range sciWorkshops {
+		sessions := 0
+		for _, capacity := range workshop.sessionCapacities {
+			if capacity > 0 {
+				sessions++
 			}
-			if group.isEnrolledInWorkshop(workshop.id) {
-				continue
-			}
-			sessions := workshop.getAvailableSessions(group)
-			for _, session := range sessions {
-				if group.workshops[session] == nil {
-					workshop.takeSession(session, group)
-					group.workshops[session] = workshop
-					found = true
-					break
+		}
+		if sessions != 1 {
+			continue
+		}
 
-				}
-			}
-			if found {
+		for i, group := range needsRandomSci {
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				needsRandomSci = remove(needsRandomSci, i)
 				break
 			}
 		}
-		if !found {
-			log.Printf("Still not found Art for %s %s\n", group.teacher, group.name)
+	}*/
+
+	/*for _, workshop := range artWorkshops {
+		//if workshop.minGrade < 3 {
+		//	continue
+		//}
+
+		for i, group := range needsRandomArt {
+			if group.grade < 3 {
+				continue
+			}
+
+			booked := bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				needsRandomArt = remove(needsRandomArt, i)
+				break
+			}
+
+		}
+		
+	}
+
+	fmt.Printf("Unbooked art: %d\n", len(needsRandomArt))*/
+
+	// Assign random sessions if needed
+	log.Printf("\n\n====Booking Random Art Classes===\n")
+	for _, group := range needsRandomArt {
+		booked := false
+		for _, workshop := range artWorkshops {
+			booked = bookWorkshopIfAvailable(workshop, group)
+			if booked {
+				break
+			}
+		}
+		if !booked {
+			for _, workshop := range sciWorkshops {
+				booked = bookWorkshopIfAvailable(workshop, group)
+				if booked {
+					break
+				}
+			}
+			if !booked {
+				log.Printf("Still not found Art for %s %s\n", group.teacher, group.name)
+			}
 		}
 	}
 
 	log.Printf("\n\n====Booking Random Science Classes===\n")
 	for _, group := range needsRandomSci {
-		log.Printf("NEEDS Random Sci %s\n", group.name)
-		found := false
+		booked := false
 		for _, workshop := range sciWorkshops {
-			if !workshop.withinGradeRange(group.grade) {
-				continue
-			}
-			if group.isEnrolledInWorkshop(workshop.id) {
-				continue
-			}
-			sessions := workshop.getAvailableSessions(group)
-			for _, session := range sessions {
-				if group.workshops[session] == nil {
-					workshop.takeSession(session, group)
-					group.workshops[session] = workshop
-					found = true
-					break
-
-				}
-			}
-			if found {
+			booked = bookWorkshopIfAvailable(workshop, group)
+			if booked {
 				break
 			}
 		}
-		if !found {
-			log.Printf("Still not found Sci for %s %s\n", group.teacher, group.name)
+		if !booked {
+			for _, workshop := range artWorkshops {
+				booked = bookWorkshopIfAvailable(workshop, group)
+				if booked {
+					break
+				}
+			}
+			if !booked {
+				log.Printf("Still not found Sci for %s %s\n", group.teacher, group.name)
+			}
 		}
 	}
 
@@ -452,11 +597,11 @@ func getGrade(grade string) (int, error) {
 
 func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 	if !workshop.withinGradeRange(group.grade) {
-		log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+		//log.Printf("Mismatched grade id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
 		return false
 	}
 	if group.isEnrolledInWorkshop(workshop.id) {
-		log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+		//log.Printf("Duplicate workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
 		return false
 	}
 	sessions := workshop.getAvailableSessions(group)
@@ -468,7 +613,7 @@ func bookWorkshopIfAvailable(workshop *workshop, group group) bool {
 		return true
 	}
 
-	log.Printf("Unable to book session, its full. workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
+	//log.Printf("Unable to book session, its full. workshop id=%s teacher=%s group=%s\n", workshop.id, group.teacher, group.name)
 
 	return false
 }
@@ -479,4 +624,8 @@ func idToKind(id string) int {
 	}
 
 	return sciWorkshop
+}
+
+func remove(slice []group, s int) []group {
+    return append(slice[:s], slice[s+1:]...)
 }
