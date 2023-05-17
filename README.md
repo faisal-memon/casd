@@ -6,10 +6,10 @@ Students =  Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez,
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | A6 | Marble Run (K-5) | 107 - Max |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -21,10 +21,10 @@ Students =  Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 
 ---
 
@@ -36,10 +36,10 @@ Students =  Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Arms
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A15 | SF Ballet (3-5) | Library |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 
 ---
 
@@ -51,10 +51,10 @@ Students =  Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -66,10 +66,10 @@ Students =  Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan 
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A1 | Shibori (K-5) | 207 - Tanaka |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
 
@@ -81,10 +81,10 @@ Students =  Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafso
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -96,10 +96,10 @@ Students =  Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schw
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A6 | Marble Run (K-5) | 107 - Max |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 
 ---
 
@@ -111,10 +111,10 @@ Students =  Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Ro
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A6 | Marble Run (K-5) | 107 - Max |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -126,10 +126,10 @@ Students =  Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimia
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -141,10 +141,10 @@ Students =  Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A1 | Shibori (K-5) | 207 - Tanaka |
 
 ---
 
@@ -157,9 +157,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A1 | Shibori (K-5) | 207 - Tanaka |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -171,10 +171,10 @@ Students =  Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -186,10 +186,10 @@ Students =  Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| A1 | Shibori (K-5) | 207 - Tanaka |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S19 | Slime (K-5) | 202 - Allison |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -201,10 +201,10 @@ Students =  Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A15 | SF Ballet (3-5) | Library |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -216,10 +216,10 @@ Students =  Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| A6 | Marble Run (K-5) | 107 - Max |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -231,10 +231,10 @@ Students =  Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Lu
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -247,9 +247,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A6 | Marble Run (K-5) | 107 - Max |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -261,10 +261,10 @@ Students =  Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aur
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -276,10 +276,10 @@ Students =  Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, And
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -291,10 +291,10 @@ Students =  Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantulia
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S19 | Slime (K-5) | 202 - Allison |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -306,10 +306,10 @@ Students =  Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Be
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -321,10 +321,10 @@ Students =  Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A1 | Shibori (K-5) | 207 - Tanaka |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -337,9 +337,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| A7 | Taiko (K-5) | 109 - Otsuki |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A6 | Marble Run (K-5) | 107 - Max |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -351,10 +351,10 @@ Students =  Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A15 | SF Ballet (3-5) | Library |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -366,10 +366,10 @@ Students =  Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A6 | Marble Run (K-5) | 107 - Max |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -381,10 +381,10 @@ Students =  Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A15 | SF Ballet (3-5) | Library |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 
 ---
 
@@ -396,10 +396,10 @@ Students =  Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A6 | Marble Run (K-5) | 107 - Max |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -411,10 +411,10 @@ Students =  Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
-| A6 | Marble Run (K-5) | 107 - Max |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A1 | Shibori (K-5) | 207 - Tanaka |
 
 ---
 
@@ -426,10 +426,10 @@ Students =  Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A7 | Taiko (K-5) | 109 - Otsuki |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A6 | Marble Run (K-5) | 107 - Max |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -441,8 +441,8 @@ Students =  Mathias, Radar, Arsh, Sena, Devin
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| A6 | Marble Run (K-5) | 107 - Max |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
@@ -456,10 +456,10 @@ Students =  Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A6 | Marble Run (K-5) | 107 - Max |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
 
@@ -471,10 +471,10 @@ Students =  Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -487,9 +487,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| A6 | Marble Run (K-5) | 107 - Max |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A15 | SF Ballet (3-5) | Library |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
 ---
 
@@ -501,10 +501,10 @@ Students =  Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -516,10 +516,10 @@ Students =  Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A15 | SF Ballet (3-5) | Library |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
 
@@ -531,10 +531,10 @@ Students =  Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
-| A7 | Taiko (K-5) | 109 - Otsuki |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
 ---
 
@@ -546,10 +546,10 @@ Students =  Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A7 | Taiko (K-5) | 109 - Otsuki |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
 ---
 
@@ -561,10 +561,10 @@ Students =  James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, N
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A14 | SF Ballet (K-2) | Library |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
 
@@ -577,8 +577,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | A6 | Marble Run (K-5) | 107 - Max |
 
 ---
@@ -591,10 +591,10 @@ Students =  Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffe
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
 
@@ -606,10 +606,10 @@ Students =  Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S21 | Chromatography (K-5) | 205 - Amber |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -621,10 +621,10 @@ Students =  Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A6 | Marble Run (K-5) | 107 - Max |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
 | A8 | Puppets (3-5) | 310 - Jody |
-| A15 | SF Ballet (3-5) | Library |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -636,10 +636,10 @@ Students =  Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A6 | Marble Run (K-5) | 107 - Max |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -651,10 +651,10 @@ Students =  Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
 
@@ -666,10 +666,10 @@ Students =  Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A8 | Puppets (3-5) | 310 - Jody |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
 
@@ -681,10 +681,10 @@ Students =  Fiona, Rumi, Frankie, Temujin, Aidan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A14 | SF Ballet (K-2) | Library |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -696,10 +696,10 @@ Students =  Avian, Kingsley, Diego, Eli, Radar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -711,10 +711,10 @@ Students =  Callan, Isabella, Andrew, Simone, Wesley
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A14 | SF Ballet (K-2) | Library |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -726,10 +726,10 @@ Students =  Francisc, Enzo, Mabel, Ciara, Aarnika
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A4 | Yoga (K-5) | 314 - Debbie |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -741,10 +741,10 @@ Students =  Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, L
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| S21 | Chromatography (K-5) | 205 - Amber |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -756,10 +756,10 @@ Students =  Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A8 | Puppets (3-5) | 310 - Jody |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -771,10 +771,10 @@ Students =  Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan 
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A15 | SF Ballet (3-5) | Library |
-| A8 | Puppets (3-5) | 310 - Jody |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -786,10 +786,10 @@ Students =  Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chau
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A15 | SF Ballet (3-5) | Library |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| S19 | Slime (K-5) | 202 - Allison |
+| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -801,10 +801,10 @@ Students =  Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabel
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -816,10 +816,10 @@ Students =  Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| A6 | Marble Run (K-5) | 107 - Max |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -831,10 +831,10 @@ Students =  Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A4 | Yoga (K-5) | 314 - Debbie |
+| A14 | SF Ballet (K-2) | Library |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| S19 | Slime (K-5) | 202 - Allison |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -846,10 +846,10 @@ Students =  Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| A14 | SF Ballet (K-2) | Library |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -861,10 +861,10 @@ Students =  Harrison H., Daniel J., Shia G., Elijah S., Bea F.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S19 | Slime (K-5) | 202 - Allison |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -876,10 +876,10 @@ Students =  Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jea
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A15 | SF Ballet (3-5) | Library |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 
 ---
 
@@ -891,10 +891,10 @@ Students =  Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| A15 | SF Ballet (3-5) | Library |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -906,10 +906,10 @@ Students =  Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -921,10 +921,10 @@ Students =  Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -936,10 +936,10 @@ Students =  Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
 | A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A1 | Shibori (K-5) | 207 - Tanaka |
 
 ---
 
@@ -951,10 +951,10 @@ Students =  Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A15 | SF Ballet (3-5) | Library |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -966,10 +966,10 @@ Students =  Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A4 | Yoga (K-5) | 314 - Debbie |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
 
@@ -981,10 +981,10 @@ Students =  Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A4 | Yoga (K-5) | 314 - Debbie |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
 
@@ -996,10 +996,10 @@ Students =  Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -1011,10 +1011,10 @@ Students =  Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
+| A14 | SF Ballet (K-2) | Library |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S19 | Slime (K-5) | 202 - Allison |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
 
@@ -1026,10 +1026,10 @@ Students =  Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A4 | Yoga (K-5) | 314 - Debbie |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -1041,10 +1041,10 @@ Students =  Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
+| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -1056,10 +1056,10 @@ Students =  Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
 
 ---
 
@@ -1071,10 +1071,10 @@ Students =  Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1086,10 +1086,10 @@ Students =  Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya 
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -1101,10 +1101,10 @@ Students =  Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Marti
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -1116,9 +1116,10 @@ Students =  Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roma
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 
 ---
 
@@ -1130,9 +1131,9 @@ Students =  Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLu
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -1144,9 +1145,10 @@ Students =  Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -1158,10 +1160,10 @@ Students =  Park Jackson, Denton Michalec, Jade Velasquez, Ruby Leroy
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
 
@@ -1173,10 +1175,10 @@ Students =  Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| A14 | SF Ballet (K-2) | Library |
+| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -1188,10 +1190,9 @@ Students =  Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S19 | Slime (K-5) | 202 - Allison |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -1203,10 +1204,9 @@ Students =  Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -1218,10 +1218,10 @@ Students =  Kilian Devie, Elias Henningsen, Maya Stein, Isla Maguire
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -1233,10 +1233,10 @@ Students =  Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -1249,9 +1249,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1263,10 +1263,10 @@ Students =  Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A6 | Marble Run (K-5) | 107 - Max |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -1278,10 +1278,10 @@ Students =  James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A8 | Puppets (3-5) | 310 - Jody |
+| A15 | SF Ballet (3-5) | Library |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 
 ---
 
@@ -1293,10 +1293,10 @@ Students =  Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -1308,10 +1308,10 @@ Students =  Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S19 | Slime (K-5) | 202 - Allison |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A8 | Puppets (3-5) | 310 - Jody |
+| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -1323,10 +1323,10 @@ Students =  Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
 
@@ -1338,10 +1338,9 @@ Students =  Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S21 | Chromatography (K-5) | 205 - Amber |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1353,9 +1352,9 @@ Students =  Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Ki
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S19 | Slime (K-5) | 202 - Allison |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1367,9 +1366,8 @@ Students =  Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -1382,8 +1380,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A14 | SF Ballet (K-2) | Library |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -1395,10 +1393,9 @@ Students =  Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A8 | Puppets (3-5) | 310 - Jody |
 
 ---
 
@@ -1410,9 +1407,10 @@ Students =  Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A8 | Puppets (3-5) | 310 - Jody |
+| A15 | SF Ballet (3-5) | Library |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -1424,10 +1422,10 @@ Students =  Keith Williams, Jamariea Newt, Joie Zang
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1439,9 +1437,10 @@ Students =  Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -1454,9 +1453,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A14 | SF Ballet (K-2) | Library |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -1468,9 +1467,8 @@ Students =  Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
-| A14 | SF Ballet (K-2) | Library |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -1482,9 +1480,8 @@ Students =  Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A4 | Yoga (K-5) | 314 - Debbie |
 | S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
-| A14 | SF Ballet (K-2) | Library |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | S19 | Slime (K-5) | 202 - Allison |
 
 ---
@@ -1497,9 +1494,9 @@ Students =  Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A14 | SF Ballet (K-2) | Library |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
 | A1 | Shibori (K-5) | 207 - Tanaka |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 
 ---
 
@@ -1511,10 +1508,9 @@ Students =  Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano C
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| A14 | SF Ballet (K-2) | Library |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 
 ---
 
@@ -1526,9 +1522,9 @@ Students =  Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maf
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
-| A14 | SF Ballet (K-2) | Library |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -1540,9 +1536,9 @@ Students =  Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Ma
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 | A14 | SF Ballet (K-2) | Library |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -1554,9 +1550,8 @@ Students =  Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia P
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
-| A14 | SF Ballet (K-2) | Library |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
 
@@ -1568,9 +1563,9 @@ Students =  Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 | A14 | SF Ballet (K-2) | Library |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -1583,8 +1578,7 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 
 ---
 
@@ -1596,9 +1590,8 @@ Students =  Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Mon
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -1610,9 +1603,9 @@ Students =  Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Au
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A14 | SF Ballet (K-2) | Library |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 

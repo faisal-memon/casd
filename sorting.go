@@ -243,8 +243,8 @@ func readGroups(file string) ([]group, error) {
 			return nil, fmt.Errorf("reading grade %s %s: %v", record[1], record[2], err)
 		}
 
-		artIDs := getRankings(record[6:8], artWorkshop)
-		sciIDs := getRankings(record[8:10], sciWorkshop)
+		artIDs := record[6:8]
+		sciIDs := record[8:10]
 
 		groups = append(groups, group{
 			teacher:   record[1],
@@ -437,10 +437,10 @@ func getRankings(rankings []string, kind int) []string {
 	var ids []string
 	for _, ranking := range rankings {
 		if kind == artWorkshop {
-			ids = append(ids, strings.Trim("A"+ranking, " "))
+			ids = append(ids, strings.Trim(ranking, " "))
 
 		} else {
-			ids = append(ids, strings.Trim("S"+ranking, " "))
+			ids = append(ids, strings.Trim(ranking, " "))
 		}
 	}
 
