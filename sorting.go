@@ -238,23 +238,23 @@ func readGroups(file string) ([]group, error) {
 			return nil, err
 		}
 
-		grade, err := getGrade(record[2])
+		grade, err := getGrade(record[3])
 		if err != nil {
-			return nil, err
+			return nil, fmt.Errorf("reading grade %s %s: %v", record[1], record[2], err)
 		}
 
-		artIDs := getRankings(record[5:9], artWorkshop)
-		sciIDs := getRankings(record[9:13], sciWorkshop)
+		artIDs := getRankings(record[6:8], artWorkshop)
+		sciIDs := getRankings(record[8:10], sciWorkshop)
 
 		groups = append(groups, group{
-			teacher:   record[0],
+			teacher:   record[1],
 			grade:     grade,
-			name:      record[3],
-			students:  strings.Split(record[4], ","),
+			name:      record[4],
+			students:  strings.Split(record[5], ","),
 			artIDs:    artIDs,
 			sciIDs:    sciIDs,
 			workshops: make([]*workshop, 4),
-			parentIDs: strings.Split(record[13], " "),
+			parentIDs: strings.Split(record[10], " "),
 		})
 	}
 

@@ -1,59 +1,110 @@
-﻿Teacher Name,Room Number,Grade,Group number,Names of students in this group (first and last),Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Art Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,presenter kids
-Joli Gordon,103,1,Group 1,"Surii C, Zekey A, Ayla E, Mason A, Luca J",16,7,7,7,13,3,5,15,0
-Joli Gordon,103,1,Group 2,"Loenardo Z, Matteo B, Thara K, Hana H, Annika N, Daniel V",5,2,10,15,3,18,7,11,0
-Joli Gordon,103,1,Group 3,"Owen B, Tobin M, Taylor B, Thomas W, Gia S",5,8,1,8,14,6,20,6,0
-Joli Gordon,103,1,Group 4,"Anya Z, Ellion L, Eddie B, Senan D, Daska P, Ethan M",16,11,13,1,8,6,11,5,0
-Kristi Otsuki,109,1,Group 1,"Jack Strohl, Miles Sezak, Takeo Malong, Amelia Tran, Kate Skomoroch",12,10,16,9,2,9,9,10,0
-Kristi Otsuki,109,1,Group 2,"Josie Dobson, Ja'Nyah Johnson, Maizie Rosen, Milton Donald, Gael Ouye",13,5,9,15,9,1,18,9,0
-Kristi Otsuki,109,1,Group 3,"Mason Tachiki, Aurora Buenviaje, Rishin Bhatia, Flora Twardos, Riley O'Rourke",2,12,3,17,18,8,16,13,0
-Kristi Otsuki,109,1,Group 4,"Olivia Dans, Ren Hawkins, Ta'ziyah Tuimavave, Evertt Dolph, Mika Pfalzer",14,5,11,9,5,17,10,20,0
-Mr. Fonseca,105,1,Group 1,"Leo M, Ollie H, Matthew S, Joni R, Ava M, Shyam S",18,10,12,18,8,9,9,21,0
-Mr. Fonseca,105,1,Group 2,"Earl F, Yuki A-L, Grace Mc, Colin M, Josiah J",18,7,2,18,21,6,9,20,0
-Mr. Fonseca,105,1,Group 3,"Maddox B, Kennedy T, Kai J, Marni M, Ione Y",17,7,16,18,1,12,15,13,0
-Mr. Fonseca,105,1,Group 4,"Juya M, Docket S, Rebecca C, Jancy J, Mika F",4,15,15,8,12,3,13,19,0
-Sam Sambrone,102,1,Group 1,"Maren, Townes, Shivani, Niko, Lucas",14,17,8,4,11,16,18,9,S9
-Sam Sambrone,102,1,Group 2,"Gretchen, Nadav, Shreya, Beneal, Zack",6,17,18,2,1,16,12,7,0
-Sam Sambrone,102,1,Group 3,"Nora, Adam, Sophie, Seva, Amani, Jackson",8,11,8,5,20,9,17,12,0
-Sam Sambrone,102,1,Group 4,"Penny, Thaze, Jaclyn, Lorenzo, Lillian, Jakoby",2,15,18,12,7,13,15,14,0
-Debbie Rauchwerger,118,2,Group 1,"Emile Greenhouse, Christy Kong, Samuel Larson, Madelene Hu, Sebastian Arbuthnot",14,6,6,1,5,7,5,7,S7
-Debbie Rauchwerger,118,2,Group 2,"Shea Folan, Lucy Cervarich, Dash Copley, Ethan Pearlmutter, Jared Zhou, Liam Mar",5,6,11,17,5,21,11,8,S10
-Debbie Rauchwerger,118,2,Group 3,"Sigal Weston, Keinnor Robleto, Taj Hutton, Sadie Shispinski, Joshua Sassouni-Wagnon",12,16,6,16,2,9,10,9,0
-Debbie Rauchwerger,118,2,Group 4,"Zoby Liu, Kevin Diaz, Alexis Boshernitsan, Serafina Sharkey, Ethan Corcuchia, Aiden Costello",7,6,9,8,4,10,20,16,0
-Gale Nakasone,107,2,Group 1,"Asha T, Ellie T, Violet W, Asher M-T, Jonah G",14,1,18,3,13,17,1,6,0
-Gale Nakasone,107,2,Group 2,"Brynner C, Charlotte S, Nicholas V, Evangelina M, Kane F",12,9,8,2,9,17,3,6,S21
-Gale Nakasone,107,2,Group 3,"Caoimhe D, Elise R, Milo B, Emil Q, Faizan J, Sylvie H",3,9,14,5,7,1,17,18,0
-Gale Nakasone,107,2,Group 4,"David K, Ellie M, Paxson Y-S, Hana S, Kaito K-K, Winter C",10,1,17,14,4,2,7,20,S16
-Minika Lowe ( Ms. Lowe),120,2,Group 1,"Siena D, Sasha F, Kai G, Adele M, Finn N, Maya T",4,8,3,10,17,4,2,9,0
-Minika Lowe (Ms. Lowe),120,2,Group 2,"Izzy D, Diego F, Cecilia K, Jackson M, Marley M, Quincy T",2,16,18,4,6,4,10,11,0
-Minika Lowe (Ms. Lowe),120,2,Group 3,"Amelia F, Giulia M, Ethan G, Abdiel R, Callie M, Erika Y",16,15,1,7,2,15,11,4,0
-Minika Lowe (Ms. Lowe),120,2,Group 4,"Emerson H, Sabina K, Miyu M, Eren T, Sei W",2,1,8,1,6,3,1,4,0
-Susie L,122,2,Group 1,"Aaron L, Kaden M, Angie A, Theo A, Sharvi R",2,7,5,13,20,1,8,15,S11
-Susie L,122,2,Group 2,"Jasper, Julianna D, Efrata T, Isaac B, Paul O, Ryo E",5,16,3,9,4,21,13,2,0
-Susie L,122,2,Group 3,"Hazel S, James S, Nicholas L, Jacob B, Juliana E",7,14,5,18,3,17,2,10,S15
-Susie L,122,2,Group 4,"Santiago S, Mirae O, Enapay F, Finnoula M, Cullen M",2,11,6,2,16,1,10,3,0
-Allison de Wit,119,3,Group 1,"Oscar A, Emilio B, Leo V, Yannai M, Kody G, Trey H",8,3,12,5,4,1,16,16,
-Allison de Wit,119,3,Group 2,"Devin K, Yeonkyung C, Kevin Z, Isabella M, Emerson S, Finn S",13,10,10,6,12,21,7,1,0
-Allison de Wit,119,3,Group 3,"Cara H, Madeline L, Sarina P, Alina L, Ziv M",10,4,10,17,3,1,3,2,0
-Allison de Wit,119,3,Group 4,"Natalia J, Oakely B, Henry F, Braulio B, Jayvyn Z",10,16,2,14,17,15,2,3,0
-Amber Lewis-Francis,205,5,Group 1,"Emily Shispinski, Angelina Valentini, Lucia Cornelius, Owen Robertson, Jack Larsen",2,11,18,7,17,17,15,10,0
-Amber Lewis-Francis,205,5,Group 2,"Claire Young, Eva Sinyaver, Forrest Ulfig, Sebastian Gomes, Nick Warnery",3,6,1,5,16,14,6,19,0
-Amber Lewis-Francis,205,5,Group 3,"Elda Tesfai, Emma Li, Aidan Baird, Darragh McLaughlin, August Iribarne",16,8,13,4,10,19,14,21,0
-Amber Lewis-Francis,205,5,Group 4,"Lucia Greenhouse, Eve Axelrod, Lisandro Santos, Jayvon Padilla, Silas Shaw",16,4,11,13,7,15,19,10,S7 S9
-Amber Lewis-Francis,205,5,Group 5,"Claire Algazi, Tawan S-Murphy, Catherine Chin, Eamon Matthew, Max Power",13,16,5,14,19,7,5,8,0
-Amber Lewis-Francis,205,5,Group 6,"Hyunjae Oh, Evan Wu, Logan Williams, Mason Williams, Avi Meron",6,16,4,9,19,9,16,11,0
-Kumiko Nagata,203,5,Group 1,"Mickey Ferraro, Megan Leung, Nami Wolfus, Fred Davis, Nicky Higa, Diya Sharma",15,14,12,17,6,4,19,7,0
-Kumiko Nagata,203,5,Group 2,"Zoe Freeman, Lina Salamon, Kai Tanimoto, Parker Nash, Diego Arce, Gen Iwahashi",17,1,14,7,5,10,4,12,A6
-Kumiko Nagata,203,5,Group 3,"Aesha Gluck, Eva Tonella, Dash Hill, Luna Le Stum, Oisin Donovan",3,16,9,3,11,15,11,3,0
-Kumiko Nagata,203,5,Group 4,"Kai McCabe, Azra Bashir, Lucio Guiulfo, Kaira Okamoto, Stephanie Lin, Ella Steer",6,4,16,12,18,5,16,9,A11
-Kumiko Nagata,203,5,Group 5,"Mason Weir, Christopher Hoyos, Christopher Hsu, Maxston Popov, Jacqueline Lisker",12,3,7,17,4,15,17,11,0
-mrs. e ,206,5,Group 1,"Keira Gerstley, Simon Rudoff, Marley Hammons, Anju Manfred, Jin Vanholder",7,12,13,18,14,4,15,20,0
-Mrs. E.,206,5,Group 2,"Nalin Pradhan, Fabian Waschbuesch, Reina Yee, Alex Hypes, Kristy Xu",7,11,7,5,11,12,14,20,A6
-Mrs. E.,206,5,Group 3,"Ma'at Clark, Kai Tabas, Natalie Moran, Raine Chuang, Storie Jones, Finn O'Connor",17,6,17,1,7,2,6,6,S2 A6
-Mrs. E.,206,5,Group 4,"Aidan Jew, Yuki Wolfus, Tea Stock, Kanoe Palmer, Lucas Masuda",9,5,8,14,14,13,13,18,0
-Mrs. E.,206,5,Group 5,"Siena Bianchi, Mayumi Takeda, Gen Butler, Colin Tam, Austin Blaylock",7,5,16,10,2,14,5,10,A6
-Mrs. E.,206,5,Group 6,"Miyu Hongo, Emily Taylor, Canter Stanford, Troy Hegwood, Jackson Fukutome",8,4,10,6,16,2,19,21,S17
-Olivia Pope,214,5,Group 1,"Ali G., Grace A., Grace K., Avery G., Griffin G-S., Bradley C.",11,18,14,12,8,16,7,5,0
-Olivia Pope,214,5,Group 2,"Jimena C., Fanni M., Vienne., Dietrich W., Jonty S., Sami E.",7,7,17,9,5,15,6,19,0
-Olivia Pope,214,5,Group 3,"Dyan A., Caeden H., Royce M., Nora P., Noa S-C., Riya R.",5,15,8,2,19,15,18,21,S18
-Olivia Pope,214,5,Group 4,"Michael M., Jaleah F-W., Thavas A., Julian A., Nahom T., Druv P.",7,11,16,16,12,9,20,8,0
-Olivia Pope,214,5,Group 5,"Korynna L., Jack B., Sebastian M., Kalena G., Golda A., Sasha D.",13,5,14,4,11,12,14,13,0
+﻿Timestamp,Teacher Name,Room Number,Grade,Group number,Names of students in this group (first and last),Art Wrkshp ranking,Art Wrkshp ranking,Sci Wrkshp ranking,Sci Wrkshp ranking,Presenter Kids,,,,,,
+5/15/2023 14:57:57,Allison de Wit,202,3,Group 1,"Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao",A6,A12,S2,S18,,,,,,,
+5/15/2023 15:08:05,Allison de Wit,202,3,Group 2,"Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White",A9,A11,S17,S19,,,,,,,
+5/15/2023 15:11:49,Allison de Wit,202,3,Group 3,"Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong",A9,A16,S13,S17,,,,,,,
+5/15/2023 15:14:45,Allison de Wit,202,3,Group 4,"Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye",A11 ,A17,S13,S15,,,,,,,
+5/15/2023 18:48:52,Amber Lewis-Francis,205,5,Group 1,"Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck",A16,A11,S1,S19,,,,,,,
+5/15/2023 18:50:18,Amber Lewis-Francis,205,5,Group 2,"Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye",A11,A17,S16,S15,,,,,,,
+5/15/2023 18:51:55,Amber Lewis-Francis,205,5,Group 3,"Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda",A6,A11,S13,S17,,,,,,,
+5/15/2023 18:53:43,Amber Lewis-Francis,205,5,Group 4,"Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger",A6,A16,S1,S13,,,,,,,
+5/15/2023 18:55:50,Amber Lewis-Francis,205,5,Group 5,"Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak",A9,A18,S16,S17,,,,,,,
+5/15/2023 13:51:36,Colleen Tate,204,3,Group 1,"Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi",A7,A9,S13,S17,S13 ,,,,,,
+5/15/2023 13:53:03,Colleen Tate,204,3,Group 2,"Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura",A9,A11,S13,S19,S17,,,,,,
+5/15/2023 13:54:15,Colleen Tate,204,3,Group 3,"Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts",A1,A9,S13,S1,,,,,,,
+5/15/2023 13:55:34,Colleen Tate,204,3,Group 4,"Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder",A3,A9,S14,S19,A2,,,,,,
+5/15/2023 13:56:36,Colleen Tate,204,3,Group 5,"Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic",A9,A7,S17,S19,,,,,,,
+5/15/2023 11:41:33,Deanna Tak,105,1,Group 1,"Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis",A11,A17,S15,S21,,,,,,,
+5/15/2023 11:43:15,Deanna Tak,105,1,Group 2,"Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao",A9,A7,S16,S13,,,,,,,
+5/15/2023 11:44:18,Deanna Tak,105,1,Group 3,"Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser",A10,A2,S12,S17,A3,,,,,,
+5/15/2023 11:46:38,Deanna Tak,105,1,Group 4,"Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje",A1,A3,S20,S19,,,,,,,
+5/12/2023 16:24:57,Debbie Rauchwerger,314,2,Group 1,"Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong",A1,A9,S17,S19,,,,,,,
+5/12/2023 16:28:09,Debbie Rauchwerger,314,2,Group 2,"Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano",A9,A18,S15,S19,,,,,,,
+5/12/2023 16:32:27,Debbie Rauchwerger,314,2,Group 3,"Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker",A11,A4,S17,S13,,,,,,,
+5/12/2023 16:35:27,Debbie Rauchwerger,314,2,Group 4,"Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa",A5,A12,S20,S17,,,,,,,
+5/12/2023 19:16:11,Denise Ebisuzaki,206,4,Group 1,"Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons",A6,A10,S16,S17,A12,,,,,,
+5/12/2023 19:18:55,Denise Ebisuzaki,206,5,Group 2,"Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas",A11,A15,S17,S15,,,,,,,
+5/12/2023 19:21:27,Denise Ebisuzaki,206,4,Group 3,"Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori",A17,A2,S16,S1,,,,,,,
+5/12/2023 19:23:31,Denise Ebisuzaki,206,5,Group 4,"Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson",A12,A17,S15,S1,,,,,,,
+5/12/2023 19:25:55,Denise Ebisuzaki,206,5,Group 5,"Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk",A11,A17,S13,S17,,,,,,,
+5/12/2023 19:28:42,Denise Ebisuzaki,206,4,Group 6,"Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka",A1,A17,S13,S1,,,,,,,
+5/12/2023 19:30:39,Denise Ebisuzaki,206,5,Group 7,"Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan",A11,A17,S1,S17,,,,,,,
+5/15/2023 17:40:04,Dr. Q,116,2,Group 1,"Mathias, Radar, Arsh, Sena, Devin ",A5,A6,S12,S11,,,,,,,
+5/15/2023 17:42:22,Dr. Q,116,2,Group 2,"Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang",A6,A5,S11,S12,,,,,,,
+5/12/2023 16:29:54,Gabriel Leonoudakis/ Katheleen Sheridan,209,4,Grade 4-Group 3 ,"Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar",A11,A18,S14,S17,,,,,,,
+5/12/2023 16:43:00,Gabriel leonoudakis/ Kathleen Sheridan,209,5,Grade 5-Group 2 ,"Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman",A11,A15,S15,S16,,,,,,,
+5/12/2023 16:17:03,Gabriel Leonoudakis/ Kathleen Sheridan ,209,4,Grade 4-Group 1 ,"Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan",A9,A11,S13,S12,,,,,,,
+5/12/2023 16:20:29,Gabriel Leonoudakis/ Kathleen Sheridan ,209,4,Grade 4-Group 2 ,"Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur",A11,A16,S12,S15,,,,,,,
+5/12/2023 16:38:07,Gabriel Leonoudakis/ Kathleen Sheridan ,209,5,Grade 5-Group 1,"Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus",A11,A12,S15,S16,,,,,,,
+5/12/2023 16:46:55,Gabriel leonoudakis/ Kathleen Sheridan ,209,5,Grade 5-Group 3 ,"Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson",A11,A16,S1,S15,,,,,,,
+5/15/2023 14:49:14,Jessie Wesoky,1,K,Group 1,"James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan",A14,A13,S1,S7,,,,,,,
+5/15/2023 14:52:08,Jessie Wesoky,1,K,Group 2,"Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley",A6,A12,S17,S9,,,,,,,
+5/15/2023 14:54:14,Jessie Wesoky,1,K,Group 3,"Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams",A7,A18,S12,S13,,,,,,,
+5/15/2023 14:55:42,Jessie Wesoky,1,K,Group 4,"Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer",A11,A3,S2,S11,,,,,,,
+5/12/2023 14:20:16,Jody Frandle,310,3,Group 1,"Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell",A6,A16,S1,S17,A8,,,,,,
+5/12/2023 14:22:52,Jody Frandle ,310,3,Group 2,"Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar",A6,A12,S8,S11,,,,,,,
+5/12/2023 14:24:58,Jody Frandle ,310,3,Group 3,"Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes",A10,A12,S7,S15,,,,,,,
+5/12/2023 14:27:52,Jody Frandle ,310,3,Group 4,"Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly",A12,A16,S17,S7,,,,,,,
+5/16/2023 10:10:50,Joli Gordon,103,1,Group 1,"Fiona, Rumi, Frankie, Temujin, Aidan",A11,A14,S11,S8,A17,,,,,,
+5/16/2023 10:11:51,Joli Gordon,103,1,Group 2,"Avian, Kingsley, Diego, Eli, Radar",A13,A18,S4,S21,,,,,,,
+5/16/2023 10:12:41,Joli Gordon,103,1,Group 3,"Callan, Isabella, Andrew, Simone, Wesley",A10,A14,S16,S1,,,,,,,
+5/16/2023 10:13:28,Joli Gordon,103,1,Group 4,"Francisc, Enzo, Mabel, Ciara, Aarnika",A4,A3,S2,S3,,,,,,,
+5/12/2023 14:24:42,Junko Tanaka,207,4,Group 1,"Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh",A2,A1,S17,S13,A18 A1 A2,,,,,,
+5/12/2023 14:26:25,Junko Tanaka,207,4,Group 2,"Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala",A9,A16,S16,S7,,,,,,,
+5/12/2023 14:27:54,Junko Tanaka,207,4,Group 3,"Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman",A1,A11,S12,S17,,,,,,,
+5/12/2023 14:23:51,Junko Tanaka,207,4,Group 4,"Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari",A6,A11,S17,S19,,,,,,,
+5/12/2023 14:25:39,Junko Tanaka,207,4,Group 5,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron,A17,A6,S19,S17,A9,,,,,,
+5/16/2023 10:17:22,Max Octigan,107,1,Group 3,"Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.",A6,A17,S20,S21,,,,,,,
+5/16/2023 10:16:11,Max Octigan,107,1,Group 2,"Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.",A3,A14,S12,S17,,,,,,,
+5/16/2023 10:18:31,Max Octigan,107,1,Group 4,"Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.",A14,A18,S11,S3,,,,,,,
+5/16/2023 10:15:08,Max Octigan,107,1,Group 1,"Harrison H., Daniel J., Shia G., Elijah S., Bea F.",A2,A1,S8,S14,,,,,,,
+5/15/2023 17:17:16,Maxwell Raynard,203,5,Group 5,"Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip",A9,A12,S17,S16,,,,,,,
+5/15/2023 17:19:05,Maxwell Raynard,203,5,Group 6,"Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi",A9,A11,S6,S7,,,,,,,
+5/15/2023 17:20:22,Maxwell Raynard,203,5,Group 1,"Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim",A9,A16,S17,S19,,,,,,,
+5/15/2023 17:21:52,Maxwell Raynard,203,5,Group 2,"Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson",A1,A9,S18,S19,,,,,,,
+5/15/2023 17:23:19,Maxwell Raynard,203,5,Group 3,"Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz",A11,A1,S17,S18,,,,,,,
+5/15/2023 17:24:41,Maxwell Raynard,203,5,Group 4,"Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino",A1,A9,S2,S19,S20,,,,,,
+5/15/2023 10:43:11,Michelle Nitahara,N318,2,Group 1,"Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith",A3,A12,S17,S9,,,,,,,
+5/15/2023 10:46:56,Michelle Nitahara,N318,2,Group 2,"Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson",A7,A3,S19,S17,,,,,,,
+5/15/2023 10:57:23,Michelle Nitahara,N318,2,Group 3,"Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson",A9,A12,S18,S12,S14,,,,,,
+5/15/2023 11:00:04,Michelle Nitahara,N318,2,Group 4,"Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas",A7,A6,S17,S12,S18,,,,,,
+5/15/2023 11:01:01,Michelle Nitahara,N318,2,Group 5,"Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young",A7,A9,S12,S15,,,,,,,
+5/12/2023 14:20:57,Minika Lowe,N312,3,Group 1,"Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia",A1,A6,S1,S5,,,,,,,
+5/12/2023 14:22:41,Minika Lowe,N312,3,Group 2,"Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam",A11,A7,S8,S10,,,,,,,
+5/12/2023 14:24:23,Minika Lowe,N312,3,Group 3,"Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta",A12,A1,S1,S11,A1,,,,,,
+5/12/2023 14:25:50,Minika Lowe,N312,3,Group 4,"Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong",A6,A7,S16,S12,,,,,,,
+5/15/2023 9:15:58,Otsuki,109,1,Group 1,"Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin",A11,A17,S4,S9,S12,,,,,,
+5/15/2023 9:17:11,Otsuki,109,1,Group 2,"Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo",A3,A18,S5,S12,,,,,,,
+5/15/2023 9:19:36,Otsuki,109,1,Group 3,"Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca",A2,A6,S3,S13,,,,,,,
+5/15/2023 9:21:01,Otsuki,109,1,Group 4,"Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal",A1,A7,S2,S8,,,,,,,
+5/15/2023 7:49:25,Rei Kobayashi-McGrath,R110,K,Group 1,"Park Jackson, Denton Michalec, Jade Velasquez, Ruby Leroy",A7,A18,S3,S9,S17,,,,,,
+5/15/2023 7:52:24,Rei Kobayashi-McGrath,R110,K,Group 2,"Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter",A7,A1,S4,S12,S17,,,,,,
+5/15/2023 7:54:24,Rei Kobayashi-McGrath,R110,K,Group 3,"Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang",A1,A3,S14,S4,,,,,,,
+5/15/2023 7:56:49,Rei Kobayashi-McGrath,R110,K,Group 4,"Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle",A7,A2,S9,S18,,,,,,,
+5/15/2023 7:59:57,Rei Kobayashi-McGrath,R110,K,Group 5,"Kilian Devie, Elias Henningsen, Maya Stein, Isla Maguire",A4,A7,S14,S3,,,,,,,
+5/12/2023 16:31:39,Rosella Piersanti,214,4,Group 1,"Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman ",A12,A17,S2,S17,,,,,,,
+5/12/2023 16:33:03,Rosella Piersanti,214,4,Group 2,"Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen",A2,A12,S17,S13,,,,,,,
+5/12/2023 16:37:23,Rosella Piersanti,214,4,Group 5,"Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano ",A2,A6,S20,S17,,,,,,,
+5/12/2023 16:34:24,Rosella Piersanti ,214,4,Group 3,"James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ",A7,A6,S7,S16,,,,,,,
+5/12/2023 16:36:20,Rosella Piersanti ,214,4,Group 4,"Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic",A11,A12,S16,S17,,,,,,,
+5/12/2023 16:38:54,Rosella Piersanti ,214,4,Group 6,"Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ",A11,A8,S7,S17,,,,,,,
+5/16/2023 18:12:29,Ruth,5,K,Group 3,"Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko",A18,A2,S11,S9,,,,,,,
+5/16/2023 18:29:28,Ruth,5,K,Group 4,"Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn",A18,A2,S11,S9,S21,,,,,,
+5/16/2023 18:34:21,Ruth,5,K,Group 5,"Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan",A2,A13,S19,S11,,,,,,,
+5/16/2023 18:31:26,Ruth ,5,K,Group 1,"Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus",A18,A13,S19,S9,,,,,,,
+5/16/2023 18:32:52,Ruth ,5,K,Group 2,"Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ",A13,A2,S19,S9,,,,,,,
+5/14/2023 8:56:22,Sarah McNitt,320,4,Group 1,"Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop",A11,A8,S12,S15,,,,,,,
+5/14/2023 9:01:56,Sarah McNItt,320,4,Group 2,"Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen",A8,A6,S12,S17,,,,,,,
+5/14/2023 9:06:45,Sarah McNitt,320,4,Group 3,"Keith Williams, Jamariea Newt, Joie Zang",A6,A8,S12,S13,,,,,,,
+5/11/2023 16:24:08,Sean Ellsworth,3,K,Group 1,"Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar",A1,A5,S1,S7,,,,,,,
+5/11/2023 16:25:46,Sean Ellsworth,3,K,Group 2,"Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser",A2,A7,S12,S15,S13,,,,,,
+5/11/2023 16:27:41,Sean Ellsworth,3,K,Group 3,"Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki",A9,A16,S14,S19,,,,,,,
+5/11/2023 16:32:00,Sean Ellsworth,3,K,Group 4,"Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan",A4,A18,S9,S20,S19,,,,,,
+5/11/2023 16:35:03,Sean Ellsworth,3,K,Group 5,"Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais",A3,A6,S3,S17,A1,,,,,,
+5/15/2023 17:08:11,Susie Leder,316,2,Group 1,"Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar",A11,A3,S15,S21 ,,,,,,,
+5/15/2023 17:10:24,Susie Leder,316,2,Group 2,"Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei",A2,A10,S18,S1,,,,,,,
+5/15/2023 17:12:56,Susie Leder,316,2,Group 3,"Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ",A16,A11,S8,S20,,,,,,,
+5/15/2023 17:14:23,Susie Leder,316,2,Group 4,"Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey",A2,A16,S8,S19,,,,,,,
+5/15/2023 17:42:27,Wong,313,2,Group 1,"Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar",A7,A10,S19,S1,,,,,,,
+5/15/2023 17:43:29,Wong,313,2,Group 2,"Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan",A6,A11,S11,S9,,,,,,,
+5/15/2023 17:44:30,Wong,313,2,Group 3,"Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton",A12,A7,S1,S11,,,,,,,
+5/15/2023 17:45:29,Wong,313,2,Group 4,"Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer",A7,A11,S19,S12,S17,,,,,,
