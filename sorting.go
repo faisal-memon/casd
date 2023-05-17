@@ -181,6 +181,7 @@ func main() {
 
 	printGroups(groups)
 	printWorkshops(artWorkshops)
+	printWorkshops(sciWorkshops)
 }
 
 type group struct {
@@ -284,6 +285,8 @@ func printGroups(groups []group) {
 		for _, workshop := range group.workshops {
 			if workshop != nil {
 				fmt.Printf("| %s | %s | %s |\n", workshop.id, workshop.name, workshop.room)
+			} else {
+				fmt.Printf("| - | - | - |\n")
 			}
 		}
 		fmt.Println("\n---\n")
