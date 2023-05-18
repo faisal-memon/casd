@@ -88,7 +88,7 @@ func main() {
 			booked := bookWorkshopIfAvailable(workshop, group)
 			if booked {
 				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
-				if workshop.sessionCapacities[sessionIndex] < workshop.capacity/2-5 {
+				if workshop.sessionCapacities[sessionIndex] < workshop.capacity/2+10 {
 					log.Printf("At half capacity for %s", group.teacher, group.name, workshop.name)
 					break
 				}
