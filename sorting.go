@@ -45,7 +45,6 @@ func main() {
 			if parentID == "0" || parentID == "" {
 				continue
 			}
-			log.Println(parentID)
 
 			kind := idToKind(parentID)
 			var workshop *workshop
@@ -354,6 +353,16 @@ func readGroups(file string) ([]group, error) {
 		artIDs := record[6:8]
 		sciIDs := record[8:10]
 
+		var parentIDs []string
+		parentIDsRaw := strings.Split(record[10], " ")
+		for _, parentID := range parentIDsRaw {
+			if parentID == "0" || parentID == "" {
+				continue
+			}
+			parentIDs = append(parentIDs, parentID)
+		}
+
+
 		groups = append(groups, group{
 			teacher:   record[1],
 			grade:     grade,
@@ -362,7 +371,7 @@ func readGroups(file string) ([]group, error) {
 			artIDs:    artIDs,
 			sciIDs:    sciIDs,
 			workshops: make([]*workshop, 4),
-			parentIDs: strings.Split(record[10], " "),
+			parentIDs: parentIDs,
 		})
 	}
 
@@ -384,7 +393,9 @@ func printGroups(groups []group) {
 		for _, ranking := range group.sciIDs {
 			fmt.Printf(" %s", ranking)
 		}*/
-		fmt.Println("")
+		if len(group.parentIDs) > 0 {
+			fmt.Printf("Group contains child of presenter or assistant of workshop = %v  \n", strings.Join(group.parentIDs, ","))
+		}
 		fmt.Println("Schedule")
 		fmt.Println("| ID | Class | Room |")
 		fmt.Println("| -- | ----- | ---- |")
