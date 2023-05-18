@@ -39,52 +39,6 @@ func main() {
 	}
 	//printWorkshops(sciWorkshops)
 
-	/*log.Printf("=====Booking classes with less than 2 sessions===")
-	smallWorkshops := make(map[string]*workshop)
-	for _, workshop := range artWorkshops {
-		sessions := 0
-		for _, capacity := range workshop.sessionCapacities {
-			if capacity > 0 {
-				sessions++
-			}
-		}
-
-		if sessions < 3 {
-			smallWorkshops[workshop.id] = workshop
-		}
-	}
-	for _, group := range groups {
-		for _, workshop := range smallWorkshops {
-			booked := bookWorkshopIfAvailable(workshop, group)
-			if booked {
-				log.Printf("Booked %s/%s to workshop %s", group.teacher, group.name, workshop.name)
-				continue
-			}
-		}
-	}
-
-	log.Printf("=====Booking 3-5 classes===")
-	restrictedWorkshops := make(map[string]*workshop)
-	for _, workshop := range artWorkshops {
-		if workshop.minGrade > 2 {
-			restrictedWorkshops[workshop.id] = workshop
-		}
-	}
-
-	for _, group := range groups {
-		if group.grade < 3 {
-			continue
-		}
-
-		for _, workshop := range restrictedWorkshops {
-			booked := bookWorkshopIfAvailable(workshop, group)
-			if booked {
-				log.Printf("Booked %s/%s to workshop %s", group.teacher, group.name, workshop.name)
-				continue
-			}
-		}
-	}*/
-
 	log.Printf("====Booking Parent Classes===\n")
 	for _, group := range groups {
 		for _, parentID := range group.parentIDs {
@@ -117,19 +71,26 @@ func main() {
 	log.Printf("====Science classes with only 1 session===\n")
 	for _, workshop := range sciWorkshops {
 		sessions := 0
-		for _, capacity := range workshop.sessionCapacities {
+		sessionIndex := 0
+		for i, capacity := range workshop.sessionCapacities {
 			if capacity > 0 {
 				sessions++
+				sessionIndex = i
 			}
 		}
 		if sessions != 1 {
 			continue
 		}
 
+
 		for _, group := range groups {
 			booked := bookWorkshopIfAvailable(workshop, group)
 			if booked {
 				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
+				if workshop.sessionCapacities[sessionIndex] < workshop.capacity/2 {
+					log.Printf("At half capacity for %s", group.teacher, group.name, workshop.name)
+					break
+				}
 			}
 		}
 	}
@@ -444,6 +405,7 @@ type workshop struct {
 	name              string
 	minGrade          int
 	maxGrade          int
+	capacity          int
 	sessionCapacities []int
 	room              string
 
@@ -535,6 +497,7 @@ func readWorkshop(file string, kind string) (map[string]*workshop, error) {
 			name:              name,
 			minGrade:          minGrade,
 			maxGrade:          maxGrade,
+			capacity:          capacity,
 			sessionCapacities: sessionCapacities,
 			room:              record[7],
 			sessionGroups:     make(map[int][]group),
