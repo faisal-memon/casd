@@ -5,10 +5,10 @@ Students =  Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez,
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A6 | Marble Run (K-5) | 107 - Max |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -19,10 +19,10 @@ Students =  Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S19 | Slime (K-5) | 202 - Allison |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A15 | SF Ballet (3-5) | Library |
+| A8 | Puppets (3-5) | 310 - Jody |
 
 ---
 
@@ -33,10 +33,10 @@ Students =  Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Arms
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
+| A8 | Puppets (3-5) | 310 - Jody |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A15 | SF Ballet (3-5) | Library |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -47,10 +47,10 @@ Students =  Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A15 | SF Ballet (3-5) | Library |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -61,9 +61,9 @@ Students =  Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan 
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
@@ -75,9 +75,9 @@ Students =  Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafso
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A15 | SF Ballet (3-5) | Library |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 
 ---
@@ -89,10 +89,10 @@ Students =  Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schw
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A8 | Puppets (3-5) | 310 - Jody |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -105,8 +105,8 @@ Schedule
 | -- | ----- | ---- |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | A6 | Marble Run (K-5) | 107 - Max |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -117,10 +117,10 @@ Students =  Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimia
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -132,10 +132,10 @@ Group contains child of presenter or assistant of workshop = S13
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| A8 | Puppets (3-5) | 310 - Jody |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -147,9 +147,9 @@ Group contains child of presenter or assistant of workshop = S17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
@@ -161,8 +161,8 @@ Students =  Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 
@@ -176,10 +176,10 @@ Group contains child of presenter or assistant of workshop = A2
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A15 | SF Ballet (3-5) | Library |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S19 | Slime (K-5) | 202 - Allison |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -190,10 +190,10 @@ Students =  Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A7 | Taiko (K-5) | 109 - Otsuki |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -204,9 +204,9 @@ Students =  Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| A14 | SF Ballet (K-2) | Library |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
@@ -219,9 +219,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A14 | SF Ballet (K-2) | Library |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A7 | Taiko (K-5) | 109 - Otsuki |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 
 ---
 
@@ -233,10 +233,10 @@ Group contains child of presenter or assistant of workshop = A3
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 | A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
 
@@ -247,10 +247,10 @@ Students =  Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aur
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A1 | Shibori (K-5) | 207 - Tanaka |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A1 | Shibori (K-5) | 207 - Tanaka |
 | S19 | Slime (K-5) | 202 - Allison |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -261,10 +261,10 @@ Students =  Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, And
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| A14 | SF Ballet (K-2) | Library |
-| S19 | Slime (K-5) | 202 - Allison |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S21 | Chromatography (K-5) | 205 - Amber |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -275,10 +275,10 @@ Students =  Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantulia
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -289,10 +289,10 @@ Students =  Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Be
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -304,9 +304,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
 ---
 
@@ -318,10 +318,10 @@ Group contains child of presenter or assistant of workshop = A12
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| S21 | Chromatography (K-5) | 205 - Amber |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A15 | SF Ballet (3-5) | Library |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
 
@@ -332,10 +332,10 @@ Students =  Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A8 | Puppets (3-5) | 310 - Jody |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -347,8 +347,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A15 | SF Ballet (3-5) | Library |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
@@ -360,9 +360,9 @@ Students =  Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A15 | SF Ballet (3-5) | Library |
 
 ---
@@ -374,10 +374,10 @@ Students =  Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -388,10 +388,10 @@ Students =  Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -402,10 +402,10 @@ Students =  Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
 
 ---
 
@@ -416,10 +416,10 @@ Students =  Mathias, Radar, Arsh, Sena, Devin
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A6 | Marble Run (K-5) | 107 - Max |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -432,7 +432,7 @@ Schedule
 | -- | ----- | ---- |
 | A6 | Marble Run (K-5) | 107 - Max |
 | A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
@@ -444,8 +444,8 @@ Students =  Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
 | S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
@@ -459,9 +459,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A15 | SF Ballet (3-5) | Library |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
 
@@ -473,9 +473,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
 ---
 
@@ -487,9 +487,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A8 | Puppets (3-5) | 310 - Jody |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| A4 | Yoga (K-5) | 314 - Debbie |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
 
@@ -500,10 +500,10 @@ Students =  Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| A4 | Yoga (K-5) | 314 - Debbie |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -515,9 +515,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A15 | SF Ballet (3-5) | Library |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
 
@@ -528,10 +528,10 @@ Students =  James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, N
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A14 | SF Ballet (K-2) | Library |
+| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -543,9 +543,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| A6 | Marble Run (K-5) | 107 - Max |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -556,10 +556,10 @@ Students =  Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffe
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 
 ---
 
@@ -571,9 +571,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| A4 | Yoga (K-5) | 314 - Debbie |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -585,10 +585,10 @@ Group contains child of presenter or assistant of workshop = A8
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
 | A8 | Puppets (3-5) | 310 - Jody |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A15 | SF Ballet (3-5) | Library |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -599,10 +599,10 @@ Students =  Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A6 | Marble Run (K-5) | 107 - Max |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -613,10 +613,10 @@ Students =  Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -627,9 +627,9 @@ Students =  Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A15 | SF Ballet (3-5) | Library |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
@@ -642,10 +642,10 @@ Group contains child of presenter or assistant of workshop = A17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -657,9 +657,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S21 | Chromatography (K-5) | 205 - Amber |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -670,10 +670,10 @@ Students =  Callan, Isabella, Andrew, Simone, Wesley
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| A14 | SF Ballet (K-2) | Library |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -684,10 +684,10 @@ Students =  Francisc, Enzo, Mabel, Ciara, Aarnika
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | A4 | Yoga (K-5) | 314 - Debbie |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -700,7 +700,7 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 
@@ -713,9 +713,9 @@ Students =  Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
 
 ---
@@ -728,9 +728,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A15 | SF Ballet (3-5) | Library |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -742,10 +742,10 @@ Group contains child of presenter or assistant of workshop = S17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S19 | Slime (K-5) | 202 - Allison |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -757,10 +757,10 @@ Group contains child of presenter or assistant of workshop = A9
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | S19 | Slime (K-5) | 202 - Allison |
-| A15 | SF Ballet (3-5) | Library |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -771,10 +771,10 @@ Students =  Harrison H., Daniel J., Shia G., Elijah S., Bea F.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A1 | Shibori (K-5) | 207 - Tanaka |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| A1 | Shibori (K-5) | 207 - Tanaka |
 
 ---
 
@@ -785,10 +785,10 @@ Students =  Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 | A14 | SF Ballet (K-2) | Library |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -800,9 +800,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
+| A6 | Marble Run (K-5) | 107 - Max |
 | S21 | Chromatography (K-5) | 205 - Amber |
 | S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -813,10 +813,10 @@ Students =  Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| A14 | SF Ballet (K-2) | Library |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -827,10 +827,10 @@ Students =  Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -841,10 +841,10 @@ Students =  Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 | A1 | Shibori (K-5) | 207 - Tanaka |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -857,8 +857,8 @@ Schedule
 | -- | ----- | ---- |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 | A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
-| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -870,10 +870,10 @@ Group contains child of presenter or assistant of workshop = S20
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -884,9 +884,9 @@ Students =  Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jea
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 | A9 | Soap Carving  (3-5) | Garden - Table Area |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 
 ---
@@ -899,8 +899,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A4 | Yoga (K-5) | 314 - Debbie |
-| A8 | Puppets (3-5) | 310 - Jody |
+| A9 | Soap Carving  (3-5) | Garden - Table Area |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
@@ -912,10 +912,10 @@ Students =  Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
-| A14 | SF Ballet (K-2) | Library |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -926,10 +926,10 @@ Students =  Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | A7 | Taiko (K-5) | 109 - Otsuki |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 
 ---
 
@@ -941,10 +941,10 @@ Group contains child of presenter or assistant of workshop = S14
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -959,7 +959,7 @@ Schedule
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 | A6 | Marble Run (K-5) | 107 - Max |
 | A7 | Taiko (K-5) | 109 - Otsuki |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
 ---
 
@@ -972,8 +972,8 @@ Schedule
 | -- | ----- | ---- |
 | S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
 | S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -984,10 +984,10 @@ Students =  Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 | A6 | Marble Run (K-5) | 107 - Max |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
+| A1 | Shibori (K-5) | 207 - Tanaka |
+| S6 | Zero Waste by SF Environment (3-5) | 105 - Tak |
 
 ---
 
@@ -998,10 +998,10 @@ Students =  Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| A15 | SF Ballet (3-5) | Library |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| A8 | Puppets (3-5) | 310 - Jody |
 
 ---
 
@@ -1013,10 +1013,10 @@ Group contains child of presenter or assistant of workshop = A1
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| A8 | Puppets (3-5) | 310 - Jody |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -1027,10 +1027,10 @@ Students =  Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya 
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| A6 | Marble Run (K-5) | 107 - Max |
-| S5 | Protect Our Bay by SF Environment (3-5) | 105 - Tak |
-| S10 | One-sheet of Paper Challenge by STEMful (3 - 5) | 209 |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
+| A15 | SF Ballet (3-5) | Library |
 
 ---
 
@@ -1042,10 +1042,10 @@ Group contains child of presenter or assistant of workshop = S12
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 
 ---
 
@@ -1056,10 +1056,10 @@ Students =  Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roma
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -1070,10 +1070,10 @@ Students =  Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLu
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -1084,8 +1084,8 @@ Students =  Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
+| A4 | Yoga (K-5) | 314 - Debbie |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 | S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 
@@ -1099,9 +1099,9 @@ Group contains child of presenter or assistant of workshop = S17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 | A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
@@ -1114,10 +1114,10 @@ Group contains child of presenter or assistant of workshop = S17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A7 | Taiko (K-5) | 109 - Otsuki |
 | A1 | Shibori (K-5) | 207 - Tanaka |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 
 ---
 
@@ -1128,10 +1128,10 @@ Students =  Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A1 | Shibori (K-5) | 207 - Tanaka |
-| A14 | SF Ballet (K-2) | Library |
 | S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
 
 ---
 
@@ -1142,10 +1142,10 @@ Students =  Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
 | A7 | Taiko (K-5) | 109 - Otsuki |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1156,10 +1156,10 @@ Students =  Kilian Devie, Park Jackson, Maya Stein, Isla Maguire
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A4 | Yoga (K-5) | 314 - Debbie |
 | A7 | Taiko (K-5) | 109 - Otsuki |
-| S21 | Chromatography (K-5) | 205 - Amber |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A4 | Yoga (K-5) | 314 - Debbie |
 
 ---
 
@@ -1170,10 +1170,10 @@ Students =  Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
+| A17 | Photography (K-5) | Middle Yard - Basketball Area |
 
 ---
 
@@ -1184,10 +1184,10 @@ Students =  Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 
 ---
 
@@ -1199,9 +1199,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
-| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
-| A4 | Yoga (K-5) | 314 - Debbie |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 
 ---
 
@@ -1212,9 +1212,9 @@ Students =  James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
+| A6 | Marble Run (K-5) | 107 - Max |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
-| A8 | Puppets (3-5) | 310 - Jody |
-| A15 | SF Ballet (3-5) | Library |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
@@ -1226,9 +1226,9 @@ Students =  Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A15 | SF Ballet (3-5) | Library |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A8 | Puppets (3-5) | 310 - Jody |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | S16 | Chemical Reactions (K - 5) | 206 - Mrs. E |
 
 ---
@@ -1240,10 +1240,10 @@ Students =  Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
-| A8 | Puppets (3-5) | 310 - Jody |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A15 | SF Ballet (3-5) | Library |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -1254,10 +1254,10 @@ Students =  Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 | S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
 
 ---
 
@@ -1269,10 +1269,10 @@ Group contains child of presenter or assistant of workshop = S21
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | S21 | Chromatography (K-5) | 205 - Amber |
-| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1283,10 +1283,10 @@ Students =  Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Ki
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S21 | Chromatography (K-5) | 205 - Amber |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 
 ---
 
@@ -1297,10 +1297,10 @@ Students =  Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
-| S4 | Zero Waste by SF Environment (K-2) | 105 - Tak |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | A18 | Making Art with the Sun  (K-5) | Lower Yard - Steps |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 
 ---
 
@@ -1313,8 +1313,8 @@ Schedule
 | -- | ----- | ---- |
 | S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
-| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -1325,10 +1325,10 @@ Students =  Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A6 | Marble Run (K-5) | 107 - Max |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
+| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
 | A8 | Puppets (3-5) | 310 - Jody |
-| S21 | Chromatography (K-5) | 205 - Amber |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
+| A6 | Marble Run (K-5) | 107 - Max |
 
 ---
 
@@ -1340,7 +1340,7 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
-| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 | A8 | Puppets (3-5) | 310 - Jody |
 | S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 
@@ -1353,9 +1353,9 @@ Students =  Keith Williams, Jamariea Newt, Joie Zang
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| A8 | Puppets (3-5) | 310 - Jody |
 | A6 | Marble Run (K-5) | 107 - Max |
+| S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
+| A8 | Puppets (3-5) | 310 - Jody |
 | S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
@@ -1367,9 +1367,9 @@ Students =  Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
-| A14 | SF Ballet (K-2) | Library |
 | A1 | Shibori (K-5) | 207 - Tanaka |
+| A5 | Folk Dancing (K-5) | 5 - Ruth |
+| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
@@ -1383,9 +1383,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A14 | SF Ballet (K-2) | Library |
-| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | S13 | Soda Geysers (K - 5) | Lower Yard - Gate Side |
 | A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 
 ---
 
@@ -1397,9 +1397,9 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | A5 | Folk Dancing (K-5) | 5 - Ruth |
-| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
+| S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
 | A17 | Photography (K-5) | Middle Yard - Basketball Area |
-| S19 | Slime (K-5) | 202 - Allison |
+| S14 | Lemon Volcano (K - 5) | 203 - Raynard |
 
 ---
 
@@ -1427,8 +1427,8 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S3 | Save Our Water by SF Environment (K-2) | 105 - Tak |
+| S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
 | A1 | Shibori (K-5) | 207 - Tanaka |
 
 ---
@@ -1440,10 +1440,10 @@ Students =  Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano C
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| S15 | Cooking Gnocchi with Rosella (K - 5) | 214 - Rosella |
 | A14 | SF Ballet (K-2) | Library |
+| S12 | Bouncing Bubbles  (K - 5) | Middle Yard - Elevator |
 | A3 | Nature Art Emotion Potions (K-2) | Garden - Crate Area |
-| S21 | Chromatography (K-5) | 205 - Amber |
 
 ---
 
@@ -1454,10 +1454,10 @@ Students =  Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maf
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
-| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
+| A2 | Washer Necklaces (K-5) | 318 - Nitahara |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
 ---
 
@@ -1468,10 +1468,10 @@ Students =  Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Ma
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
-| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
 | A16 | Comic Book Art (2-5) | 204 - Tate |
+| S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
 | S20 | Popsicle Stick Catapults (K-5) | 3 - Ellsworth |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
 
 ---
 
@@ -1482,10 +1482,10 @@ Students =  Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia P
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A16 | Comic Book Art (2-5) | 204 - Tate |
 | A2 | Washer Necklaces (K-5) | 318 - Nitahara |
 | S8 | Pirate Probability by PUSH Academy (K-5) | 110 - Kobayashi |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
+| A16 | Comic Book Art (2-5) | 204 - Tate |
+| S19 | Slime (K-5) | 202 - Allison |
 
 ---
 
@@ -1496,10 +1496,10 @@ Students =  Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A4 | Yoga (K-5) | 314 - Debbie |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
-| S19 | Slime (K-5) | 202 - Allison |
 | A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A7 | Taiko (K-5) | 109 - Otsuki |
+| S18 | Air Powered Rocket (K-5) | Upper Yard - Kickball |
 
 ---
 
@@ -1510,10 +1510,10 @@ Students =  Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Ch
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A14 | SF Ballet (K-2) | Library |
+| S9 | Gumdrop Engineering Challenge by STEMful (K - 2) | 209 |
+| S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
 | A6 | Marble Run (K-5) | 107 - Max |
-| S2 | Chess Challenge! by Academic Chess (K-5) | 316 |
-| S7 | The Science of Soccer by Beach Chalet Soccer (K-5) | Soccer Area |
+| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
 
 ---
 
@@ -1525,7 +1525,7 @@ Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
 | S11 | Fire Engine Explore (K - 5) | Upper Yard - Fence |
-| A14 | SF Ballet (K-2) | Library |
+| A7 | Taiko (K-5) | 109 - Otsuki |
 | A12 | Karate with Zanshin Dojo Martial Arts (K-5) | 103 - Joli |
 | S1 | Ooblek by Renegade Tinkering (K-5) | In front of Library |
 
@@ -1539,8 +1539,8 @@ Group contains child of presenter or assistant of workshop = S17
 Schedule
 | ID | Class | Room |
 | -- | ----- | ---- |
-| A7 | Taiko (K-5) | 109 - Otsuki |
-| A11 | Tie-Dye with Ben (K-5) | 108 - Art |
+| A10 | SFPL: Mini-Book Making (K-5) | 313 - Wong |
+| A13 | SF Opera: Bearitone the Opera Bear (K-2) | Music Room |
 | S17 | States of Matter: Making Ice Cream  (K-5) | 312 - Lowe |
 | S19 | Slime (K-5) | 202 - Allison |
 
@@ -1549,75 +1549,15 @@ Schedule
 
 ---
 
-ID: A14  
-Name: SF Ballet (K-2)  
+ID: A10  
+Name: SFPL: Mini-Book Making (K-5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 1 | Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Fiona, Rumi, Frankie, Temujin, Aidan, |
-| 1 | Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar, |
-| 0 |  |
-| 0 |  |
-
----
-
-ID: A16  
-Name: Comic Book Art (2-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 | Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda, |
-| 1 | Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan, |
-| 1 | Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas, |
-| 1 | Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly, |
-
----
-
-ID: A17  
-Name: Photography (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 | Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan, |
-| 1 | Fiona, Rumi, Frankie, Temujin, Aidan,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman , |
-| 3 | Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki, |
-| 0 | Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman, |
-
----
-
-ID: A3  
-Name: Nature Art Emotion Potions (K-2)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 2 | Francisc, Enzo, Mabel, Ciara, Aarnika,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V., |
-| 2 | Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje, |
-| 0 | Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar,Callan, Isabella, Andrew, Simone, Wesley, |
-| 0 | Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S., |
-
----
-
-ID: A5  
-Name: Folk Dancing (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 1 | Mathias, Radar, Arsh, Sena, Devin ,Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki, |
-| 3 | Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop, |
-| 0 |  |
-| 0 |  |
-
----
-
-ID: A11  
-Name: Tie-Dye with Ben (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 | Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye, |
-| 2 | Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei , |
-| 0 | Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur,Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker, |
-| 1 | Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan, |
+| 0 | Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic, |
+| 0 | Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano, |
+| 2 | Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei,Callan, Isabella, Andrew, Simone, Wesley,Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang, |
+| 4 | Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca, |
 
 ---
 
@@ -1626,22 +1566,70 @@ Name: Karate with Zanshin Dojo Martial Arts (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 2 | Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons,Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes, |
-| 1 | Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen,Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley, |
-| 0 | Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman , |
-| 2 | Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus, |
+| 3 | Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao, |
+| 0 | Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta,Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa, |
+| 1 | Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman , |
+| 0 | Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley, |
 
 ---
 
-ID: A13  
-Name: SF Opera: Bearitone the Opera Bear (K-2)  
+ID: A14  
+Name: SF Ballet (K-2)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 14 | Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal, |
-| 9 | James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Avian, Kingsley, Diego, Eli, Radar,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams, |
-| 10 | Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano,Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young, |
-| 5 | Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley,Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser, |
+| 4 | Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.,Callan, Isabella, Andrew, Simone, Wesley, |
+| 23 | Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar, |
+| 0 |  |
+| 0 |  |
+
+---
+
+ID: A18  
+Name: Making Art with the Sun  (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 | Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S., |
+| 3 | Avian, Kingsley, Diego, Eli, Radar,Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar, |
+| 0 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams, |
+| 1 | Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano,Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
+
+---
+
+ID: A1  
+Name: Shibori (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 3 | Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta,Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar, |
+| 2 | Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje, |
+| 0 | Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia,Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal, |
+| 1 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts, |
+
+---
+
+ID: A2  
+Name: Washer Necklaces (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey, |
+| 2 | Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei, |
+| 3 | Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano ,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca, |
+| 3 | Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan, |
+
+---
+
+ID: A8  
+Name: Puppets (3-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 1 | Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong, |
+| 2 | Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic, |
+| 1 | Keith Williams, Jamariea Newt, Joie Zang,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen,Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson, |
+| 6 | Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam, |
 
 ---
 
@@ -1650,10 +1638,58 @@ Name: Yoga (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 2 | James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar, |
-| 4 | Kilian Devie, Park Jackson, Maya Stein, Isla Maguire,Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi, |
-| 3 | Francisc, Enzo, Mabel, Ciara, Aarnika,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano , |
-| 3 | Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young, |
+| 1 | Francisc, Enzo, Mabel, Ciara, Aarnika,Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker, |
+| 3 | Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman, |
+| 3 | Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus,Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer, |
+| 0 | Kilian Devie, Park Jackson, Maya Stein, Isla Maguire,Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson, |
+
+---
+
+ID: A11  
+Name: Tie-Dye with Ben (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 2 | Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan,Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas, |
+| 2 | Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur, |
+| 0 | Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda, |
+| 0 | Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Fiona, Rumi, Frankie, Temujin, Aidan,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan, |
+
+---
+
+ID: A13  
+Name: SF Opera: Bearitone the Opera Bear (K-2)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 19 | Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams, |
+| 14 | Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer, |
+| 1 | Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser, |
+| 0 | Avian, Kingsley, Diego, Eli, Radar,James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Mathias, Radar, Arsh, Sena, Devin ,Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young, |
+
+---
+
+ID: A17  
+Name: Photography (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 | Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye,Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson, |
+| 0 | Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus, |
+| 2 | Fiona, Rumi, Frankie, Temujin, Aidan,Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki, |
+| 1 | Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman ,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
+
+---
+
+ID: A5  
+Name: Folk Dancing (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 2 | Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki,Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar, |
+| 3 | Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang,Mathias, Radar, Arsh, Sena, Devin , |
+| 0 |  |
+| 0 |  |
 
 ---
 
@@ -1662,22 +1698,22 @@ Name: Marble Run (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 0 | Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang,Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao, |
-| 3 | Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong,Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas, |
-| 0 | Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Mathias, Radar, Arsh, Sena, Devin ,Keith Williams, Jamariea Newt, Joie Zang,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari, |
-| 1 | Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia, |
+| 2 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia,Keith Williams, Jamariea Newt, Joie Zang,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang, |
+| 2 | Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley,Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas, |
+| 2 | Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger, |
+| 3 | Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda,Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen, |
 
 ---
 
-ID: A10  
-Name: SFPL: Mini-Book Making (K-5)  
+ID: A16  
+Name: Comic Book Art (2-5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 6 | Callan, Isabella, Andrew, Simone, Wesley,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly, |
-| 15 | Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei, |
-| 12 | Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman, |
-| 0 | Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Avian, Kingsley, Diego, Eli, Radar, |
+| 1 | Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic, |
+| 1 | Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano , |
+| 3 | Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur, |
+| 0 | Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly, |
 
 ---
 
@@ -1688,32 +1724,20 @@ Schedule
 | --------- | -------- |
 | 0 |  |
 | 0 |  |
-| 2 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka,Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye,Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder, |
-| 0 | Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
+| 1 | Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons,Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White, |
+| 21 | Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong, |
 
 ---
 
-ID: A18  
-Name: Making Art with the Sun  (K-5)  
+ID: A3  
+Name: Nature Art Emotion Potions (K-2)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 2 | Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
-| 1 | Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan, |
-| 1 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak, |
-| 1 | Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams, |
-
----
-
-ID: A2  
-Name: Washer Necklaces (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 2 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn, |
-| 1 | Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca, |
-| 1 | Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei, |
-| 0 | Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano , |
+| 5 | Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
+| 3 | Francisc, Enzo, Mabel, Ciara, Aarnika,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith, |
+| 2 | Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais, |
+| 1 | Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang,Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer, |
 
 ---
 
@@ -1722,10 +1746,10 @@ Name: Taiko (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 0 | Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong,Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer, |
-| 0 | Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic, |
-| 0 | Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire, |
-| 2 | Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao, |
+| 0 | Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire, |
+| 2 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton, |
+| 3 | Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar, |
+| 0 | Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy, |
 
 ---
 
@@ -1734,37 +1758,61 @@ Name: Soap Carving  (3-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 0 | Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron,Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson, |
-| 2 | Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi, |
-| 3 | Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic,Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim, |
-| 1 | Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak,Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan, |
+| 2 | Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder, |
+| 2 | Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron,Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi,Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan, |
+| 0 | Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak, |
+| 3 | Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic, |
 
 ---
 
-ID: A1  
-Name: Shibori (K-5)  
+
+---
+
+ID: S3  
+Name: Save Our Water by SF Environment (K-2)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 2 | Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang, |
-| 0 | Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman, |
-| 2 | Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar,Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal, |
-| 2 | Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson, |
+| 13 | Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young,Fiona, Rumi, Frankie, Temujin, Aidan,Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca,Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy, |
+| 0 |  |
+| 0 |  |
+| 0 |  |
 
 ---
 
-ID: A8  
-Name: Puppets (3-5)  
+ID: S5  
+Name: Protect Our Bay by SF Environment (3-5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 16 |  |
-| 1 | Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen,Keith Williams, Jamariea Newt, Joie Zang,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus,James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman , |
-| 0 | Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi, |
-| 0 | Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda,Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta, |
+| 0 |  |
+| 0 |  |
+| 28 | Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori, |
+| 0 |  |
 
 ---
 
+ID: S9  
+Name: Gumdrop Engineering Challenge by STEMful (K - 2)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 | Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley, |
+| 17 | Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle, |
+| 0 |  |
+| 0 |  |
+
+---
+
+ID: S12  
+Name: Bouncing Bubbles  (K - 5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 1 | Mathias, Radar, Arsh, Sena, Devin ,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop, |
+| 3 | Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
+| 1 | Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar, |
+| 0 | Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan,Keith Williams, Jamariea Newt, Joie Zang,Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang, |
 
 ---
 
@@ -1773,70 +1821,10 @@ Name: Soda Geysers (K - 5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 2 | Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams, |
-| 0 | Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda,Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka, |
-| 1 | Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong, |
-| 1 | Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang, |
-
----
-
-ID: S21  
-Name: Chromatography (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 1 | Avian, Kingsley, Diego, Eli, Radar,Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano, |
-| 6 | Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B., |
-| 1 | Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons, |
-| 0 | Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire, |
-
----
-
-ID: S11  
-Name: Fire Engine Explore (K - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 4 | Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts, |
-| 6 | Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Mathias, Radar, Arsh, Sena, Devin ,Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson, |
-| 0 |  |
-| 0 |  |
-
----
-
-ID: S7  
-Name: The Science of Soccer by Beach Chalet Soccer (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 2 | Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia, |
-| 1 | Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo,Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur, |
-| 0 | Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko, |
-| 4 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan, |
-
----
-
-ID: S10  
-Name: One-sheet of Paper Challenge by STEMful (3 - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 |  |
-| 0 |  |
-| 16 | Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk, |
-| 19 | Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong, |
-
----
-
-ID: S15  
-Name: Cooking Gnocchi with Rosella (K - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 4 | Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman,Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus, |
-| 1 | Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye, |
-| 3 | Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen, |
-| 1 | Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano, |
+| 2 | Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk, |
+| 0 | Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,Keith Williams, Jamariea Newt, Joie Zang,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca, |
+| 1 | Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong, |
+| 0 | Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen, |
 
 ---
 
@@ -1847,18 +1835,66 @@ Schedule
 | --------- | -------- |
 | 0 |  |
 | 0 |  |
-| 0 | Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
-| 1 | Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje, |
+| 1 | Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan,Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
+| 0 | Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson,Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey, |
 
 ---
 
-ID: S3  
-Name: Save Our Water by SF Environment (K-2)  
+ID: S2  
+Name: Chess Challenge! by Academic Chess (K-5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 15 | Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young,Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis, |
+| 1 | Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim, |
+| 0 | Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman ,Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic,Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen, |
+| 0 | Francisc, Enzo, Mabel, Ciara, Aarnika,Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
+| 0 | Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal,Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas, |
+
+---
+
+ID: S11  
+Name: Fire Engine Explore (K - 5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 3 | Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Joey McClune, Nathaniel Yan, Elon Choy, Alice Eremenko,Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen, |
+| 2 | Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong,Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye, |
 | 0 |  |
+| 0 |  |
+
+---
+
+ID: S14  
+Name: Lemon Volcano (K - 5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 12 | Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang, |
+| 3 | Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire,Harrison H., Daniel J., Shia G., Elijah S., Bea F., |
+| 0 | Avian, Kingsley, Diego, Eli, Radar,Sophia F., Christian T., Brandon W., Nvi J., Luca F., Luciano S.,Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta, |
+| 4 | Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki,Luka Lyddan, Mettaya Chuan, Ella Stock, Theo Zenk, |
+
+---
+
+ID: S20  
+Name: Popsicle Stick Catapults (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 8 | Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano , |
+| 2 | Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White, |
+| 4 | Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa, |
+| 0 | Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje,Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell, |
+
+---
+
+ID: S4  
+Name: Zero Waste by SF Environment (K-2)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 |  |
+| 21 | Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young,Fiona, Rumi, Frankie, Temujin, Aidan,James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang, |
 | 0 |  |
 | 0 |  |
 
@@ -1872,115 +1908,31 @@ Schedule
 | 0 |  |
 | 0 |  |
 | 0 |  |
-| 23 | Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi, |
+| 3 | Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Keilani Malon, Lyla Salem, Owen Runser, Daren Nakabayashi,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi,Abigael Seyfu, Gabby Yost, Lindy Huang, Graham Kremesec, August Armstrong,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia, |
 
 ---
 
-ID: S9  
-Name: Gumdrop Engineering Challenge by STEMful (K - 2)  
+ID: S7  
+Name: The Science of Soccer by Beach Chalet Soccer (K-5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 6 | Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley,Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, ,Luna D'Aloisio, Aubrey Gavic, Elliot Nii Lemmi, Isamu Goji Pan, |
-| 16 | Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Francisc, Enzo, Mabel, Ciara, Aarnika, |
-| 0 |  |
-| 0 |  |
+| 21 | Aiko Kisara Kelly, Desmond Arce, Kendra Trumbo, Aryo Arjomandi, |
+| 0 | Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly,Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda, |
+| 3 | Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka, |
+| 0 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes,Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Callan, Isabella, Andrew, Simone, Wesley,Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus, |
 
 ---
 
-ID: S20  
-Name: Popsicle Stick Catapults (K-5)  
+ID: S15  
+Name: Cooking Gnocchi with Rosella (K - 5)  
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 8 | Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano ,Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen, |
-| 1 | Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa,Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori, |
-| 1 | Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Salma Bhimji-Memon, Heidi Taylor, Akito Ishikawa, Olive Alarcon, Aureleo Buenviaje,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang, |
-| 2 | Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson, |
-
----
-
-ID: S2  
-Name: Chess Challenge! by Academic Chess (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 1 | Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman ,Jude Vuong, Daniel Perez, Dash Croom, Felipe Costanaro, Luna Zaheer,Zoey Ng, Clark Hall, Brando Fukuda, Tatsuo Sciortino,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar, |
-| 1 | Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh,Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson, |
-| 0 | Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Avian, Kingsley, Diego, Eli, Radar,Chloe Kong, Søren Rasmussen, Leyona Antolin, Cole Monsees, Bodhi Chuan,Elise Magee, Eve Tominaga-Brown, Jayden Wong, Mason Wong, Orion DeLuca, |
-| 0 | Francisc, Enzo, Mabel, Ciara, Aarnika,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V.,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey, |
-
----
-
-ID: S4  
-Name: Zero Waste by SF Environment (K-2)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 |  |
-| 20 | Chiara Sloss, Lennon Arce, Cooper Chan, Emi Hardiman, Anjali Young,Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan,Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin, |
-| 0 |  |
-| 0 |  |
-
----
-
-ID: S5  
-Name: Protect Our Bay by SF Environment (3-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 0 |  |
-| 0 |  |
-| 17 | Nikki Malik, Henry Wu,  Kalaeb Tesforn, Jacob Cuellar,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong, |
-| 0 |  |
-
----
-
-ID: S8  
-Name: Pirate Probability by PUSH Academy (K-5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 3 | Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Keith Williams, Jamariea Newt, Joie Zang, |
-| 0 | Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal, |
-| 2 | Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey,Fiona, Rumi, Frankie, Temujin, Aidan,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais, |
-| 0 |  |
-
----
-
-ID: S12  
-Name: Bouncing Bubbles  (K - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 1 | Addison Lee, Evelyn Trott, Fenton MacDonald, Milo Brown, Roman Martin,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur, |
-| 3 | Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Kouta Antolin, Siya Mehta, Jasper Wong, Melissa Runser,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura, |
-| 4 | Azaleah Castro, Jazelle Ellis, Mark Litichevskyl , Ryan Folan,Ella Arenas Dumas, Rena Loeb, Lilith Kopald, Leo Scott, Margot Maffei, Onyx Williams,Edric Wong, Luna Kanemoto, Nico Uyehara, Noa Levin, Olivia Tak, Roman Murillo, |
-| 0 | Ariel Melendrez, Jabar Redmon, Matteo Guerrero, Ezekiel Rosen,Iker Berrios Villalta, Ethan Monsivais, Matthew Briones, Alex Wang,Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas,Mathias, Radar, Arsh, Sena, Devin ,Keith Williams, Jamariea Newt, Joie Zang, |
-
----
-
-ID: S14  
-Name: Lemon Volcano (K - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 4 | Charlie Whitney, Mikko Hammons, Will Mackay, Dries Vanholder,Kilian Devie, Park Jackson, Maya Stein, Isla Maguire,Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei , |
-| 3 | Bodhin Sinha, Matthew Garcia, Maya Kimura, Taylor Otsuki,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic, |
-| 3 | Miki Hatae, Zady Cann, Iku Yoneda, Nobe Hwang,Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V., |
-| 2 | Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson,Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Fiona, Rumi, Frankie, Temujin, Aidan, |
-
----
-
-ID: S16  
-Name: Chemical Reactions (K - 5)  
-Schedule  
-| Available | Students |
-| --------- | -------- |
-| 7 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip, |
-| 2 | Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak, |
-| 0 | Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus, |
-| 1 | Callan, Isabella, Andrew, Simone, Wesley,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic, |
+| 1 | Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus,Zadie Rose Mikecz, Amma Guidos , Audrey Lien, Oren Perez, Guiliano Costenaro, Anayah Karrar,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano, |
+| 2 | Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Laleh Baristiran, Saisha Mohindra, Michael Obana, Sean Gangel, Howard Barnes, |
+| 2 | Ian Nakama, Llian Xiao, Mady Otsuki, Isla Lucas,Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman,Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis, |
+| 2 | Raizy Pelta, Shaina Malik, Eli Eishnyakov , Eduard Tumurchadur,Calvin Tracy, Isabella Remirez, Edmund Kong, Russell Bishoop,Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa, |
 
 ---
 
@@ -1989,10 +1941,22 @@ Name: States of Matter: Making Ice Cream  (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 1 | Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic, |
-| 1 | Eilon Perez, Emil Hughes, Alannah Gangel, Quinn Olinto, Charlotte Betteo, Greta Shenker,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano ,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
-| 0 | Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Waverly Rogers, Maddie Surkis, Junius Dodge, Zola McManus, Luca Schweitzer, Jeremy Reyes Miranda,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Laurel Kelly, Rim Simma, Rune Rasmussen, August Weitz-Von Boch, Rhys Decker, Lola Staley, |
-| 3 | Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong,Isabeau Boyer, Robyn Nuzzo, Carl Li, Hideo Bellet, Aaron Tumurchudur, Yuzuha Kitigawa,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman , |
+| 0 | Victoria Ng, Maisie Kerscher, Cody Padilla, Matthew Lei ,Emma Allen, Maya Alqaraleh, Chase Tanner, Brahm Stirman ,Kokoro Holevoet, Joji Kinebuchi, Jordan Ishihara, Hana Bee Wilson,Maya Nielson, Amari Kumar, Eli Alley, Kalyan Bhakta, Evan White,Amya Brown, Mia Bishop, Karm Devgan, Miles McGee, Jack Kelly, |
+| 3 | Kai Kuznia, Adrian Yue, Meilani Suchovsky, Margot Richter,Jordyn Shelton, Kaya Webster, Haru Yoneda, Ethan Monsivais,Kenji Ikeda, Jasper Glow, Lucia Levin, Dominic Duignan, Luna Keyser,Rajan Kumta, Ann Tully, Theodore Han, Nako Webster, Logan Whitney, Linden Huynh, |
+| 0 | Elias Henningsen, Denton Michalec, Jade Velasquez, Ruby Leroy,Callen Lee, Owen Lucas, Henry Suchovsky, Sophia Vrljicak, Cecilia Aumond, Stella Darani-Schwer,Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic,Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Larkin Swanson, Ishaan Manian, Alice McCartney, Cami Gavic, |
+| 0 | Thomas Zymnis, Calvin Leroy, Ari Uurtsaik, Kylie Oura,Hanna Sasaki, Atlas YeeSmith, Ava Lee, Ignatius Suchovsky, Sana Chaudhari,Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak,Otis Boarini, Darya McGrath, Evelyn Morris, Claude Smith,Elise Green, Mila Zaheer, Kengy Hu, Dylan Provenzano , |
+
+---
+
+ID: S21  
+Name: Chromatography (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 5 | Avian, Kingsley, Diego, Eli, Radar,Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Fiona Morris Amelie Hui Ein O'Neil Kiyorah Antolin Luke Grout Isabella Giron, |
+| 1 | Zoey Lee, Jackson Lee, London Orey-Makey, Wyatt Chinn,Nina Hardiman, Saparya Forouzin, Rien Daniels, Mika Petersson, Ryan Jones, Levi Cashman,Charlie Medick, Oliver Lu, Kakshee Saha, Christian Sandberg, Eddy Kiziryan, |
+| 0 | Abigail G., Simone M., Dino B., Luka P., Giuliana A., Donte B.,Adonna Seyfu, Daphne Coats, Catherine Finnegan, Henry Byrne, Jordan Walck,Bridey Murphy, Madeline Whiteman, Lila Stofferahn, Atticus Pass, Anderson Ong, |
+| 0 | Ray Williams, Jordan Nakabayashi, Nolan Sasaki, Maeve Kashino, Hanna Moro, Ada Zymnis,Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta,Evelyn M., Tiago M., Rohan K., Yasbera T., Isha V., |
 
 ---
 
@@ -2001,10 +1965,46 @@ Name: Ooblek by Renegade Tinkering (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 0 | Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka,Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei,Lam Doan, Matilda Altas, Taizo Grim, Kian Arjomandi, Ishaan Kumta, |
-| 1 | Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Callan, Isabella, Andrew, Simone, Wesley,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan,Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell, |
-| 2 | Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia, |
-| 1 | James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar,Sebastian Murillo, Jacob Tran, Mia Luo, Ely Kori,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton, |
+| 5 | Carolina Sharkey, Vandya Rastogi, Miles Brennan, Arjun Rajaram, , Roland Feuersinger,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Kit Mitchell, Arun Manian, Shinju Holevoet, Yaichiro Tanaka, |
+| 1 | Roxy Armstrong, Della Senechko, Caleb Aschauer, Miles Baird, Sequoia Campbell,Shannon Flesher, Kaya Akashi-Lockwood, Mia Kuan, River Bringman, Nicholas Valencia,Jayden Lin, Lucia Aumond, Josepihne Perea, Aiden Yim,Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons, |
+| 2 | Houston Cheng, Kamden Satow, Isis Kim, Emi Fitts,James Peterson, Wyatt Koester, Charlotte Walters, Oliver Mehoudar, Naomi Brennan,Silver Koester, Ben Juarez, Daylen Tan , Tim  Hughes , Dash Larson,Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan, |
+| 1 | Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei,Kai Mitchell, Ibuki Cabarles, Liv Darani Schwer, Farrah Thomson,Oliver Goldberg, Roshan Sinha, Ato Hasegawa, Arisa Merten, Amaya Monsivais, Rufus Hamilton,Sidaan Forouzin, Nolan Huml, Kalina Jones-Castro, Reina Nagar, |
+
+---
+
+ID: S8  
+Name: Pirate Probability by PUSH Academy (K-5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 | Ellie Choy, Nicole Huang, Sebastian Pura, Jefferson Berrios villalta, Kanishk Kumar,Esme Clegg, Kotoho Mitani, Niko Jagannathan, Paxton Mitchell, Vihaan Koolwal,Giuliana Shishido, Hazel Von Hungen, Natalie Obana, Alina Varshavsky, CJ Martin, Lucas Frye, |
+| 0 | Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam,Dov Yevelev, Lillian Lu, Oscar Klein, Avery Chan, Madison Martin, Mateo Torres ,Lawrence Quan, Bertrand Lim, Sofia Dumas, Oliver Schleifer, Amelia Posey, |
+| 6 | Harrison H., Daniel J., Shia G., Elijah S., Bea F.,Leah Kiziryan, Anya Loeb, Rodina Arafa, Jason Wang, Frankie Pantuliano, |
+| 0 |  |
+
+---
+
+ID: S10  
+Name: One-sheet of Paper Challenge by STEMful (3 - 5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 0 |  |
+| 0 |  |
+| 20 | Mason Magsaysay, Biwa Mainen, Loren Ouye, Haku Nakagawa, Alex Nam, |
+| 21 | Bodhi Forero, Seyjan Kanwar, Bennet Martin, Ethan Chan, |
+
+---
+
+ID: S16  
+Name: Chemical Reactions (K - 5)  
+Schedule  
+| Available | Students |
+| --------- | -------- |
+| 1 | Kailyn Robleto, Drako Tan, Louise Iribarne, Sav Stearman,Luca mozzati zacco, Robert Bray, Miles Choi, Erika Hardin, Kaila Lance, Ameya Sol Pendala,Evan Carnicelli, Rowan Wang, Aria DeLa Jara-Burke, Elliot Greenspan, Mia Simmons, |
+| 0 | Sofya Wu, Juliet Copley, Ronik Bhata, Jakob Hudgins, Filip Joachimiak,Callan, Isabella, Andrew, Simone, Wesley,Aki Kori, Joshua Chan, Nora Avnet, Lucy Peters, Maxton Magsaysay, Luina Xiao, |
+| 1 | James Desoto, Matias Rivas, Emily Medick, Eleanor Whiteman ,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Oliver Millan, William Shimano, Savannah Sproull, Leo Suzuki, Talya Cann, Camilla Wong, |
+| 2 | Sean Folan, Penny Shy, Brianni Benefield, Owen Mihalic,Cody Corcuchia, Breasia Trinh , Kory Lau, Juliet McManus,Maile Bellet, Emerson Tse, Audrey Petersen, Joy Barnes, Cal Gustafson, JP Frye, |
 
 ---
 
@@ -2013,10 +2013,10 @@ Name: Air Powered Rocket (K-5)
 Schedule  
 | Available | Students |
 | --------- | -------- |
-| 12 | Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas, |
-| 12 | Eashan Pendala, Rubi Sadiq, Alex Hui, Thaïs Jackson, |
-| 7 | Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson,Ava Ganir, Mason Lei, Leander Lorek, Maya Hubanov, , |
-| 2 | Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei, |
+| 3 | Vivienne (Mina) Makiyama, Kohki Cabarles, Laszlo Diamond, Emma Rivas,Sarah Pollock, Jasper Wolf, Patrick Joyce, Selin Urhan, Vivienne Maffei,Kylie Wong, Mien Brooks, Kazuya Yoshimura, Hayes Swanson, |
+| 2 | Jojo Pujari, Pearse McAuley, Corban Decker, Gabriel Flores Gonzalez, Peyton Zhao,Isamu Kinebuchi, Alex Gladstone, Camila Casal, Michael Williams, Jeanine Ip,Jacob Torres, Crystal Kong,  Yujing (Michelle) Yao, Sophia Nguyen, |
+| 2 | Elijah Han, Harvey Cordova, Maya Lee, Shea Dowdle,Mathias, Radar, Arsh, Sena, Devin ,Sofia Fiore, Finn Allen, Nor Arafa, Damian Liu, Karina Surkus, |
+| 2 | Lina Minami, Lena Young, Yuki Mackenzie, Gustavo Ruiz,Momoka Takai, Emi Visse, Maisie Choi, Freddy MacKenzie, Rohan Kanwar,Francisc, Enzo, Mabel, Ciara, Aarnika, |
 
 ---
 

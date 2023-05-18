@@ -102,9 +102,11 @@ func main() {
 			continue
 		}
 		sessions := 0
-		for _, capacity := range workshop.sessionCapacities {
+		var sessionIndex []int
+		for i, capacity := range workshop.sessionCapacities {
 			if capacity > 0 {
 				sessions++
+				sessionIndex = append(sessionIndex, i)
 			}
 		}
 		if sessions != 2 {
@@ -115,6 +117,9 @@ func main() {
 			booked := bookWorkshopIfAvailable(workshop, group)
 			if booked {
 				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
+				if workshop.sessionCapacities[sessionIndex[0]] < workshop.capacity/2 {
+					break
+				}
 			}
 		}
 	}
