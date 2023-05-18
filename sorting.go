@@ -7,8 +7,10 @@ import (
 	"log"
 	"math/rand"
 	"os"
+	"sort"
 	"strconv"
 	"strings"
+	"time"
 )
 
 const (
@@ -68,6 +70,7 @@ func main() {
 	}
 
 	log.Printf("====Science classes with only 1 session===\n")
+	shuffle(groups)
 	for _, workshop := range sciWorkshops {
 		sessions := 0
 		sessionIndex := 0
@@ -81,12 +84,11 @@ func main() {
 			continue
 		}
 
-
 		for _, group := range groups {
 			booked := bookWorkshopIfAvailable(workshop, group)
 			if booked {
 				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
-				if workshop.sessionCapacities[sessionIndex] < workshop.capacity/2 {
+				if workshop.sessionCapacities[sessionIndex] < workshop.capacity/2-5 {
 					log.Printf("At half capacity for %s", group.teacher, group.name, workshop.name)
 					break
 				}
@@ -117,7 +119,7 @@ func main() {
 		}
 	}
 
-	log.Printf("====Restricted Science classes with only 2 session===\n")
+	/*log.Printf("====Restricted Science classes with only 2 session===\n")
 	for _, workshop := range sciWorkshops {
 		if workshop.minGrade == 0 && workshop.maxGrade == 5 {
 			continue
@@ -138,9 +140,10 @@ func main() {
 				log.Printf("Booked %s/%s to special workshop: %s", group.teacher, group.name, workshop.name)
 			}
 		}
-	}
+	}*/
 
 	log.Printf("\n====Booking Art Classes===\n")
+	shuffle(groups)
 	var needsRandomArt []group
 	for _, group := range groups {
 		sessionsToBook := numArtSessions - group.sessionsBooked(artWorkshop)
@@ -169,6 +172,7 @@ func main() {
 	}
 
 	log.Printf("\n\n====Booking Science Classes===\n")
+	shuffle(groups)
 	var needsRandomSci []group
 	for _, group := range groups {
 		sessionsToBook := numSciSessions - group.sessionsBooked(sciWorkshop)
@@ -195,49 +199,6 @@ func main() {
 			needsRandomSci = append(needsRandomSci, group)
 		}
 	}
-
-	/*fmt.Printf("Science classes with only 1 session: %d\n", len(needsRandomArt))
-	for _, workshop := range sciWorkshops {
-		sessions := 0
-		for _, capacity := range workshop.sessionCapacities {
-			if capacity > 0 {
-				sessions++
-			}
-		}
-		if sessions != 1 {
-			continue
-		}
-
-		for i, group := range needsRandomSci {
-			booked := bookWorkshopIfAvailable(workshop, group)
-			if booked {
-				needsRandomSci = remove(needsRandomSci, i)
-				break
-			}
-		}
-	}*/
-
-	/*for _, workshop := range artWorkshops {
-		//if workshop.minGrade < 3 {
-		//	continue
-		//}
-
-		for i, group := range needsRandomArt {
-			if group.grade < 3 {
-				continue
-			}
-
-			booked := bookWorkshopIfAvailable(workshop, group)
-			if booked {
-				needsRandomArt = remove(needsRandomArt, i)
-				break
-			}
-
-		}
-		
-	}
-
-	fmt.Printf("Unbooked art: %d\n", len(needsRandomArt))*/
 
 	// Assign random sessions if needed
 	log.Printf("\n\n====Booking Random Art Classes===\n")
@@ -362,7 +323,6 @@ func readGroups(file string) ([]group, error) {
 			parentIDs = append(parentIDs, parentID)
 		}
 
-
 		groups = append(groups, group{
 			teacher:   record[1],
 			grade:     grade,
@@ -379,9 +339,18 @@ func readGroups(file string) ([]group, error) {
 }
 
 func printGroups(groups []group) {
+	sort.Slice(groups, func(i, j int) bool { 
+		idi := fmt.Sprintf("%s-%d-%s  \n", strings.ReplaceAll(groups[i].teacher, " ", "_"), groups[i].grade, strings.ReplaceAll(groups[i].name, " ", "_"))
+		idj := fmt.Sprintf("%s-%d-%s  \n", strings.ReplaceAll(groups[j].teacher, " ", "_"), groups[j].grade, strings.ReplaceAll(groups[j].name, " ", "_"))
+		return idi < idj
+	})
 	for _, group := range groups {
 		fmt.Printf("Teacher = %s  \n", group.teacher)
-		fmt.Printf("Grade = %d  \n", group.grade)
+		if group.grade == 0 {
+			fmt.Printf("Grade = K  \n", group.grade)
+		} else {
+			fmt.Printf("Grade = %d  \n", group.grade)
+		}
 		fmt.Printf("ID = %s-%d-%s  \n", strings.ReplaceAll(group.teacher, " ", "_"), group.grade, strings.ReplaceAll(group.name, " ", "_"))
 		fmt.Printf("Students =  %v  \n", strings.Join(group.students, ","))
 		/*fmt.Printf("Art Rankings:")
@@ -404,6 +373,7 @@ func printGroups(groups []group) {
 				fmt.Printf("| %s | %s | %s |\n", workshop.id, workshop.name, workshop.room)
 			} else {
 				fmt.Printf("| - | - | - |\n")
+				log.Printf("====UNFILLED SLOT====\n")
 			}
 		}
 		fmt.Println("\n---\n")
@@ -420,7 +390,7 @@ type workshop struct {
 	sessionCapacities []int
 	room              string
 
-	sessionGroups     map[int][]group
+	sessionGroups map[int][]group
 }
 
 func (w workshop) getAvailableSessions(group group) []int {
@@ -601,5 +571,15 @@ func idToKind(id string) int {
 }
 
 func remove(slice []group, s int) []group {
-    return append(slice[:s], slice[s+1:]...)
+	return append(slice[:s], slice[s+1:]...)
+}
+
+func shuffle(vals []group) {
+  r := rand.New(rand.NewSource(time.Now().Unix()))
+  for len(vals) > 0 {
+    n := len(vals)
+    randIndex := r.Intn(n)
+    vals[n-1], vals[randIndex] = vals[randIndex], vals[n-1]
+    vals = vals[:n-1]
+  }
 }
